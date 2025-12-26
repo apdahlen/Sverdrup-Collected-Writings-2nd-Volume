@@ -1,0 +1,98 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* “Aabenbarelse” carries strong theological weight: revelation as divine self-disclosure, not mere appearance.
+* “Menighed” denotes both the visible church and the mystical body of Christ; must not be flattened to “congregation” in a sociological sense.
+* “Kjærligheds Handling” implies concrete acts of redemptive love, not generic benevolence.
+* “Synd i sit Kjød” echoes Pauline anthropology (flesh as seat of sin), requiring careful rendering.
+* “Lemmer” (members/limbs) is organic, Pauline body imagery.
+
+Syntactic Hazards:
+
+* Long, balanced sentences with adversative pivots (“men”, “derimod”, “thi”).
+* Theological argument unfolds through contrast rather than discrete propositions.
+* Embedded scriptural quotations must retain cadence and coherence.
+
+Theological Hazards:
+
+* Distinction between divine perfection and ecclesial imperfection.
+* Doctrine of simul iustus et peccator as applied corporately to the Church.
+* Visible vs. invisible Church tension.
+* Sanctification grounded in Christ’s self-giving, not ecclesial achievement.
+
+Voice Hazards:
+
+* Solemn, didactic Lutheran tone must not be softened.
+* Confessional honesty about sin within the Church must retain gravity.
+* Rhetorical weight of Scripture citations must be preserved.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Synd i sit Kjød” – Pauline idiom (Rom. 7); KJV: “sin that dwelleth in me.”
+* “Forlad os vor Skyld” – direct echo of the Lord’s Prayer (Matt. 6:12, KJV: “forgive us our debts”).
+* “Døde Lemmer” – metaphor for nominal or unregenerate church members (cf. Rev. 3:1).
+* “Mørkets Magt” – biblical phrase for the power of sin/Satan (Luke 22:53; Col. 1:13).
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Initial concession: likeness between God’s revelation and the Church’s revelation.
+* Immediate qualification: essential difference in perfection.
+* Explanation: God reveals Himself perfectly in Christ; the Church does not.
+* Expansion: the Church’s acts of love are always tainted by sin.
+* Consequence: continual need for repentance.
+* Description: the visible Church’s mixed and often scandalous appearance.
+* Transition: Scripture’s twofold way of speaking about the Church.
+* Scriptural grounding: unity and holiness of the one, true Church in Christ.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matt. 16:18 – Christ building His Church.
+* Eph. 1:22–23 – Church as Christ’s body and fullness.
+* Eph. 5:25–27 – Christ’s self-giving love and sanctification of the Church.
+* Col. 1:18 – Christ as head of the body.
+* Acts 20:28 – Church purchased by Christ’s blood.
+* Lord’s Prayer (Matt. 6:12).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+The text maintains a sober, penitential realism combined with exalted Christology. Warnings about ecclesial sinfulness are not mitigated by optimism but held in tension with Christ’s perfect work.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” (must) retains necessity, not suggestion.
+* “kan kun” (can only) preserves limitation.
+* Negative capacities (“aldrig fuldkommen”) must remain absolute.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed – “Church.”
+* Aabenbarelse – “revelation.”
+* Kjød – “flesh.”
+* Lemmer – “members.”
+* Herlighed – “glory.”
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Body imagery (head, members, limbs).
+* Stains, spots, blemishes as moral corruption.
+* Light/darkness contrast.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Contrast between divine perfection and ecclesial weakness.
+* Contrast between the Church’s hidden glory and its visible blemishes.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+Sentences are preserved in length and rhythm where possible, with semicolons and parallel clauses retained to reflect sermonic flow.
+
+STEP 11: FINAL TRANSLATION
+
+APD: Independent AI verification 
+
+But we add at once that, as there is a likeness between the revelation of God and the revelation of the Church, so there is also a difference. For God has revealed Himself in the Son in a perfect manner, both through the perfect Word and the perfect act of love; the Church, on the other hand, can reveal itself in a perfect manner only through the Word and the Sacraments, and even there it will often fail to do what it nevertheless, by the grace of God, is able to do.
+
+By contrast, its act of love is never perfect. It has sin in its flesh, and even in its best activity this will cleave to the Church’s work; therefore the Church, like every individual Christian, must daily pray: “forgive us our debt!” Thus the visible Church will often present a spectacle which is not only frail and lowly, but also defiled by sin. Its glory is not merely hidden; it is, alas, often darkened by hideous stains. Among these stains are all the “dead members” of the Church; yet even the living members must many a time complain of themselves that the power of darkness is great in their flesh.
+
+Holy Scripture speaks of the Church in two ways. It speaks of one Church and of many churches. It is of the one, indivisible Church that Jesus Christ speaks when He says to Peter: Thou art Peter, and upon this rock I will build my Church (Matt. 16:18). It is of this Church that Paul writes to the Ephesians: And gave Him to be Head over all things to the Church, which is His body, the fullness of Him that filleth all in all (Eph. 1:23). And again: Christ loved the Church, and gave Himself for it; that He might sanctify it, having cleansed it by the washing of water with the Word; that He might present it to Himself a glorious Church, not having spot or wrinkle (Eph. 5:25–27; compare Col. 1:18; Acts 20:28).
