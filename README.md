@@ -43,7 +43,13 @@ Each chapter or document will be accompanied by its own README or header explain
 
 ## Note on Translation Method
 
-The English translations in this repository are produced using **AI-assisted translation**, guided by explicit scholarly instructions designed to preserve semantic fidelity, theological precision, rhetorical cadence, and historical voice. All translations are critically reviewed with close reference to the original Norwegian sources.
+The English translations in this volume were generated primarily through artificial
+intelligence–based language tools operating under detailed scholarly instructions.
+These translations were subsequently reviewed, evaluated, and corrected through an
+independent secondary AI process for semantic, theological, and stylistic fidelity
+to the original Norwegian sources. Editorial responsibility in the present edition
+is limited to methodological design, critical oversight, and presentation; the
+original source texts remain authoritative.
 
 Also included in the repository are:
 
