@@ -1,0 +1,95 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Menighed" / "Menighederne": not merely a congregation but the ecclesial body as a spiritual organism.
+* "Optagelse" / "Udstødelse": formal reception and exclusion (church discipline), not casual inclusion/exclusion.
+* "kjødelige Grunde": Pauline sense of "the flesh" versus the Spirit, not merely bodily motives.
+* "Frivillighedens Princip": theological freedom grounded in the Spirit, not modern voluntarism.
+* "Folkefit": archaic term meaning a national/ethnic religion; must not be modernized.
+
+Syntactic Hazards:
+
+* Long, layered sentences with causal chains and contrasts.
+* Semicolon logic and explanatory clauses must be preserved.
+* Parallelism between organism imagery and ecclesiology.
+
+Theological Hazards:
+
+* Distinction between Spirit and flesh in church formation.
+* The church as the Body of Christ.
+* Church discipline as a holy duty.
+* The corruption of ecclesiology through state control.
+
+Voice Hazards:
+
+* Earnest, didactic, Lutheran exhortational tone.
+* Warning against spiritual dilution.
+* Do not soften critique of state church coercion.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Det ligger i Sagens Natur": idiom meaning "it is inherent in the nature of the matter".
+* Organism imagery (self-preservation, foreign matter): biological metaphor for ecclesial purity.
+* "Guds Aand" vs. "Kjødet": Pauline (cf. Galatians 5).
+* "Kristi Legeme": 1 Corinthians 12; Ephesians 1.
+* "i Luthers Fodspor": metaphor for doctrinal continuity.
+* "fæstes i Armene paa Fyrster og Politikere": vivid image of political capture.
+* KJV resonance suggested for Spirit/flesh, Body of Christ, holy duty.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: Growing churches must guard against spiritually unmotivated membership.
+* Support: All living organisms practice self-preservation.
+* Application: The church, as Christ’s Body, must exercise careful admission and discipline.
+* Clarification: Such discipline does not violate spiritual freedom.
+* Historical pivot: Free Church seeks to recover this truth after Lutheran Reformation’s political compromise.
+* Consequence: State control eliminated voluntariness and spiritual agency.
+* Conclusion: Christianity reduced to a national religion, producing grave confusion.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Spirit vs. flesh: Galatians 5; Romans 8.
+* Body of Christ: 1 Corinthians 12.
+* Church discipline: Matthew 18.
+* Freedom of the Spirit: 2 Corinthians 3:17.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain admonitory force regarding false motives.
+* Preserve sharp critique of coercion.
+* Maintain solemn ecclesiological gravity.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maatte" rendered as moral/structural necessity ("must").
+* "selvsagt" rendered as self-evident necessity.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed = Church / Congregation (capitalized where ecclesiological).
+* Guds Aand = Spirit of God / Holy Spirit.
+* Kjødet = the flesh.
+* Frivillighed = freedom / voluntariness (theologically framed).
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Biological organism imagery retained.
+* Political capture imagery preserved.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Descriptive → critical → lamenting progression maintained.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences preserved with controlled punctuation.
+* Sermonic flow maintained.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+It lies in the very nature of the matter that, as the congregations grew older and increased in number and esteem, and as many different reasons arose which might move a person to attach himself to the congregation, the latter was bound to seek to guard itself against the danger that lies in the reception of such members as are not drawn to the congregation by the Spirit of God, but by fleshly motives. All that lives and grows bears within itself the impulse of self-preservation, and seeks to keep at a distance and to remove what is called “foreign matter.” It is therefore also self-evident that the highest and most indispensable of all organisms, the Body of Christ or the Church, was careful both with regard to admission into and exclusion from the congregation. And partly through its officers, and partly through the meetings of the congregation, the Church exercised that oversight which it recognized as its holy duty toward the Lord and His Body. Yet this did not conflict with the principle of freedom; it merely imposed a necessary and justified testing of the nature of that freedom, whether it was the work of the Spirit or of the flesh.
+
+It is these spiritual truths concerning the formation of the congregation which the Free Church seeks to revive in the footsteps of Luther. And there is great need of this; for although Luther knew full well and continually affirmed that the Church is the work of the Holy Spirit and therefore a matter of freedom, yet we all know that the Lutheran Reformation was robbed of so very much of its spiritual character by being fastened in the arms of princes and politicians. And quite particularly there was left no room for freedom or for the work of the Spirit in the formation of the congregation. The Church became merely a part of the state administration, and the congregation only one aspect of national life. And as coercion always rules in the state, it naturally came to rule also in the state church.
+
+The consequence of this was a grievous confusion of concepts, the sum of which, in the sphere of the question of the congregation, may be described thus: that Christianity came to be regarded as a “national religion,”\footnote{The word Folkefit in the original text is an evident OCR or printing error. Based on the comparison to "pagan religions" and the critique of the state church, the intended word was likely Folkereligion ("folk religion") or Folkeskik ("national custom"). The translation "national religion" reflects the author’s argument that Christianity had been reduced from a spiritual choice to a mere cultural or ethnic inheritance. — Present Ed.} like the pagan religions among the pagan peoples; and bonds harder than those of such as religion are scarcely to be found, especially among a people such as our own.
