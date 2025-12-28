@@ -1,0 +1,120 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Embedsforførelse" – office-based seduction or corruption; not mere temptation but systemic misuse of ecclesial office.
+* "Præstevælde" – priestly domination or clerical lordship, not simply leadership.
+* "Sætterne" – sectarians; historically charged term for schismatic groups.
+* "Gudsfornægtelse" – denial of God; strong theological indictment, not mere doubt.
+* "Hierarker" – hierarchs; implies authoritarian church structure.
+* "Ensformighed" – enforced uniformity, not simple unity.
+* "Embedsbegrebet" – concept/doctrine of office; carries ecclesiological weight.
+* "timelige Fordel" – temporal/earthly advantage, often pejorative.
+* "aandelige Arbeide" – spiritual work; must retain theological seriousness.
+
+Syntactic Hazards:
+
+* Extremely long sentences with layered subordinate clauses and semicolon logic.
+* Rhetorical contrasts developed across entire paragraphs.
+* Logical pivots signaled by concessive phrases ("Men vender vi os…", "Det er imidlertid…").
+* Imagistic conclusion (Samson metaphor) integrated into argument.
+
+Theological Hazards:
+
+* Doctrine of calling (Kald) and responsibility of clergy vs. congregation.
+* Nature of the church (visible congregation vs. living children of God).
+* Work of the Spirit distributed to the whole congregation.
+* Freedom of the congregation vs. clerical control.
+* Implicit critique of Roman Catholic priestly supremacy.
+
+Voice Hazards:
+
+* Polemical yet pastoral Lutheran tone.
+* Earnest warning without satire or irony.
+* Prophetic severity toward abuses of power.
+* Sermonic cadence aimed at conscience, not academic detachment.
+
+STEP 2: IDIOM ANALYSIS
+
+* "tærende Gift" – corroding poison; image of slow, internal destruction.
+* "føre Folket i Sætternes Hænder" – handing people over to sectarians; echoes biblical imagery of captivity.
+* "frække Gudsfornægtelse" – brazen denial of God; moral shamelessness implied.
+* "arbeide med utrættelig Iver for Sjælenes Frelse" – pietistic phrase; salvation of souls as active pastoral labor.
+* "fixerer de et Mønster" – they fix or set a pattern; implies rigid spiritual template.
+* "maaler saa andre med dette Maal" – measuring others by this measure; biblical echo (Matt. 7:2).
+* "kvælende Ensformighed" – suffocating uniformity; image of strangling life.
+* "flette Reb og Baand" – weaving ropes and bands; preparation for bondage.
+* Samson imagery – Judges 16; loss of strength through severed covenant sign.
+
+KJV-style equivalents are especially apt for:
+
+* "Sjælenes Frelse" – salvation of souls.
+* "Guds Børn" – children of God.
+* "Trældom" – bondage.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Rejection of one crude form of clerical corruption.
+* Introduction of a second, subtler form that appears virtuous.
+* Description of how this form suppresses congregational responsibility and freedom.
+* Warning that apparent fruitfulness masks long-term spiritual death.
+* Historical-theological claim: this path led to Roman Catholic priestly domination.
+* Resolution of apparent contradiction between the two forms of priestly rule.
+* Identification of shared principles rooted in lust for power.
+* Climactic image: congregation reduced to bondage like Samson shorn of strength.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Measuring others – Matthew 7:2.
+* Gifts given by the Spirit – 1 Corinthians 12.
+* Life vs. death imagery – John 10:10; Romans 8.
+* Samson with shorn hair – Judges 16.
+* Bondage vs. freedom – Galatians 5:1.
+
+These echoes should remain recognizable through diction and cadence reminiscent of the KJV.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain severity in describing poison, denial of God, and bondage.
+* Preserve moral urgency in warnings against clerical overreach.
+* Avoid softening critique of priestly ambition and control.
+* Maintain sermonic exhortation rather than neutral description.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa", "burde", "kan" constructions rendered with strong necessity ("must", "ought", "cannot").
+* Preserve inevitability where the author asserts spiritual consequence.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed – congregation.
+* Kald – calling.
+* Embede – office.
+* aandeligt Liv – spiritual life.
+* Frihed – freedom.
+* Trældom – bondage.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Poison imagery retained as internal, corrosive force.
+* Uniformity as suffocation, not harmony.
+* Ropes and bands as instruments of captivity.
+* Samson metaphor preserved fully, not explained away.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Contrast between apparent goodness and actual destruction.
+* Shift from analytical critique to prophetic warning.
+* Final image delivers stark, sobering conclusion.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences retained where rhetorical buildup is essential.
+* Semicolons and commas used to preserve breath and pacing.
+* Translation suitable for oral proclamation.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+But if we turn ourselves, with the utmost abhorrence, from this kind of seduction of office, which alas in the Free Church is like a corroding poison that all too quickly leads the people partly into the hands of sectarians, partly into brazen denial of God, there is yet another form of priestly domination which appears so good that we are almost tempted to wish for more of it than is found in America. For there are pastors who, penetrated by the consciousness of their great responsibility and their holy calling, labor with untiring zeal for the salvation of souls, but who forget the congregation’s own responsibility and the congregation’s calling to labor with the gifts which the Lord has given it by His Spirit. They proceed on the assumption that the congregation is no congregation at all unless it consists of nothing but, or almost nothing but, living children of God. And in order to know who these children of God are, they establish a mold of them according to their own experience, and then measure others by this measure. When it then appears that this uniform does not fit all, there is accordingly only a poor congregation left, and the pastor becomes ever more zealous to draw as near as possible, by his influence alone, to the goal of uniformity. This kind of hierarch also has a decided enmity toward the freedom of the congregation, toward lay activity, toward all activity in the congregation that is not directed by himself. They indeed labor for the Christian life according to their understanding of it; but since they hinder the true movement of life, they readily kill the life of the congregation by a suffocating uniformity. For this kind of endeavor the Free Church also affords a very wide field, and it invites this sort of zealous labor, because for a time it appears exceedingly fruitful and edifying. It is, however, precisely along this path that the Catholic Church has come to its perfect priestly dominion.
+
+These two forms of priestly rule might seem altogether to repel one another and to be incapable of agreement. Experience, however, shows the contrary. The Free Church has at all times had both forms, and it is the lust for power that reconciles the sharpest oppositions. There are certain principles in which these two kinds of pastors agree exceedingly well. They can, namely, very easily agree concerning the concept of office. They are both agreed that it is directly from God; for the one sees in it a support for his temporal advantage, the other sees in it a help for his spiritual work. They are both agreed that the will of the pastor ought, as far as possible, to be law in the congregation; for thereby they could both most easily advance their plans. They are both agreed that all spiritual activity which they cannot control is exceedingly dangerous, each for his own reasons. And thus there are woven, by these two kinds of pastors, certain remarkable ropes and bands with which they would bind the congregation. But in truth it is only when they have cut off the congregation’s true relation to God that they both attain their goal. Like a Samson with his head shorn, the giant is then easily led into bondage.
