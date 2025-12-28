@@ -1,6 +1,8 @@
 \contentsline {section}{\numberline {1}The Free Church Body}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}The Congregation}{1}{subsection.1.1}%
 \contentsline {section}{\numberline {2}Do You Want a Congregation?}{9}{section.2}%
-\contentsline {section}{\numberline {3}The Conditions for the Formation of Congregations}{17}{section.3}%
-\contentsline {section}{\numberline {4}The Significance of Mission for the Church}{23}{section.4}%
-\contentsline {section}{\numberline {5}The Unity of the Believers}{30}{section.5}%
+\contentsline {section}{\numberline {3}Sixth Section}{17}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Congregation and Congregational Life}{17}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The Conditions for the Formation of Congregations}{24}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}The Significance of Mission for the Church}{30}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}The Unity of the Believers}{37}{subsection.3.4}%
