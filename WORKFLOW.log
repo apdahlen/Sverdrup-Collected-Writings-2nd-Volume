@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  28 DEC 2025 15:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  28 DEC 2025 22:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,72 +462,73 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-(Forward/Forward.tex [2] [3]) [4] (Pages54to64/Pages54to64.tex
-<OpenImage.png, id=87, 1593.70406pt x 365.86688pt>
-File: OpenImage.png Graphic file (type png)
-<use OpenImage.png>
-Package pdftex.def Info: OpenImage.png  used on input line 3.
-(pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
-
+(Forward/Forward.tex [2] [3]) [4] (Pages1to4/Pages1to4.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 
-      [1 <./OpenImage.png>] [2] [3] [4] [5] [6]
+l.7 
+     [1]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 75.
+(Font)              <10> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 75.
+(Font)              <7> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 75.
- [7])
-(Pages65to72/Pages65to72.tex [8] [9] [10] [11] [12] [13]) [14]
-(Pages73to84/Pages73to84.tex [15] [16] [17] [18] [19] [20] [21]) [22]
-(Pages182to191/Pages182to191.tex
+(Font)              <5> on input line 20.
+ [2]) [3] (Pages54to64/Pages54to64.tex
+<OpenImage.png, id=140, 1593.70406pt x 365.86688pt>
+File: OpenImage.png Graphic file (type png)
+<use OpenImage.png>
+Package pdftex.def Info: OpenImage.png  used on input line 3.
+(pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
+ [4 <./OpenImage.png>] [5]
+[6] [7] [8] [9] [10]) (Pages65to72/Pages65to72.tex [11] [12] [13] [14] [15]
+[16]) (Pages73to84/Pages73to84.tex [17] [18] [19] [20] [21] [22] [23] [24])
+(Pages85to100/Pages85to100.tex [25] [26] [27] [28] [29] [30] [31] [32] [33]
+[34] [35] [36]) [37] (Pages182to191/Pages182to191.tex
 File: OpenImage.png Graphic file (type png)
 <use OpenImage.png>
 Package pdftex.def Info: OpenImage.png  used on input line 2.
 (pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
- [23] [24] [25] [26] [27] [28] [29]) [30]
-(Pages344to353/Pages344to353.tex
+ [38] [39] [40] [41]
+[42] [43] [44]) [45] (Pages344to353/Pages344to353.tex
 File: OpenImage.png Graphic file (type png)
 <use OpenImage.png>
 Package pdftex.def Info: OpenImage.png  used on input line 3.
 (pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
- [31] [32] [33] [34] [35] [36]) [37]
-(Pages354to361/Pages354to361.tex
+ [46] [47] [48] [49]
+[50] [51]) [52] (Pages354to361/Pages354to361.tex
 File: OpenImage.png Graphic file (type png)
 <use OpenImage.png>
 Package pdftex.def Info: OpenImage.png  used on input line 3.
 (pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
- [38] [39] [40] [41] [42]) [43]
-(Pages362to370/Pages362to370.tex
+ [53] [54] [55] [56] [57])
+[58] (Pages362to370/Pages362to370.tex
 File: OpenImage.png Graphic file (type png)
 <use OpenImage.png>
 Package pdftex.def Info: OpenImage.png  used on input line 3.
 (pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
- [44] [45] [46] [47] [48] [49]) [50]
+ [59] [60] [61] [62] [63] [64]) [65]
 (Pages371to381/Pages371to381.tex
 File: OpenImage.png Graphic file (type png)
 <use OpenImage.png>
 Package pdftex.def Info: OpenImage.png  used on input line 3.
 (pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
- [51] [52] [53] [54] [55] [56] [57]) [58]
+ [66] [67] [68] [69] [70] [71] [72]) [73]
 (WORKFLOW.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: 5454F96EEB5C6CFE91E3EFCFA999C34C;2505.
+(rerunfilecheck)             Checksum: A6993432BF1E2B615FB1C1A7FAD4F109;3661.
  ) 
 Here is how much of TeX's memory you used:
- 11618 strings out of 474486
- 188448 string characters out of 5743754
+ 11673 strings out of 474486
+ 189430 string characters out of 5743754
  1936542 words of memory out of 5000000
- 33467 multiletter control sequences out of 15000+600000
- 628712 words of font info for 151 fonts, out of 8000000 for 9000
+ 33480 multiletter control sequences out of 15000+600000
+ 629044 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,8n,67p,2114b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -538,9 +539,9 @@ C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 /Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (63 pages, 907559 bytes).
+Output written on WORKFLOW.pdf (78 pages, 969651 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 39518 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 507 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 39574 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -1,0 +1,92 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Samfund" — can mean fellowship, association, or corporate body; must not be reduced to merely "society" in a secular sense.
+* "Menighed" — congregation/church assembly; must be rendered consistently and distinguished from later institutional "Church."
+* "Kirke" — here polemically marked as an external, institutional body; requires careful contextual differentiation.
+* "Trelldomsaag" — metaphor of bondage/slavery; strong rhetorical force must be preserved.
+* "Stedsmenighed" — local congregation; avoid modern bureaucratic tone.
+
+Syntactic Hazards:
+
+* Long, multi-clause sentences with concessive pivots ("dels… dels… men paa den anden Side…").
+* Sermonic cadence using semicolons and cumulative argumentation.
+* Parenthetical clarifications that must remain integrated, not flattened.
+
+Theological Hazards:
+
+* Unity of church grounded in Eph. 4 imagery (one Lord, one faith, one baptism).
+* Tension between visible church structures and congregational freedom.
+* Definition of Church from Augsburg Confession Art. VII must retain confessional precision.
+
+Voice Hazards:
+
+* Earnest, cautionary Lutheran tone warning against ecclesial tyranny.
+* Historical consciousness of church abuse of authority.
+* Exhortational seriousness; modernization would weaken gravity.
+
+STEP 2: IDIOM ANALYSIS
+
+* "én Herre, én Tro, én Daab, én Gud, én Aand" — direct echo of Ephesians 4; KJV cadence appropriate.
+* "falder under det gamle Trelldomsaag" — biblical yoke imagery (Gal. 5:1); must remain vivid.
+* "første Kjærligheds Glød" — Revelation 2 echo; preserve metaphor of ardent love.
+* "ett Hjerte og én Sjel" — Acts 4:32; KJV phrasing ideal.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: The most difficult task of the free American church is forming proper inter-congregational structures.
+* Affirmation: Congregations must unite due to spiritual unity and practical necessity.
+* Warning: Historical evidence shows institutional churches often oppress congregational freedom.
+* Limitation: Scripture offers less explicit guidance on supra-congregational structures.
+* Clarification: NT usage of "Menighed" covers both local and universal church.
+* Historical ideal: Apostolic age as model of organic unity without oppressive structure.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Ephesians 4:4–6 — unity formula.
+* Matthew 16:18 — Christ building His church.
+* Augsburg Confession Art. VII — confessional definition rooted in Scripture.
+* Acts 4:32 — unity of heart and soul.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain warnings against ecclesial domination.
+* Preserve seriousness of historical caution.
+* Avoid softening critique of institutional "Kirke."
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa" — must, not should.
+* "kan … umulig" — cannot, impossible.
+* Preserve necessity and impossibility without mitigation.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed — Congregation.
+* Kirke (institutional) — Church (capitalized, contextualized).
+* Samfund — Fellowship / communion (context-sensitive but consistent).
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Yoke of bondage.
+* Body and head imagery (Christ as Head).
+* Fire/glow of first love.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Balance between affirmation of unity and warning against abuse.
+* Maintain contrast between apostolic purity and later corruption.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Retain long sentences where rhetorical force depends on accumulation.
+* Preserve semicolon logic and sermonic rhythm.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+\Subsection{THE FELLOWSHIP OF THE CONGREGATIONS}
+
+Of all the tasks which the free Church in America has to resolve, there is perhaps none so difficult as that of finding the right form for the mutual connection of the congregations. It is something concerning which all are agreed, that the individual congregations must unite with one another in fellowship. This rests in part upon the fact that they have one Lord, one faith, one baptism, one God, one Spirit; and this inward bond impels them also to form outward fellowships. In part it arises from this as well, that there are certain ecclesiastical affairs which can scarcely—indeed, we may readily say, cannot—be advanced without the united strength of several congregations. But on the other hand, throughout the whole of church history it has shown itself that the “Church”—by which we then understand the outward society of many congregations—has almost constantly been such an enemy of the congregation and of its freedom, that this must counsel us to the utmost caution in our manner of proceeding in this matter, lest we once again fall under the old yoke of bondage. To this must be added that in this respect we are far from having the same clear and definite guidance in the Word of God as when the question concerns the nature and right of the individual congregation.
+
+We have already pointed out that the word “Church” is unknown in the New Testament. It would be incorrect if anyone were to draw from this the conclusion that there was therefore no Church in the days of the apostles, and that for this reason we ought to have no Church either. The New Testament uses, as we have already shown, the word “congregation” both of the individual Christian local congregation, which was formed everywhere the Word of God was preached, and of the whole great multitude of Christians, regardless of where they might be found. In such passages as, for example, Matthew 16:18: “Upon this rock I will build my congregation,” the word congregation therefore becomes approximately the same as the Church, which in our Lutheran Confession is described thus: “The Church is the congregation of saints, in which the Gospel is rightly taught and the Sacraments are rightly administered” (Augsburg Confession, Article VII). In this sense there has naturally always been—and perhaps especially in the days of the apostles—a holy, catholic, Christian Church. In the apostolic age, when the congregation stood in the glow of its first love, all congregations were inwardly bound together by a living love both toward one another and toward the Head, Christ, so that they were more than at any later time one people with “one heart and one soul.” There has scarcely ever been greater and more intimate fellowship among all Christians than precisely then.

@@ -1,0 +1,94 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Afsnit", "Stykke" used structurally, not merely as paragraphs.
+* "Klargjøre" carries sense of doctrinal clarification, not mere explanation.
+* "Menighed" is theological: congregation/church as spiritual body.
+* "Frigjørelse" and "Levendegjørelse" are loaded with soteriological and ecclesiological nuance.
+* "Konferentsen" refers to a specific ecclesial body, not a generic meeting.
+* "Foreningen" denotes a historical church-union process.
+* "Kald" and "Ansvar" carry vocational-theological weight.
+
+Syntactic Hazards:
+
+* Very long bracketed sentence with multiple subordinate clauses.
+* Parenthetical dashes marking historical asides.
+* Accumulative logic that should not be broken into short modern sentences.
+
+Theological Hazards:
+
+* Concepts of church principle, holiness, liberation, vivification.
+* Understanding "frikirkelig Retning" within Lutheran ecclesiology.
+* "Guds ufortjente Naade" must retain doctrinal sharpness.
+
+Voice Hazards:
+
+* Editorial yet solemn tone.
+* Exhortational warning at the close must retain gravity.
+* Risk of flattening historical struggle into neutral prose.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Hvorom gjælder det?" — idiomatic theological question: What is truly at stake?
+* "i Foreningstidens rivende Strøm" — metaphor of an overwhelming current.
+* "slap Hovedsagen af Sigte" — idiom meaning to lose sight of the central matter.
+* "manende og advarende" — exhortational, prophetic register.
+
+KJV Parallels:
+
+* "What is at stake" aligns with biblical disputation language.
+* "By the unmerited grace of God" echoes Pauline diction.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Identification of the First Section as principial introduction.
+* Explanation of historical context and ecclesial struggle.
+* Emphasis on continuity of concern for the congregation.
+* Assertion of Sverdrup’s role at decisive historical moments.
+* Climactic exhortation: the congregation is the central concern.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Implicit Pauline language: calling, responsibility, grace.
+* Ecclesiology framed in New Testament terms of holiness and life.
+* Prophetic tone of warning reminiscent of apostolic admonition.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain earnest editorial gravity.
+* Retain sense of struggle, purification, and maturation.
+* Preserve the admonitory closing sentence without dilution.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa udholde" rendered as "had to endure," not softened.
+* "med fuld Ret" preserved as moral certainty.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed = congregation.
+* Frikirke = Free Church.
+* Naade = grace.
+* Kald = calling.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Retain imagery of current/stream.
+* Keep language of fruit-bearing and maturation.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Historical explanation balanced with exhortation.
+* Calm narration contrasted with urgent warning.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long-period sentence structure.
+* Maintain dash interruptions as rhetorical pauses.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+\section{First Section}
+
+[Under this Section are grouped some of the articles which are particularly suited to clarify the principial side of the Christian congregation, or, in other words, to supply the answer to the question standing over the first piece: “What is at stake?” This piece is therefore also to be regarded in a special sense as an introduction to this volume, inasmuch as it both presents the question from a principial point of view and at the same time intimates its practical significance for the solution of our ecclesiastical task as an Evangelical Lutheran Free Church in this land. It also appeared at a time when the “Conference” was passing through severe inner conflicts, while at the same time it had to endure violent attacks from without. But it was precisely in this period that the free-church direction within this church body was purified and matured to a clear consciousness of its calling and its responsibility toward our people and its ecclesiastical task. — The second piece, “The Holiness of the Congregation,” is a small series of articles from the period immediately prior to “the Union,” and for this very reason acquires increased interest as a testimony that the author never lost sight of the main matter, not even in the rushing current of the time of union. — The third and fourth pieces, “The Liberation of the Congregation” and “The Vivification of the Congregation,” appeared at the time when the failed attempt at union, by the unmerited grace of God, set as its fruit “The Lutheran Free Church.” The statements by Professor Sverdrup included in this Section were thus without exception published at what we may with full right designate as important turning points in the history of our Church. At every decisive stage of development he stepped forward with his admonishing and warning word: Forget not that it is the Congregation that is at stake. — Ed.]

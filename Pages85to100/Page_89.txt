@@ -1,0 +1,108 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Menighed" (congregation/church community as living body, not mere assembly)
+* "Kirke" (institution vs. spiritual body)
+* "Myndighed" (authority with juridical and spiritual force)
+* "Lærestridigheder" (doctrinal controversies, not generic disputes)
+* "Forargelser" (scandals, offenses in a biblical sense)
+* "Hedningemasserne" (pagan masses; carries evaluative theological weight)
+* "Geistligheden" (the clergy as a distinct estate)
+* "læge" (the unlearned/laity, not medical sense)
+
+Syntactic Hazards:
+
+* Long cumulative sentences with multiple rhetorical pivots
+* Semicolon logic and additive reasoning
+* Embedded metaphors within argumentation
+* Shifts between descriptive narrative and theological judgment
+
+Theological Hazards:
+
+* Distinction between Church as living body vs. institutional authority
+* Authority, judgment, and truth in the Church
+* Concept of living vs. dead congregations
+* Mission, conversion, and nominal Christianity
+
+Voice Hazards:
+
+* Strong polemical tone against clericalism
+* Lamentational imagery
+* Prophetic warning against institutional decay
+* Earnest, sermonic cadence
+
+STEP 2: IDIOM ANALYSIS
+
+* "Kirken selv" – not merely representative but ontological identity
+* "tale med Myndighed" – echo of Christ speaking with authority (Matt. 7:29)
+* "Sandheden kan have Fremgang mod Løgnen" – Johannine contrast of truth vs. falsehood
+* Agricultural metaphors (field, stones, plants) echo Parable of the Sower (Matt. 13)
+* "levende Stene" – clear echo of 1 Peter 2:5 (KJV: "lively stones")
+* "paavirkes" – passive exposure rather than living participation
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+1. Initial legitimacy of episcopal order for church welfare
+2. Emergence of the idea that bishops are the Church itself
+3. Practical crises leading to reliance on clerical authority
+4. Shift from Church-as-community to Church-as-authority
+5. Formation of clergy as a superior body over laity
+6. Identification of this trajectory as leading to the Papacy
+7. Temporary restraint due to presence of living congregations
+8. Turning point with Constantine and imperial Christianity
+9. Destruction of the living congregation through mass conversion
+10. Replacement of living communities with institutional structures
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 7:29 – speaking with authority
+* 1 Peter 2:5 – living stones
+* Matthew 13 – stony ground imagery
+* Cross imagery – empire bowing to the Cross
+* Mission language – truth vs. falsehood
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+The translation must retain:
+
+* Sharp critique of clerical domination
+* Lament over spiritual devastation
+* Unsoftened judgment of nominal Christianity
+* Prophetic seriousness
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa" / "maatte" – must
+* "kunde" – could with real capability
+* "vilde man finde" – conditional with necessity
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed = congregation
+* Kirke = Church
+* Geistligheden = clergy
+* Myndighed = authority
+* levende Stene = living stones
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Field oversown with stones
+* Living plants vs. dead masses
+* Grave and monuments
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Order → danger → catastrophe → lament
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long, flowing sentences preserved
+* Rhetorical questions retained
+* Balanced clauses and parallelisms
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+All this was indeed perfectly in order, and a necessary matter for the outward and inward welfare of the Church. But there soon arose the thought that the bishops were not merely the representatives of the Church, but that they were in fact the Church itself. Under the many difficult and intricate conditions in which the congregations found themselves through doctrinal controversies and other offenses, there arose a continual question: who shall decide the dispute, who shall judge the matter, who can speak with authority, so that peace and rest may again be established, and the truth may have free course against falsehood? And it lay near at hand to answer: “the Church”; and if one then asked where the Church was, the answer was given: it is the bishops, or the assembly of bishops. And thus the notion soon made its way that the Church was an authority over the congregation; and if one would find this Church, it must be found in the clergy. The Church thus became a new society above the congregation, and it naturally came to consist of the learned and initiated, in contrast to the unenlightened and the unlearned. This is the beginning of the system which ended in the Papacy.
+
+Yet it remained only a thought so long as there was still some real Christian congregation. For life was still strong enough to hinder the corrupting consequences of such views. But then came the time when the Roman Empire had to bow before the Cross, and Constantine passed over to Christianity. The bitter fruit which the Church reaped from this was that the congregation was destroyed. In one great, unceasing stream the pagan masses poured in over the Church; and when one came to look at what had been bound together, the whole field of the Church lay strewn with gravel and sand and great stones, and only here and there did a little blade of grass sprout, dry and withering, between the stones. But instead of the living, little plantings of the Lord, which Christianity had created round about in the Roman Empire, instead of the living congregations built of living stones, there arose great, proud church buildings of dead stones, wherein the great pagan masses could gather together to be “influenced” by the Word which the clergy spoke. The congregation had vanished, and over its grave splendid monuments had been raised; that which from henceforth was called by the congregation’s holy name was, in its great majority, a dead mass, within which the clergy carried on their mission. What the congregation had formerly been in relation to the pagan world, that the clergy now became in relation to the “dead congregations.”
