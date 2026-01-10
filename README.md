@@ -1,4 +1,32 @@
-# Georg Sverdrup — On the Congregation
+# Georg Sverdrup (1848–1907): English Translations of Norwegian Lutheran Theology and Addresses
+
+## On the Congregation
+
+This project provides primary-source English translations of 19th-century Norwegian Lutheran theology, making historically important texts accessible to readers of church history, theology, Scandinavian studies, and American religious history. Many of these writings have never before appeared in English.
+
+
+## Example Translation (Excerpt)
+
+Sverdrup’s work is central to understanding the development of congregational ecclesiology, lay responsibility, and theological freedom within modern Lutheranism.
+
+This excerpt provides a glimpse of Sverdrup's style and authority:
+
+>This, then, is the chief question: Do our congregations, as a general rule, correspond to the calling that lies in the name, the Body of Christ?
+>
+>Is Christ manifested in the world through the testimony and walk of the congregations?
+>
+>Do they do the works of Christ and nothing other than the works of Christ?
+>
+>Do they bear all such fruits, and only such fruits, as are well-pleasing to God?
+>
+>Or is there need of some change?
+>
+>We indeed hear a great clamor from those who grumble and say: Here all is in order; here no change is needed, neither with us nor with our congregations. But we also hear a sigh unto the Lord from the breast of those who long for congregation in Spirit and in truth: Pour out the Spirit upon us and upon our congregations, that we might become what we ought to be.
+
+(From Georg Sverdrup, *Do You Want a Congregation?*, 1897)
+
+
+
 
 ## Purpose of the Repository
 
@@ -43,11 +71,9 @@ Each chapter or document will be accompanied by its own README or header explain
 
 ## Note on Translation Method
 
-The English translations in this volume were generated primarily through artificial
-intelligence–based language tools operating under detailed scholarly instructions.
-These translations were subsequently reviewed, evaluated, and corrected through an
-independent secondary AI process for semantic, theological, and stylistic fidelity
-to the original Norwegian sources. Editorial responsibility in the present edition
+The translations in this repository are produced using discipline-driven AI-assisted translation, guided by explicit scholarly constraints and reviewed against the original Norwegian sources. The AI is used as an analytical tool, not as an autonomous translator.
+
+Editorial responsibility in the present edition
 is limited to methodological design, critical oversight, and presentation; the
 original source texts remain authoritative.
 
