@@ -80,8 +80,8 @@ original source texts remain authoritative.
 
 Also included in the repository are:
 
-* [`ExtractNorwegianGPT.txt`](ExtractNorwegianGPT.txt) – the instruction profile governing analysis of the original Norwegian text
-* [`HazardTranslationGPT.txt`](HazardTranslationGPT.txt) – the instruction profile governing identification and mitigation of translation hazards in English
+* [ExtractNorwegianGPT](ExtractNorwegianGPT.txt) – the instruction profile governing analysis of the original Norwegian text
+* [HazardTranslationGPT](HazardTranslationGPT.txt) – the instruction profile governing identification and mitigation of translation hazards in English
 
 These files document the translation methodology and constraints applied throughout the project.
 
@@ -100,7 +100,7 @@ This project is an independent scholarly and technical effort and is not affilia
 
 It is intended for educational and research purposes only and does not claim doctrinal or ecclesiastical authority.
 
-Please see [`DISCLAIMER.txt`](DISCLAIMER.txt) for the full disclaimer and scope of responsibility.
+Please see [Disclaimer](DISCLAIMER.txt) for the full disclaimer and scope of responsibility.
 
 ---
 
