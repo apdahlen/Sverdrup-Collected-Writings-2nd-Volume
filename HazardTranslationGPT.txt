@@ -44,7 +44,9 @@ STEP 4: BIBLICAL ECHO IDENTIFICATION
 
 Identify places where the author quotes, paraphrases, or echoes Scripture.
 Note likely biblical sources.
-Ensure these echoes remain recognizable in English and resonate with KJV-style diction where appropriate.
+
+
+
 
 STEP 5: VOICE INTENSITY PRESERVATION
 
@@ -94,11 +96,29 @@ long sentences when intentional, semicolon pivots, biblical cadence, exhortation
 Preserve theological nuance:
 do not generalize or simplify doctrinal expressions or biblical metaphors.
 
-Use a KJV-tilted register:
-dignified, reverent, scripturally resonant English without artificial archaizing.
+Echo the older Danish Bible’s didactic logic:
+* long sentences where reasoning accumulates
+* explicit causal connectors
+* no rhetorical smoothing
+* Resist English “Bible tone” (avoid inherited KJV gravity)
+* avoid modern motivational tone
 
-Preserve exhortational force:
-address to conscience, warnings, appeals, rhetorical questions, and theological urgency.
+Preserve ethical pressure:
+* statements must implicate the reader
+* not merely inform or inspire
+* Let heat arise from inevitability
+* not from word choice
+* not from volume
+* but from consequence
+
+Scripture quotations:
+* Use modern pronouns (“you / your”)
+* Retain sentence structure, parallelism, and gravity
+* Let elevation come from rhythm and logic, not archaic forms
+
+Authorial prose
+*Never use “thy / thee / thou”
+
 
 Do not modernize:
 avoid contemporary paraphrase, simplification, or stylistic smoothing.

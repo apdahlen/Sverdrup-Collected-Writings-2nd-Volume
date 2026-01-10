@@ -6,6 +6,7 @@ This project provides primary-source English translations of 19th-century Norweg
 
 Download the current (incomplete) two-column PDF edition [here](WORKFLOW.pdf)
 
+>Many of the historical and theological texts addressed in this repository have remained inaccessible to the English-speaking world for over a century. Due to the scarcity of specialized linguistic resources and the sheer volume of untranslated material, AI-assisted methodology is currently the only viable means of recovering these voices for modern reflection. This project is a salvage operation intended to bring these "locked" sources into the light of contemporary dialogue.
 
 ## Example Translation (Excerpt)
 
@@ -46,7 +47,6 @@ The translations seek to preserve:
 
 Where earlier English renderings often paraphrased or simplified the originals, this project aims to recover the **full intellectual, theological, and rhetorical weight** of Sverdrup’s writing.
 
----
 
 ## Scope
 
@@ -58,8 +58,6 @@ This repository will grow over time and may include:
 * reflections arising from the transition from state church to free church
 
 
----
-
 ## Editorial and Translation Principles
 
 * Close adherence to original Norwegian meaning and syntax
@@ -67,15 +65,15 @@ This repository will grow over time and may include:
 * Preservation of metaphors and imagery
 * No modernization or stylistic smoothing that alters tone or force
 
----
 
 ## Note on Translation Method
 
 The translations in this repository are produced using discipline-driven AI-assisted translation, guided by explicit scholarly constraints and reviewed against the original Norwegian sources. The AI is used as an analytical tool, not as an autonomous translator.
 
-Editorial responsibility in the present edition
-is limited to methodological design, critical oversight, and presentation; the
-original source texts remain authoritative.
+
+
+
+Editorial responsibility in the present edition is limited to methodological design, critical oversight, and presentation; the original source texts remain authoritative.
 
 Also included in the repository are:
 
@@ -84,14 +82,14 @@ Also included in the repository are:
 
 These files document the translation methodology and constraints applied throughout the project.
 
----
+
 
 ## Credits
 
 * **Author:** Georg Sverdrup
 * **Original Compiler / Editor (1910 volume):** Andreas Helland
 
----
+
 
 ## Disclaimer
 
@@ -101,7 +99,7 @@ It is intended for educational and research purposes only and does not claim doc
 
 Please see [Disclaimer](DISCLAIMER.txt) for the full disclaimer and scope of responsibility.
 
----
+
 
 ## Status
 
