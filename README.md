@@ -6,7 +6,7 @@ This project provides primary-source English translations of 19th-century Norweg
 
 Download the current (incomplete) two-column PDF edition [here](WORKFLOW.pdf)
 
->Many of the historical and theological texts addressed in this repository have remained inaccessible to the English-speaking world for over a century. Due to the scarcity of specialized linguistic resources and the sheer volume of untranslated material, AI-assisted methodology is currently the only viable means of recovering these voices for modern reflection. This project is a salvage operation intended to bring these "locked" sources into the light of contemporary dialogue.
+>Due to the scarcity of specialized linguistic resources and the sheer volume of untranslated material, large portions of this corpus have remained inaccessible to the English-speaking world for over a century. This project employs AI-assisted methodology as a practical means of recovering these voices for modern reflection
 
 ## Example Translation (Excerpt)
 
