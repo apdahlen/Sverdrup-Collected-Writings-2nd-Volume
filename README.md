@@ -80,7 +80,7 @@ original source texts remain authoritative.
 
 Also included in the repository are:
 
-* [`ExtractNorwegianGPT.txt`](extractNorwegianGPT.txt) – the instruction profile governing analysis of the original Norwegian text
+* [`ExtractNorwegianGPT.txt`](ExtractNorwegianGPT.txt) – the instruction profile governing analysis of the original Norwegian text
 * [`HazardTranslationGPT.txt`](HazardTranslationGPT.txt) – the instruction profile governing identification and mitigation of translation hazards in English
 
 These files document the translation methodology and constraints applied throughout the project.
