@@ -2,7 +2,9 @@
 
 ## On the Congregation
 
-This project provides primary-source English translations of 19th-century Norwegian Lutheran theology, making historically important texts accessible to readers of church history, theology, Scandinavian studies, and American religious history. Many of these writings have never before appeared in English.
+This project provides primary-source English translations of 19th-century Norwegian Lutheran theology, making historically important primary texts accessible to readers of church history, theology, Scandinavian studies, and American religious history. Many of these writings have never before appeared in English.
+
+Download the current (incomplete) two-column PDF edition [here](WORKFLOW.pdf)
 
 
 ## Example Translation (Excerpt)
@@ -55,7 +57,6 @@ This repository will grow over time and may include:
 * texts related to mission, witness, and ecclesial freedom
 * reflections arising from the transition from state church to free church
 
-Each chapter or document will be accompanied by its own README or header explaining its source, date, historical context, and translation approach.
 
 ---
 
@@ -79,8 +80,8 @@ original source texts remain authoritative.
 
 Also included in the repository are:
 
-* `ExtractNorwegianGPT.txt` – the instruction profile governing analysis of the original Norwegian text
-* `HazardTranslationGPT.txt` – the instruction profile governing identification and mitigation of translation hazards in English
+* [`ExtractNorwegianGPT.txt`](extractNorwegianGPT.txt) – the instruction profile governing analysis of the original Norwegian text
+* [`HazardTranslationGPT.txt`](HazardTranslationGPT.txt) – the instruction profile governing identification and mitigation of translation hazards in English
 
 These files document the translation methodology and constraints applied throughout the project.
 
