@@ -65,7 +65,6 @@ This repository will grow over time and may include:
 * Close adherence to original Norwegian meaning and syntax
 * Consistent rendering of theological terminology
 * Preservation of metaphors and imagery
-* King James Bible–influenced English register where appropriate
 * No modernization or stylistic smoothing that alters tone or force
 
 ---
