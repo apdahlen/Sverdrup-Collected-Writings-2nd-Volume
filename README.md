@@ -4,7 +4,7 @@
 
 This project provides primary-source English translations of 19th-century Norwegian Lutheran theology, making historically important primary texts accessible to readers of church history, theology, Scandinavian studies, and American religious history. Many of these writings have never before appeared in English.
 
-Download the current (incomplete) two-column PDF edition [here](WORKFLOW.pdf)
+Download the current (incomplete) PDF edition [here](WORKFLOW.pdf)
 
 >Due to the scarcity of specialized linguistic resources and the sheer volume of untranslated material, large portions of this corpus have remained inaccessible to the English-speaking world for over a century. This project employs AI-assisted methodology as a practical means of recovering these voices for modern reflection
 
@@ -69,8 +69,6 @@ This repository will grow over time and may include:
 ## Note on Translation Method
 
 The translations in this repository are produced using discipline-driven AI-assisted translation, guided by explicit scholarly constraints and reviewed against the original Norwegian sources. The AI is used as an analytical tool, not as an autonomous translator.
-
-
 
 
 Editorial responsibility in the present edition is limited to methodological design, critical oversight, and presentation; the original source texts remain authoritative.

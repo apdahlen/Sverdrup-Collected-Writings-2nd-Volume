@@ -1,0 +1,93 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* Statskirke / Statskirkens: Refers to the established state church; must not be flattened into a generic “national church.”
+* Kirkeorden: Not merely “church order,” but an authoritative ecclesiastical constitution with juridical and theological weight.
+* Klenodie: Literally “treasure” or “jewel,” with strong rhetorical and ironic force.
+* Embedsaristokrati / Embede / Embedsexamen: Office-based hierarchy tied to state authority; must preserve bureaucratic and caste-like connotations.
+* Kastevæsen: Explicit caste imagery; must remain sharp and critical.
+* Præstegaard: Not just “parsonage,” but a culturally loaded symbol of clerical privilege.
+
+Syntactic Hazards:
+
+* Long cumulative sentences with ironic pivots.
+* Heavy use of em-dash logic and rhetorical escalation.
+* Embedded quotation from Garborg in dialectal Norwegian requiring careful tonal preservation.
+
+Theological Hazards:
+
+* Kristelighed: Not generic “Christian character,” but conformity to the gospel’s ethical and ecclesial demands.
+* Embedsværdighed and Ærbødighed: Intersections of theology, authority, and social power.
+
+Voice Hazards:
+
+* Satirical yet morally earnest critique.
+* Irony must not become flippancy.
+* Social indignation must remain sober and controlled.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Slag i Bordet” – forceful assertion of authority; rendered idiomatically without trivialization.
+* “rene Flag” – metaphor of purity and rallying symbol.
+* “nyde Embedsværdigheden” – savoring the dignity and privileges of office.
+* Garborg quotation: pastoral-natural imagery functioning as social critique; must retain wonder without sentimentality.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: The so-called ‘old church order’ is in reality an office-based aristocracy unsuited to a free church.
+* Development: Psychological and social formation of the clerical official.
+* Illustration: Material and emotional cost of clerical ascent.
+* Cultural confirmation: Literary depiction of peasant awe before clerical wealth.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Implicit contrasts with gospel humility.
+* Edenic imagery in Garborg quotation (Paradise, Heaven) functioning ironically.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain critical sharpness toward clerical privilege.
+* Preserve moral pressure without exaggeration.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* Retain necessity and entitlement language ("burde", "havde jo").
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Statskirke = state church
+* Embede = office
+* Præst = pastor / priest (context-sensitive)
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Flag, caste, aristocracy, Edenic imagery preserved.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Analytical critique → vivid literary depiction.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences retained where argument accumulates.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+\subsubsection{On the Foundation of the State Church.}
+
+“The old church order,” which is the united church’s great and important treasure, its “pure banner,” is, as we have already demonstrated, the Norwegian state church’s office-aristocracy, with the peculiar cast this system has acquired through the church politics of the “old direction” and the Synod.
+
+Despite all Chairman Høyme’s forceful expressions and blows upon the table, we intend now as before to retain the right to examine the Christian character of this order; indeed, we permit ourselves even to ask: is it conceivable, and can it reasonably be said, that the caste system of the state church should truly fit so well within an American free church?
+
+The royal official in the Norwegian state church is a great man in the eyes of many small folk. Worse still, he is often an even greater man in his own eyes. And more often still, he is the greatest man in his wife’s eyes.
+
+It has cost much money and long schooling to reach the desired goal — the office examination; it has required a long wait for appointment to the royal office. No one who has not seen it knows what labors of provision father and mother have borne before the son came through the costly school. No one who has not experienced it knows how many strange devices the student has had to invent in order to earn a little himself, so that he might sustain himself at the university.
+
+When he finally came through and became “finished,” it was most often with debt, shattered health, an exhausted mind, and often with an empty heart. If he then received an office, it seemed to him no more than fair that he should receive compensation for what he had suffered. He ought now to enjoy the dignity of office, the people’s reverence for the pastor, the domestic happiness of a cozy parsonage — and rest and peace for his weary nerves. He had not studied in order to be fit for labor; he had studied in order to obtain a royal office.
+
+And the royal office secures and protects him quite substantially. At least it did so some thirty to forty years ago. Many things have changed in Norway in recent times.
+
+The poet Garborg knows something of how Norwegian peasants regarded the parsonage and its inhabitants. He says somewhere of the young peasant lad who steps into the parson’s garden and the parson’s house:
+
+“Daniel had been with his father into the parsonage a couple of times, so he knew it. It was so clean and fine that one had to think they washed the floor every day; and chairs and tables were made of wood that gleamed, and there were flowers in the windows, fair as in Paradise, and curtains so light and white as the veils of innocence in heaven; and on the wall there was a picture so utterly unlike the Virgin Mary and Emperor Nicholas that they had at home that there was no resemblance at all; and shining brass handles on the doors, and glass cabinets with red and blue and gilded bowls, and a great strange instrument that they played upon so beautifully that one could weep, and a white marble head up on a shelf, and so many, many fine things whose names he did not know — and over it all a breath, something pure and gentle and heavenly, a fine fragrance he could not explain, a soft, wholesome, smiling warmth that does not oppress and that one does not grow drowsy from — ah, ah — it was not to be told.”

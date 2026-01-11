@@ -1,0 +1,101 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Kirkeorden" — not merely "church order" in an abstract sense, but a concrete ecclesiastical polity and governance structure, with legal, hierarchical, and sacramental implications.
+* "den gamle Retning" — a party designation within Norwegian-American Lutheranism; rendering must preserve polemical specificity without anachronism.
+* "Embedsaristokrati" — loaded term implying clerical caste, privilege, and hierarchy; must not be softened.
+* "Menigheden" — congregation as an ecclesial主体; theologically charged in Lutheran ecclesiology.
+* "Kirkepolitik" — not neutral administration, but manipulative strategies for power maintenance.
+* "Naadens Midler" — Means of Grace; must retain technical doctrinal meaning.
+* "Kastevæsen" — caste system; strong social-theological critique.
+
+Syntactic Hazards:
+
+* Long argumentative sentences with embedded clauses and polemical pivots.
+* Rhetorical questions functioning as accusations.
+* Paragraphs that build by accumulation and contrast; must not be broken up.
+
+Theological Hazards:
+
+* Ecclesiology: church authority, ministry, congregation.
+* Confessional Lutheran identity versus state-church inheritance.
+* Implicit doctrine of the priesthood of believers.
+
+Voice Hazards:
+
+* Irony and restrained sarcasm.
+* Polemical sharpness without emotional excess.
+* Public, editorial voice addressing readers collectively.
+
+STEP 2: IDIOM ANALYSIS
+
+* "slidt meget paa Børnestøvlerne" — idiom meaning "has hardly outgrown its infancy"; must retain figurative force.
+* "rene Flag" — metaphor for ideological purity.
+* "Slag i Bordet" — forceful rhetorical gestures; implies authoritarian assertion.
+* "maale den med Sandhedens Maal" — biblical-judicial imagery; measure against truth.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening challenge: refusal of an opponent to define "the old Church Order."
+* Ironical concession and self-positioning.
+* Historical inquiry: tracing the origin of the alleged antiquity.
+* Elimination of possibilities: not United Church, not Norwegian Synod.
+* Identification with Norwegian State Church.
+* Critique of transplantation to American free-church context.
+* Provisional conclusion.
+* Renewed polemical framing and final rhetorical question.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Sandhedens Maal" — echo of biblical judgment and testing (cf. John 12:48; Romans 2).
+* Implicit appeal to New Testament ecclesiology.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Preserve irony without mockery.
+* Maintain moral seriousness and polemical clarity.
+* Avoid conciliatory language.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa," "kan," "vilde" — necessity and impossibility must remain firm.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Kirkeorden" → Church Order
+* "Embedsaristokrati" → clerical aristocracy
+* "Menighed" → congregation
+* "Naadens Midler" → Means of Grace
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Retain imagery of transfer, framework, supports, caste.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Light irony → sober historical analysis → sharp critique → concluding challenge.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Maintain paragraph length and rhetorical flow suitable for public reading.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+\subsubsection{How Old Is “the Old Church Order?"}
+
+“Lutheraneren” has not been able—or has not wished—or has not dared—to explain what is meant by “the old Church Order.” We have asked for quite some time and have requested, very politely, an answer.
+
+But no: “Lutheraneren” has replied that we knew it well enough ourselves. That is not a courteous answer; but perhaps it is as good as we deserve, and so we are content.
+
+We must therefore attempt, without the assistance of “Lutheraneren,” to provide a small clarification—now and then—concerning this Church Order, which suddenly became so precious to the United Church when its chairman happened to hear one of these new things that are now being asked about: the congregation.
+
+It does indeed sound rather warm and cozy with “the old Church Order.” The question, however, is how old it actually is, and whether it is so good because it is so old.
+
+If that Church Order which is accorded such importance as the Means of Grace and the old Lutheran doctrine is old—so old that it is venerable by reason of age—then it cannot very well be a product of the United Church; for it has, at any rate, no age at all. Nor has the old Church Order been created by the Norwegian Synod, for it has scarcely, in ecclesiastical respects, worn out its childhood shoes.
+
+If the Church Order is old, then it comes from the Norwegian State Church; and there we may stop. For to go further back would lead us over into Catholicism, and not even the United Church would be able to persuade its people to believe that it was any advantage to the old Church Order that it traces its lineage from the Catholic Church. In many respects it does indeed do so, as all who study a little church history know; but that is not what is being asked here. We wish only to seize this old Church Order at a point where it is for most of us easily recognizable and accessible, so that all our readers may see it, as it were, before their eyes and measure it with the measure of truth in the light of the New Testament.
+
+And yet the state-church order has not been transferred altogether unadulterated and unchanged from Norway to America. It has, through the Norwegian Synod and “the old direction,” undergone certain changes which we would say were for the better, in the process of transfer. For the clerical aristocracy which in Norway is upheld by law and external power must in our country be upheld in another way; and this other way is certainly more harmful to the spiritual life itself and to the congregation than the external coercion of the law in the old country. Summed up in a single word, it is called church politics—the sum of all the methods employed to uphold the caste system and clerical superiority among us. And insofar as the means employed are more or less pure and honorable, this strange phenomenon called church politics becomes correspondingly more or less honorable.
+
+We do not wish to go further into the question of the old Church Order on this occasion. We have arrived at a provisional answer that places the matter plainly before every person’s eyes: “the old Church Order” is the state-church order, with the distortion it undergoes when it is moved out of its old framework and must be upheld by new supports.

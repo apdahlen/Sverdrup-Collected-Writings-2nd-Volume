@@ -1,0 +1,90 @@
+STEP 1: HAZARD IDENTIFICATION
+
+* Lexical Hazards:
+
+* Afsnit, Stykker, Skilde, Udg. – editorial and book-historical terms with 19th‑century usage.
+
+* Menigheds Væsen og Fremtræden – ecclesiological terms implying essence and public manifestation, not mere organization.
+
+* Kirkes Arbeide og Kamp – idiomatic pairing suggesting ongoing struggle, not metaphorical sport.
+
+* Folkelbladet – proper noun; should be retained untranslated.
+
+* Syntactic Hazards:
+
+* Long editorial sentences with layered justifications and concessive clauses.
+
+* Parenthetical editorial framing that must not be flattened or paraphrased.
+
+* Enumerative dating clauses requiring careful punctuation.
+
+* Theological Hazards:
+
+* Christian congregation’s nature and presence in the world – must retain ecclesiological gravity.
+
+* Lutheran church history language implying doctrinal conflict, not administrative disagreement.
+
+* Voice Hazards:
+
+* Editorial sobriety and justificatory tone.
+
+* Avoid modern academic smoothing; retain late‑19th‑century learned editorial voice.
+
+STEP 2: IDIOM ANALYSIS
+
+* “dybe Uoverensstemmelser” – deep-seated disagreements, not mere differences of opinion.
+* “gjort sig gjældende” – have asserted themselves / made themselves felt historically.
+* “kirkeligt Hold” – ecclesiastical quarters, not simply ‘the church’.
+* “tages med her” – editorial inclusion rationale.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Statement of origin of articles.
+* Identification of historical cause.
+* Clarification of occasions for publication.
+* Editorial justification for inclusion despite local character.
+* Assurance of sufficient contextual clarity for the reader.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* None directly present; ecclesiological language indirectly echoes Pauline concepts of church and world.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain sober, principled editorial tone.
+* Preserve seriousness of ecclesial conflict.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “burde medtages” – should be included (editorial necessity, not suggestion).
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed – congregation.
+* Kirke – Church.
+* Arbeide og Kamp – work and struggle.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “Kamp” retained as struggle, not softened.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Balance between explanatory calm and recognition of conflict.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Retain long editorial sentences and rhythm appropriate to preface material.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+\section{Third Section}
+
+All the pieces included in this section originally appeared as articles, either in *Folkelbladet* or elsewhere, most of them toward the end of the eighteen‑nineties. The reason was here also the deep‑seated disagreements in the understanding of the nature of the Christian congregation and its appearance in the world, disagreements which have made themselves felt throughout the entire history of the Norwegian Lutheran Church in this country. The occasions were, as will be seen, various—partly official, partly unofficial statements from ecclesiastical quarters. The discerning reader will, however, always notice the author’s constant effort to point out the principles that lie at the foundation of what is intended. For this reason I have thought that these series of articles ought to be included here, even though several of them may seem to bear so local a character that they might more appropriately have been placed in the volume of the present work where it is intended to present a number of the author’s statements concerning the work and struggle of our Church. — The occasion for the publication of the individual articles is stated with sufficient clarity in the articles themselves that the reader will understand it without difficulty. The information deemed necessary has been added in notes beneath the text. — Ed.
+
+\subsection{The Old Church Order}
+
+[Source: Editorial articles in *Folkelbladet* of July 21, August 4, October 20 and 27, December 1 and 15, 1897; January 19, February 16 and 23, and March 2, 1898; August 21, 1901. The last article is, as may be seen, of a considerably later date than the others, but is included here since it deals with the same matter. — Ed.]
+
+
+
