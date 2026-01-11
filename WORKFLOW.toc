@@ -6,13 +6,21 @@
 \contentsline {subsection}{\numberline {2.3}The Pastoral Office and the Priesthood of the Laity}{17}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}The Diaconal Office in the Congregation}{21}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}The Fellowship of the Congregations}{25}{subsection.2.5}%
-\contentsline {section}{\numberline {3}Do You Want a Congregation?}{38}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Is It Pride?}{38}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Will ye have congregation?}{41}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}What is congregation?}{42}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}The Body of Christ}{44}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Sixth Section}{46}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Congregation and Congregational Life}{46}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}The Conditions for the Formation of Congregations}{53}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}The Significance of Mission for the Church}{59}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}The Unity of the Believers}{66}{subsection.4.4}%
+\contentsline {section}{\numberline {3}Third Section}{38}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The Old Church Order}{38}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}What is the Meaning?}{38}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Why Not Answer?}{39}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}How Old Is “the Old Church Order?"}{40}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}On the Foundation of the State Church}{41}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}The Old Church Order and the Education of Pastors}{43}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Has the Congregation Been Harmed?}{45}{subsubsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.2}Do You Want a Congregation?}{50}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Is It Pride?}{50}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Will ye have congregation?}{53}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}What is congregation?}{54}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}The Body of Christ}{56}{subsubsection.3.2.4}%
+\contentsline {section}{\numberline {4}Sixth Section}{58}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Congregation and Congregational Life}{58}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The Conditions for the Formation of Congregations}{65}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}The Significance of Mission for the Church}{71}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}The Unity of the Believers}{78}{subsection.4.4}%
