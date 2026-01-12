@@ -1,0 +1,91 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Fristelse" – not merely temptation in a moralistic sense, but a vocational and spiritual testing tied to pastoral office.
+* "Ordets Forkynder" – a technical Lutheran term denoting the public minister of the Word, not a generic speaker or preacher.
+* "sløv og verdslig Menighed" – "sløv" implies spiritual torpor; "verdslig" signals worldliness opposed to spiritual seriousness.
+* "Kirkeorden" – ecclesiastical order or church polity, carrying confessional and historical weight.
+* "Medhjælpere" – a specific historical office within Norwegian church life; not generic assistants.
+* "Frihedsmand" – a term with ideological and ecclesial resonance, implying advocacy of reform or freedom within church governance.
+
+Syntactic Hazards:
+
+* Long sentences with cumulative logic and rhetorical pacing must not be broken up excessively.
+* Embedded quotations and dialogic structure (reported speech) require careful handling to preserve irony and contrast.
+* The rhetorical question functions as a pivot and must retain its force.
+
+Theological Hazards:
+
+* Concepts of pastoral faithfulness, temptation, and institutional form intersect with conscience and responsibility.
+* Biblical citation must retain its admonitory force without archaic pronouns.
+* The implicit theology of means (church order as instrument rather than absolute good) must remain clear.
+
+Voice Hazards:
+
+* Irony and restrained critique could be flattened by modernization.
+* The sober, reflective, yet incisive tone of ecclesial argument must be preserved.
+* The balance between respect for tradition and openness to reform must remain tense, not resolved prematurely.
+
+STEP 2: IDIOM ANALYSIS
+
+* "begyndte godt" – idiomatic for initial faithfulness or zeal; not merely chronological beginning.
+* "bukke under" – to succumb or collapse under pressure; metaphorical, not literal.
+* "holde os efter Skriften" – to regulate oneself according to Scripture; echoes Reformation language.
+* Biblical quotation: "Hold fast ved, hvad du har, at ingen tager din Krone!" – Revelation 3:11; warning against loss through negligence.
+* "naar man intet har" – rhetorical irony: possessing an office or order without spiritual vitality.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening observation: pastoral temptation in spiritually indifferent congregations.
+* Generalization: some ministers succumb despite good beginnings.
+* Rhetorical question challenging the unqualified goodness of the old church order.
+* Historical anecdote illustrating conflicting attitudes toward tradition and reform.
+* Concluding inference: preservation should follow proof of genuine goodness, not precede it.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Direct quotation from Revelation 3:11.
+* Implicit biblical anthropology: endurance, vigilance, and loss of spiritual crown.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain sober warning without melodrama.
+* Preserve ironic sharpness in the reformer's reply.
+* Avoid conciliatory smoothing that would blunt critique.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* Preserve conditional and interrogative force ("Er det da ikke rigtigt at spørge").
+* Maintain necessity implied in "vilde være bedst" without weakening to suggestion.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Kirkeorden" consistently rendered as "church order."
+* "Menighed" consistently rendered as "congregation."
+* "Ordets Forkynder" consistently rendered as "minister of the Word."
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "tage din Krone" retained as metaphor for spiritual loss.
+* "holde fast" preserved as tactile metaphor of retention.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Contrast between traditionalist admonition and reformist irony preserved.
+* Reflective tone in conclusion maintained.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Sentences retain measured length suitable for oral delivery.
+* Dialog retains conversational rhythm without casualization.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+All earnest ministers will have felt the temptation that accompanies standing as a minister of the Word in a sluggish and worldly congregation. Many who began well have perhaps succumbed to that temptation.
+
+Is it not right to ask: Is it quite certain that “the old church order” is an unqualified good?
+
+In Norway there was once, at a church synod, discussion of introducing some change in the old church order by abolishing the “assistants” and establishing a “congregational council” in their place. Then a minister of the old school rose and said: “I believe we do best to hold to Scripture: ‘Hold fast to what you have, so that no one may take your crown!’” But an old advocate of freedom—he was a provost as well—rose and replied: “That is indeed good, to hold fast to what one has, when one has something; but when one has nothing, then it would surely be best to try to get hold of something.”
+
+It seems much the same with “the old church order.” It would be best first to be certain that it was an unqualified good, before one was so eager for its preservation.

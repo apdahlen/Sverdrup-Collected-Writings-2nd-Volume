@@ -1,0 +1,103 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Menighed" carries the ecclesiological sense of a living congregation, not merely an institution or parish.
+* "Kirkeorden" refers to an established ecclesial order or regime, not simply "church order" in an abstract sense.
+* "Brydninger" denotes deep conflicts, frictions, or collisions, often with historical or spiritual weight.
+* "Verdslighed" is not neutral worldliness but a spiritually corrosive, flesh-oriented orientation opposed to God.
+* "Præstevælde" signifies clerical domination or hierarchical abuse, not legitimate pastoral authority.
+* "Gjennembrud" implies a spiritual breakthrough, not gradual reform.
+* "Umyndighed" conveys spiritual immaturity and dependence, not mere lack of legal capacity.
+
+Syntactic Hazards:
+
+* Long cumulative sentences with rhetorical questions must be preserved without fragmentation.
+* Parallelisms (life/death, grave/hope) carry theological force and must remain balanced.
+* Embedded quotations must retain their sermonic cadence.
+
+Theological Hazards:
+
+* The opposition between life and death echoes biblical regeneration language.
+* Misrendering "Verdslighed" risks losing its doctrinal seriousness.
+* The critique of false security within the church must remain sharp and uncompromised.
+
+Voice Hazards:
+
+* Over-smoothing would flatten the earnest, admonitory Lutheran tone.
+* The address is implicitly to conscience and community, not abstract analysis.
+
+STEP 2: IDIOM ANALYSIS
+
+* "kommer ligesom i Dødskamp" – evokes mortal struggle; metaphor must be preserved.
+* "Skal Livet dø, og Døden vinde?" – rhetorical antithesis with biblical overtones (cf. Rom 6).
+* "Vaar og Trivsel" – spring and flourishing; renewal imagery rooted in creation theology.
+* "Sandhedens skarpe Braad" – literally "the sharp goad of truth"; biblical echo (Acts 26:14).
+* "ytre Forbindelse" – outward affiliation, not inward faith.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: Genuine progress and spiritual renewal inevitably involve conflict.
+* Observation: Present crises within the Norwegian church mirror this historical pattern.
+* Central Question: Will the congregation be suffocated or renewed?
+* Identification of Adversaries: Clerical domination and worldliness.
+* Analysis: These two forces are allied and mutually reinforcing.
+* Exposition: Definition and moral critique of each enemy.
+* Conclusion: Their collusion explains resistance to true congregational life.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Life vs. death imagery – Romans 6; John 10.
+* Shepherd and flock language – Ezekiel 34; John 10.
+* Goad imagery – Acts 26:14.
+* False security and outward belonging – Matthew 7:21–23.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain warning tone against spiritual complacency.
+* Preserve moral urgency without exaggeration.
+* Keep the polemical edge intact.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* Preserve inevitability in historical claims ("cannot occur without").
+* Retain sharp either/or questions.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed – congregation
+* Verdslighed – worldliness
+* Præstevælde – clerical domination
+* Sandhed – truth
+* Salighed – salvation / blessedness (context-dependent, rendered consistently here as salvation)
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Death struggle, grave, springtime imagery retained.
+* Do not paraphrase metaphors into abstract explanation.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Stark contrasts (life/death, renewal/suffocation) must remain vivid.
+* No emotional leveling.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Sentences allowed to run long where argument accumulates.
+* Rhetorical questions preserved in sequence.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+\subsubsection{Congregation or Old Church Order}
+
+It is a well-tested truth in human history that progress cannot occur without conflict, and that conflicts, as a rule, have their acute crises, in which the new that is pressing forward comes into a death struggle with the old that seeks to suffocate it. Then everything looks grim indeed. Is life to die, and death to prevail? Is the grave to close itself, black and dark, over the young, budding hope?
+
+In not a few places among our people there are at present quite serious conflicts, in part violent crises. Shall the congregation, which has sought to break through, once again be suffocated by worldliness; or shall it be granted its springtime and its flourishing among us?
+
+There are especially two enemies of the congregation that have appeared in our short church history. And as often as occasion has arisen, these two enemies have entered into alliance and joined forces with one another. They are clerical domination and worldliness. They are, after all, two shoots from the same root and stock. Together they constitute what, from certain quarters, has been called “the old church order.”
+
+By “clerical domination” we mean here the abuse which a great theologian has described in this way: “Clerical domination seeks to turn the office of pastoral care into an unspiritual lordship over the congregation, and it does not shepherd the flock, but rejoices in its immaturity and seeks to exploit it for the sinful aims of worldly advancement and self-interest.”
+
+By “worldliness” in the congregation we mean that disposition which seeks to make the congregation serve as a religious covering over a fleshly and worldly life, so that it may function to shield heart and conscience from the sharp goad of the truth, and even serve to guarantee eternal salvation to those who, with an unrepentant mind, have stood in outward connection with the congregation.
+
+The kinship and friendship between clerical domination and worldliness are easy enough to see and recognize. The worldly disposition is quite willing to grant the priest both precedence and advantage, provided he spares the fleshly heart and does not turn the goad of the truth against it. And the fleshly priest is quite willing to let worldliness flourish in the congregation, provided it yields him the honor and advantage that he seeks.

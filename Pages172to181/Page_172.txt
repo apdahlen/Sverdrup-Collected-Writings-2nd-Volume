@@ -1,0 +1,101 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* “Kirkeorden” – not merely church order but a historically loaded ecclesiastical constitution tied to state church governance.
+* “Menighed” – congregation, but with theological weight (the living body of believers, not an administrative unit).
+* “Statskirken” – the state church; carries implications of coercion, geography, and formalism.
+* “Embedsdistrikter” – office districts; bureaucratic and territorial, not spiritual.
+* “Sogn / Kirkesogn / Hovedsogn / Annekser” – parish terminology tied to Danish-Norwegian church law.
+* “Fordervelse” – corruption, degeneration; strong moral-theological judgment.
+* “Præster” – clergy, but here with polemical force as an institutional class.
+* “Verdens Aand og Væsen” – the spirit and nature of the world; Pauline resonance.
+
+Syntactic Hazards:
+
+* Long periodic sentences with causal logic that must not be broken down.
+* Irony embedded in clause structure (e.g., “det høitklingende Navn”).
+* Sermonic progression using contrast rather than explicit signposting.
+
+Theological Hazards:
+
+* Ecclesiology: the nature of the church vs. administrative parish.
+* Critique of clericalism (priests as “the real church”).
+* Implicit doctrine of the priesthood of all believers.
+* Worldliness vs. spiritual integrity.
+
+Voice Hazards:
+
+* Sharp polemical Lutheran tone.
+* Moral seriousness combined with restrained irony.
+* Risk of softening critique into sociological observation.
+
+STEP 2: IDIOM ANALYSIS
+
+* “sidder paa Mose Stol” – biblical allusion to Matthew 23:2 (“sit in Moses’ seat”); denotes assumed authority over law and conscience.
+* “skinnende Lys i Tidens Mørke” – pietistic cliché with ironic edge here.
+* “fritænk Blik” – free-thinking gaze; Enlightenment-inflected but used critically.
+* “Fordervelse af Menigheden” – metaphor of decay, not mere inefficiency.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: In the state church, the true congregation has effectively disappeared.
+* Description: Administrative, territorial logic replaces spiritual community.
+* Critique: This model is imitated and praised as “the old church order.”
+* Irony: What is adopted is the very worst corruption of the state church.
+* Defense anticipated and rejected: Claims that critique exaggerates.
+* Confirmation: Official decisions prove the critique accurate.
+* Explanation: From a worldly standpoint, this makes sense.
+* Doctrinal critique: Clergy-centered ecclesiology.
+* Conclusion: Worldly clergy naturally prefer a worldly, external congregation.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 23:2 – “Moses’ seat.”
+* Johannine / Pauline light–darkness imagery.
+* Implicit Acts / Pauline ecclesiology (church as people, not structure).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain polemical clarity.
+* Retain irony without sarcasm.
+* Preserve moral indictment of worldliness.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “skal” / “er jo” / “maa” logic preserved as necessity, not suggestion.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Menighed = congregation (consistent).
+* Kirke = church (institutional when context requires).
+* Verdslig = worldly (not secularized away).
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Decay, light/darkness, seat of Moses preserved intact.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Observational → ironic → accusatory progression retained.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences preserved where argument accumulates.
+* Clause rhythm maintained for sermonic effect.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+\subsubsection{The Old Church Order and the Organization of the Congregation}
+
+In the state church, the congregation has, in truth, disappeared. The state church’s royal clergy have official districts, with local and geographical boundaries, within which everyone belongs to the parish; all who are born within these boundaries are baptized; all who are baptized are confirmed, and so on.
+
+This is sometimes, on solemn occasions, called “congregation”; most often, however, it goes under the modest name “parish,” which is again divided into main parishes and annexes.
+
+In large parts of our people in America, this is the model that is regarded as exemplary for the organization of the congregation. And it is this form of congregational structure, fashioned in imitation of what is worst in the state church, that now presents itself under the high-sounding name: the old church order.
+
+To a free-thinking observer it seems strange that an entire church body should choose this corruption of the congregation as both its goal and its means. At times one would like to believe that the situation is not as bad as the free-church people claim. But when the United Church, both through its chairman and through its annual meeting, declares and resolves that this is precisely what it wants, then one has no choice but to believe them.
+
+And perhaps it is not so strange, when viewed from a worldly standpoint. The clergy are, according to the old church order, the real church; for their sake the congregation exists; the congregation is to support them, and they in turn are to be the shining lights in the darkness of the age, since they “sit on Moses’ seat.”
+
+And if the clergy themselves are thoroughly permeated by the spirit and nature of the world, then it is altogether reasonable that they should be very well pleased with a purely worldly and external form of congregational organization.
