@@ -6,27 +6,30 @@
 \contentsline {subsection}{\numberline {2.3}The Pastoral Office and the Priesthood of the Laity}{17}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}The Diaconal Office in the Congregation}{21}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}The Fellowship of the Congregations}{25}{subsection.2.5}%
-\contentsline {section}{\numberline {3}Third Section}{38}{section.3}%
-\contentsline {subsection}{\numberline {3.1}The Old Church Order}{38}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}What is the Meaning?}{38}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Why Not Answer?}{39}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}How Old Is “the Old Church Order?"}{40}{subsubsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}On the Foundation of the State Church}{41}{subsubsection.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.1.5}The Old Church Order and the Education of Pastors}{43}{subsubsection.3.1.5}%
-\contentsline {subsubsection}{\numberline {3.1.6}Has the Congregation Been Harmed?}{45}{subsubsection.3.1.6}%
-\contentsline {subsubsection}{\numberline {3.1.7}The Heart of the Matter}{47}{subsubsection.3.1.7}%
-\contentsline {subsubsection}{\numberline {3.1.8}The Old Church Order and the Organization of the Congregation}{50}{subsubsection.3.1.8}%
-\contentsline {subsubsection}{\numberline {3.1.9}A Turn in the Discussion}{51}{subsubsection.3.1.9}%
-\contentsline {subsubsection}{\numberline {3.1.10}Does the Proclamation of the Gospel Suffer}{52}{subsubsection.3.1.10}%
-\contentsline {subsubsection}{\numberline {3.1.11}Does the Christian Life Also Suffer?}{54}{subsubsection.3.1.11}%
-\contentsline {subsubsection}{\numberline {3.1.12}Congregation or Old Church Order}{55}{subsubsection.3.1.12}%
-\contentsline {subsection}{\numberline {3.2}Do You Want a Congregation?}{58}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Is It Pride?}{58}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Will ye have congregation?}{61}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}What is congregation?}{62}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}The Body of Christ}{64}{subsubsection.3.2.4}%
-\contentsline {section}{\numberline {4}Sixth Section}{66}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Congregation and Congregational Life}{66}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}The Conditions for the Formation of Congregations}{73}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}The Significance of Mission for the Church}{79}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}The Unity of the Believers}{86}{subsection.4.4}%
+\contentsline {subsection}{\numberline {2.6}Is it possible for Norwegian Lutherans to build a Christian Free Church in America?}{38}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Free Congregation in a Free Church}{40}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}The Authority of the Synod/Church Body and the Free Congregation.}{42}{subsection.2.8}%
+\contentsline {section}{\numberline {3}Third Section}{44}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The Old Church Order}{44}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}What is the Meaning?}{44}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Why Not Answer?}{45}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}How Old Is “the Old Church Order?"}{46}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}On the Foundation of the State Church}{47}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}The Old Church Order and the Education of Pastors}{49}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Has the Congregation Been Harmed?}{51}{subsubsection.3.1.6}%
+\contentsline {subsubsection}{\numberline {3.1.7}The Heart of the Matter}{53}{subsubsection.3.1.7}%
+\contentsline {subsubsection}{\numberline {3.1.8}The Old Church Order and the Organization of the Congregation}{56}{subsubsection.3.1.8}%
+\contentsline {subsubsection}{\numberline {3.1.9}A Turn in the Discussion}{57}{subsubsection.3.1.9}%
+\contentsline {subsubsection}{\numberline {3.1.10}Does the Proclamation of the Gospel Suffer}{58}{subsubsection.3.1.10}%
+\contentsline {subsubsection}{\numberline {3.1.11}Does the Christian Life Also Suffer?}{60}{subsubsection.3.1.11}%
+\contentsline {subsubsection}{\numberline {3.1.12}Congregation or Old Church Order}{61}{subsubsection.3.1.12}%
+\contentsline {subsection}{\numberline {3.2}Do You Want a Congregation?}{64}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Is It Pride?}{64}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Will ye have congregation?}{67}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}What is congregation?}{68}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}The Body of Christ}{70}{subsubsection.3.2.4}%
+\contentsline {section}{\numberline {4}Sixth Section}{72}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Congregation and Congregational Life}{72}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The Conditions for the Formation of Congregations}{79}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}The Significance of Mission for the Church}{85}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}The Unity of the Believers}{92}{subsection.4.4}%
