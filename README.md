@@ -1,4 +1,4 @@
-# Georg Sverdrup (1848–1907): English Translations of Norwegian Lutheran Theology and Addresses
+# Georg Sverdrup: English Translations of Norwegian Lutheran Theology and Addresses
 
 ## On the Congregation
 
