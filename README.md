@@ -10,7 +10,7 @@ Download the current (incomplete) PDF edition [here](WORKFLOW.pdf).
 
 ### Related Norwegian Lutheran Texts (Public Editions)
 
-* [Sven Oftedal and Georg Sverdrup: Spirit and Life (and og Liv)]( https://apdahlen.github.io/Spirit-and-Life/)
+* [Sven Oftedal and Georg Sverdrup: Spirit and Life (Aand og Liv)]( https://apdahlen.github.io/Spirit-and-Life/)
 
 ## Example Translation (Excerpt)
 
