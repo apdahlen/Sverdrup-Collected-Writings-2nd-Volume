@@ -1,18 +1,31 @@
-%Page 26
+% OCR 21 Aug 26
 
-4 Menighedens Levendegjørelse.
+% Page 26
 
-[Kilde: Redaktionsartikler i „Folkelbladet“ for 23de og 30te November og 7de December 1898. — Udg.]
+\section{4. Menighedens Lev endegjørelse.}
+
+[Kilde: Redaktionsartikler i „Folkebladet“ for 23de og 30te Novem-
+ber og 7de December 1898. — Udg.]
 
 Levende Menigheder.
 
-Det vil være aldeles berettiget, om nogen spørger os, hvad vi mener, naar vi taler om levende Menigheder, og med hvilken Ret vi benytter et Udtryk som dette.
+[initial D]et vil være aldeles berettiget, om nogen spørger os, hvad vi me-
+ner, naar vi taler om levende Menigheder, og med hvilken Ret
+vi benytter et Udtryk som dette.
 
-Man laster og spotter allerede Ordet uden at tænke paa dets Alvor og Betydning. Bedre vilde det være, om man i Sindighed undersøgte, om der er noget ondt og farligt, ubibelsk og ukristeligt i dette Ord.
+Man laster og spotter allerede Ordet uden at tænke paa dets Al-
+vor og Betydning. Bedre vilde det være, om man i Sindighed un-
+dersøgte, om der er noget ondt og farligt, ubibelsk og ukristeligt i
+dette Ord.
 
-Vi ønsker ogsaa af mange Grunde at forudskikke den Bemerkning, at vi paa vor Side ikke har rost nogle Menigheder og lastet andre. Vi har sagt, at Dommen tilkommer Gud og Guds Ord. Hvad Ordet dømmer som usundt og uægte, det er saa, enten det findes hos os eller andre. Og det gaar an at diskutere Spørgsmaalet om Menigheden uden at blive grob og raa.
+Vi ønsker ogsaa af mange Grunde at forudskikke den Bemerkning,
+at vi paa vor Side ikke har rost nogle Menigheder og lastet andre.
+Vi har sagt, at Dommen tilkommer Gud og Guds Ord. Hvad Ordet
+dømmer som usundt og uægte, det er saa, enten det findes hos os eller
+andre. Og det gaar an at diskutere Spørgsmaalet om Menigheden
+uden at blive grov og raa.
 
-Vi nægter ikke, at vi finder Udtrykket „levende Menigheder“ vel-
+Vi negter ikke, at vi finder Udtrykket „levende Menigheder“ vel-
 skikket til at udtrykke, hvad vi arbeider for. Vi mener oprigtig, at
 det er et sandere Udtryk for den synlige Menigheds Art og Væ-
 sen end andre Ord, som har været benyttet i Kirken. Vi tror ogsaa,
@@ -48,7 +61,7 @@ Ligeledes kræver saadanne Ord som at Menigheden er et aande-
 ligt Hus, bygget af levende Stene, Livet i Aanden, for at der skal
 være Mening i dem. Ligeledes saadanne Ord som at Kristus er
 Vintræet og de troende er Grenene, eller at Menigheden er en Plante
-eller en Plantning, opopfiet af Ordets Sæd, vandet ved Naadens
+eller en Plantning, opvokset af Ordets Sæd, vandet ved Naadens
 Strømme.
 
 Ganske særskilt tager vi ogsaa til Indtægt Ordet til Menighedens
@@ -62,10 +75,11 @@ ikke de troende fra at blive frelste; men uagtet der er to eller tre tro-
 ende i Sardes, saa er alligevel Menigheden død, og sker deri ingen
 Forandring, saa er det ude med den.
 
-%Page 28
-
 Ja, siger man, alt dette er sandt og ret; men det vedkommer den
-„usynlige Kirke“. Kristi Legeme er et yderst mystisk Udtryk, som ikke
+„usynlige Kirke“; Kristi Legeme er et yderst mystisk Udtryk, som ikke
+
+% Page 28
+
 kan være ment om nogen udvortes Menighedsorganisation; det er
 om den „usynlige“ Menighed.
 
@@ -96,7 +110,8 @@ døde! Vær nidkjær og omvend dig!
 Altsaa fordi det nye Testamente vil have Liv og bestandig modar-
 beider Død, derfor tror vi ogsaa, at det er et helligt Kald og Pligt at
 arbeide for „levende Menigheder“. Man siger, at det skal gaa os
-galt, at*) vi intet udretter etc. etc. Nuvel, kan vi arbeide for det
+galt, at \footnote{Vor Kilde har „om“ istedetfor „at“; men dette maa vistnok være
+en Trykfeil. — Udg.} vi intet udretter etc. etc. Nuvel, kan vi arbeide for det
 samme, som Guds Aand drev Apostlerne til at arbeide for, saa er vi
 fornøiet med vor Lod.
 
@@ -104,31 +119,29 @@ Vi slutter da ogsaa dette, at dersom der har været levende Me-
 nigheder, saa er Sagen ikke umulig eller upraktisk.
 
 Hvad er da levende Menighed? Intet andet end hvad de aposto-
-liske Menigheder var, en Samling af Mennesker, som ved Daab og
+liske Menigheder var, en Samling af Mennesker, som ved Fødsel af
 Aand var blevne delagtige i Guds Rige, og som i Kraft af dette nye
-Liv saa Tilværelsen i et ganske nyt Lys, arbeided for ganske nye For-
+Liv fra Tilværelsen i et ganske nyt Lys, arbeidede for ganske nye For-
+
+% Page 29
+
 maal og opfattede sit Ansvar paa en aldeles ny og fra andre Folk
 forskjellig Maade.
-
-*) Vor Kilde har „om“ istedetfor „at“; men dette maa vistnok være
-en Trykfeil. — Udg.
-
-%Page 29
 
 Saa længe har Pavekirken og Statskirken holdt Menigheden borte,
 at det er overmaade vanskeligt at vække endog et svagt Begreb om,
 hvad Menigheden er.
 
-Fine Mennesker var omvendte, og de levede og virkede paa en
+Hine Mennesker var omvendte, og de levede og virkede paa en
 Maade, som var Verden modsat, og Verden fandt dette „omvendte“
 Levesæt at være et ganske bagvendt Levesæt. Havde Verden og dens
 Lyst og Glæde før været Livsmaal for dem, saa havde de nu vendt
 Verden Ryggen, og Gud og Guds Rige og dets Salighed og Herlig-
-hed var bleven dem Livets Maal. Havde de før stræbt efter at herske,
+hed var blevet dem Livets Maal. Havde de før stræbt efter at herske,
 saa var det nu deres Bestræbelse at tjene. Havde de før elsket sig selv
 og sit eget, saa havde de nu lært at elske Gud og søge Næstens Vel
 og Gavn. Havde de før røvet og plyndret for at faa meget, saa ar-
-bejdede de nu for at kunne give og meddele. Var det før om at gjøre
+beidede de nu for at kunne give og meddele. Var det før om at gjøre
 at erobre Verden for at vinde dens Ære og Lyst, saa var det nu Op-
 gaven at udbrede Guds Rige, for at alle skulde blive delagtige i Tro-
 ens Fred og Glæde.
@@ -139,30 +152,30 @@ bagvendt i Verdens Øine. Derfor var det heller ikke mere usynligt,
 end at det opvakte baade Had og Forfølgelse. Thi som de kristne
 kjendte hinanden, saa kjendte ogsaa Verden dem ganske godt.
 
-Saa, siger man, det var dengang; men nu er Verden kristnet, og vi
+Ja, siger man, det var dengang; men nu er Verden kristnet, og vi
 lever midt i et kristent Land, nu kan der ikke mere være Tale om saa-
-dan Forskjæl og Modsætning.
+dan Forskjel og Modsætning.
 
-Desværre, det er nok ikke Verden, som er bleven kristelig; det er
-Kirken, som er bleven verdslig. Og et nærliggende Bevis er dette,
+Desværre, det er nok ikke Verden, som er blevet kristelig; det er
+Kirken, som er blevet verdslig. Og et nærliggende Bevis er dette,
 at paa mange Steder, hvor man taler om „bibelsk berettigede“ Me-
 nigheder, er Tilstanden saadan, at dersom et Menneske vil være en
-kristen og leve som en kristen, saa bliver samme Menneske forfulgt og
+kristen og leve som en kristen, saa blir samme Menneske forfulgt og
 spottet af verdslige Menighedslemmer, ikke sjelden ogsaa af verds-
-lige Præster.
+lige Prester.
 
 Er det da virkelig galt, naar Dagene er onde, og det lider mod
-Natten, at løfte Øie og Sind op over Forvirringen og Forstoklingen
+Natten, at løfte Øie og Sind op over Forvirringen og Fortvilelsen
 og rette Blikket paa det sande og virkelige Billede af Menigheden, som
 det nye Testamente giver os?
 
-%Page 30
+% Page 30
 
 Er det galt at lade Ordets Lys falde fuldt og helt ind over vor
 egen Tid og vore egne Sjæle, saa vi virkelig faar bibelske Tanker om
-Menigheden? Eller er Bibelen kun en fjern Fantasibog med vakre
+Menigheden? Eller er Bibelen kun en skjøn Fantasibog med vakre
 Drømme, der forsvinder for den haarde Virkelighed og den klare Ver-
-densstemning?
+denstænkning?
 
 Aa nei; Bibelen er Lyset fra Gud, som skal sprede Verdens Drøm-
 me; ikke omvendt. Og i dette Lys staar virkelig Menigheden som et
@@ -173,7 +186,7 @@ og Himlens Herlighed til Maal.
 Den levende Menighed lever af Ordet og ved Aanden. Jesus
 er dens Hoved, og den følger hans Spor, og den renser sig selv, lige-
 som han er ren. Den er den gjenløste og gjenreiste Menneskeslægt,
-som stævner paa sin Vandring mod Faderhuset heroventil og vil samle
+som stevner paa sin Vandring mod Faderhuset heroventil og vil samle
 med sig ind til Faderen alle, som kan samles.
 
 Men dersom det er muligt, at et Menneske kan blive og være en
@@ -183,18 +196,18 @@ Menighed?
 Lad os tro paa Gud og hans Ord og kjæmpe for Livet i hver
 Sjæl og i hver Menighed.
 
-Luther og forfatningen.
+\subsection{Luther og Forfatningen.}
 
 Med Reformationen var visse nye Livsbetingelser givet. Det
-gjaldt om, at dette Liv skulde faa Lov at vokse sin egen Væxt og finde
+gjaldt om, at dette Liv skulde faa Lov at vokse sin egen Vekst og finde
 sin egen, eiendommelige Livsform.
 
-At det nye Liv ikke uden at lide Skade kunde fastes ind i det gam-
+At det nye Liv ikke uden at lide Skade kunde fæstes ind i det gam-
 les Former, er noget, alle nu ved og ser.
 
-Men Livets Forstokning foregaar ofte saa umærkelig, at der skal
-et gløgt Øie til at se den Fare, som truer. Desuden er det saa med os
-Mennesker, at vi ofte er reddere for en rent ydre Forandring i Form
+Men Livets Forkvakling foregaar ofte saa umærkeligt, at der skal
+et aabent Øie til at se den Fare, som truer. Desuden er det saa med os
+Mennesker, at vi ofte er ræddere for en rent ydre Forandring i Form
 og Udseende, end for at lide Skade paa selve Væsenet og Indholdet.
 Det er da gammelt og historisk nok til, at det kunde være kjendt af dem,
 der er de styrende i Kirken. Men Kirkens eller rettere Menighedens
@@ -202,12 +215,12 @@ Liv — thi nogen anden Kirke end Menigheden er der ikke — er ikke et
 Formliv. Menigheden er ikke et dødt Stof som Træ eller Marmor
 eller Jern, som tilhugges eller støbes.
 
-%Page 31
+% Page 31
 
 Menigheden er de omvendtes og troendes Forsamling. I denne
 er det Livet, som er det bestemmende; Formen er det tilfældige, i
 mange Henseender det rent uvæsentlige. Det er da bibelsk, om noget
-er det. Saa, siger man; men der maa da være en Orden; thi Gud
+er det. Ja, siger man; men der maa da være en Orden; thi Gud
 er en Ordenens Gud. Meget sandt. Men hvilken Orden?
 
 Livet i Gud er et og det samme Liv, det er sandt. Men er det
@@ -219,12 +232,11 @@ aandelige Liv i Mennesket, hvis Herre og Skaber han dog ogsaa er,
 kun en eneste Livsform?
 
 Har Gud givet sin Almagt tilkjende ved at skabe et overmaade rigt
-Naturliv, men givet sin Raanmagt tilkjende ved at skabe et overmaade
+Naturliv, men givet sin Vanmagt tilkjende ved at skabe et overmaade
 fattigt Aandsliv? Det var ialfald ikke Luthers Mening. Og har
 Luther givet klart tilkjende, hvad han forstod med en sand Menighed,
 saa har han ogsaa ladet os vide, hvad han troede om de rent ydre
 Anordninger.
-
 I sit Skrift af 1526 om „Den tyske Messe“ siger han specielt om
 Søndagsgudstjenesten: „Her [d. v. s. i Wittenberg] beholder vi Mes-
 seklæderne, Alteret, Lysene, saa længe de holder ud, eller vi finder
@@ -233,6 +245,8 @@ saa lader vi dem gjøre det. Men i den rette Messe mellem bare
 sande kristne burde ikke Alteret vedblive, som det er, og Præsterne
 burde altid vende sig til Folket, som Kristus uden Tvil gjorde det ved
 Nadveren. Nu, det faar blive til sin Tid.
+
+——————
 
 Saa holdes Prædiken over Søndagens eller Festens Evangelium.
 Og jeg synes, at hvor man har den tyske Postille for hele Aaret, der
@@ -243,32 +257,36 @@ Beskyttelse mod Sværmerne og Sekterne; det samme har vi seet og
 sporet ved Homilierne under Froprediken, at det ogsaa er foregaaet
 omtrent paa samme Vis.
 
-%Page 32
-
 Forøvrigt, naar ikke aandelig Forstand og Aanden selv taler gjen-
-nem Præsterne (jeg vil ikke hermed sætte Aanden i Maal; den lærer
+nem Præsterne (jeg vil ikke hermed sætte Aanden Maal; den lærer
+
+% Page 32
+
 nok at tale bedre end alle Postiller og Homilier), saa kommer det dog
-tilslut dertil, at enhver prædiker, hvad han vil, og der saa igjen iste-
+tilslut dertil, at enhver prædiker, hvad han vil, og der saa igjen ikke-
 denfor Evangelium og Udlæggelse af det bliver prædiket om blaa
-Ænder. Thi en af Aarsagerne til, at vi beholder Epistlerne og Evan-
+Ander. Thi en af Aarsagerne til, at vi beholder Epistlerne og Evan-
 gelierne, som de staar i Postillerne, er den, at der er saa faa aandrige
 Præster, som kan behandle en hel Evangelist eller en anden Bog med
 Kraft og Nytte.
 
+——————
+
 Vi sammenfatter det alt: Denne og al anden Ordning er at bruge
 saa, at hvor der opstaar Misbrug deraf, afskaffer man den straks og
-indsfører en anden, ligesom Kong Ezechias brød istykker og afskaffede
+indfører en anden, ligesom Kong Ezekias brød i stykker og afskaffede
 Kobberslangen, som dog Gud selv havde befalet at gjøre — af den
 Grund, at Israels Børn misbrugte den. Thi Ordningerne skal tjene
 til at fremme Troen og Kjærligheden og ikke til at skade Troen.
+
 Naar de nu ikke længer gjør det, saa er de alt døde og borte og
 gjælder ikke mere, ligesom naar en god Mynt er forfalsket, saa bliver
-den for Misbrugens Skyld inddragen og forandret, eller som naar
+den for Misbrugerens Skyld inddragen og forandret, eller som naar
 de nye Sko bliver gamle og klemmer, saa bruges de ikke mere, men
 bliver kastede og der kjøbes andre. Ordningen er en udvortes Ting;
-
 den være saa god, den være vil, saa kan den lede til Misbrug. Men
 da er det ikke mere en Ordning, men en Uorden. Derfor staar og
+
 gjælder ingen Ordning noget af sig selv, som de pavelige Ordninger
 hidtil har været agtede; men al Ordnings Liv, Værdighed, Kraft og
 Dyd er den rette Brug; ellers gjælder og duer den slet ikke noget.
@@ -281,28 +299,25 @@ Forfatning. Det ene maa svare til det andet.
 
 Ulykken er nok den, at Forfatningsspørgsmaalet inden den luther-
 ske Kirke ikke har holdt Skridt med Lærespørgsmaalet saa godt, som
-det gjorde, da Luther fuldskafte og forkastede den katholske Kirkes
+det gjorde, da Luther fuldfægtede og forfattede den katholiske Kirkes
 Lære og Forfatning i det sekstende Aarhundrede.
 
 Men er det da galt at forsøge paa at gjøre noget nu, som burde
-have været gjort før? Eller skal man virkelig nære saa stor Ærgrelse
+have været gjort før? Eller skal man virkelig nære saa stor Agtelse
 for det rent udvortes ved Kirken, at man ikke tør driste sig til at sætte
 et Spørgsmaalstegn ved et og andet vedrørende den ydre Ordning?
 
-%Page 33
+% Page 33
 
 Skal det fastslaaes som et ufravigeligt Princip, at har man ikke noget
 at udsætte paa Læren, saa skal man lade det bestaaende være, som
 det er?
 
-Vil­de det være luthersk?
+Vilde det være luthersk?
 
+\subsection{Lidt om Arbeidet for levende Menigheder.}
 
-%End of section
-
-Lidt om Arbeidet for levende Menigheder.
-
-Man spørger, hvorledes skal vi gaa tilværks for at arbeide for Me-
+Man spørger, hvorledes skal vi gaa tilverks for at arbeide for Me-
 nighed i bibelsk Betydning?
 
 Og selvfølgelig er det et vigtigt Spørgsmaal i denne Forbindelse,
@@ -316,35 +331,39 @@ neske arbeider for det legemlige Liv fra Vuggen til Graven, det hele
 Legeme arbeider for Livets Opholdelse og Bevarelse, saaledes er Ar-
 beidet for Menighedens Liv og for levende Menighed et uafbrudt Ar-
 beide fra den Tid Aanden blev udgydt og indtil Kristi Tilkommelse.
-Dette Arbeide kan ikke gjøres alt med et Ryk, det maa drives hele
+Dette Arbeide kan ikke gjøres af med et Ryk, det maa drives hele
 Tiden. Livet i Menigheden maa stadig næres, og det har saa mange
 
 Fiender, at der ogsaa stadig maa kjæmpes til Livets Forsvar. Ar-
 beidet er ogsaa til enhver Tid saa vigtigt for Menigheden i sin Helhed
 og for de enkelte Sjæle, at det er nødvendigt altid at ihukomme det
-apostoliske Ord, at nu er den velbehagelige Tid og i dag er Frel-
+apostoliske Ord, at nu er den velbehagelige Tid og idag er Frel-
 sens Dag, og at vi maa kjøbe den beleilige Tid, eftersom Dagene
 er onde.
 
-For det andet er det rigtigt at sige, at der er Forskjæl paa Tider
+For det andet er det rigtigt at sige, at der er Forskjel paa Tider
 ogsaa, og at vort Folk har en særegen Stilling og en særegen Anled-
 ning just i vor Tid og i vort Land til at arbeide for Menighedens
-Liv og Frihed. Just nu, naar vi er flyttede ud af Statskirken, gjælder
+Liv og Frihed. Just nu, naar vi er flyttet ud af Statskirken, gjælder
 det at nytte det beleilige Øieblik til at finde Frikirkens rette Form og
 Arbeidsmaade.
-
-%Page 34
 
 Med disse to Forudsætninger for Øie vil alle velvillige Læsere
 forstaa, at hverken arbeider vi for noget nyt, men tvertimod for det
 gamle, apostoliske Menighedsliv, ei heller mener vi et Arbeide, som
 kan eller skal gjøres paa et Par Dage og dermed være færdigt, men
-netop et Arbeide, som varer hele Naadetiden tilende,
+netop et Arbeide, som varer hele Naadetiden tilende.
+
+% Page 34
+
 Det rette Arbeide for levende Menighed har hos os sit Udgangs-
 punkt i Barnedaaben. Der kan umulig blive ret Skik paa en luthersk
 Menighed, dersom vi ikke tager sikkert Fæste der. Med Aand og Daab
 begyndte Menigheden; og der begynder den ogsaa hos os i vore
-Dage for hvert enkelt Menneskes Vedkommende.*)
+Dage for hvert enkelt Menneskes Vedkommende.\footnote{*) Forfatteren har ogsaa andetsteds udtalt sig om Barnedaabens, saa-
+velsom Konfirmationens Betydning for Menigheden. Nogle af disse Udtal-
+elser er optagne i femte Afsnit af nærværende Bind. — Udg.
+}
 
 Men faar vore Børn ved Daaben Livet i Gud, Aandens Liv, saa
 de blir levende Lemmer paa Jesu levende Legeme, saa er det klart,
@@ -352,57 +371,54 @@ at Daaben medfører den høie og hellige Forpligtelse, at Livet skal
 næres og bevares ved Livets Ord i og gjennem Menigheden.
 
 Og her begynder et Arbeide, som tydelig nok kræver baade
-Mænds og Kvinders Deltagelse. Skal de smaa ikke sulte ihjel aande-
-ligt, ikke heller rives bort fra Kristi Legeme ved Vold og Magt
-eller ved Satans List og Svik gjennem Verdens Forførelse, saa maa
+Mænds og Kvinders Deltagelse. Skal de smaa ikke sulte ihjel aan-
+deligt, ikke heller rives bort fra Kristi Legeme ved Vold og Magt
+eller ved Satans List og Svig gjennem Verdens Forførelse, saa maa
 alle Menighedslemmer baade kjende sit Ansvar og være paa Vagt
 og lægge Arbeide til i rette Tid og paa rette Maade.
 
 Dette er det Sted, hvor det fremfor alle Ting gjælder om at
-kjøbe den beleilige Tid og begynde tidligt og holde paa sent, ja
-„uden Afladelse“. Dette er Arbeidet fra Slægt til Slægt gjennem de
-svindende Tider.
+kjøbe den beleilige Tid og begynde tidligt og holde paa sent, ja „uden
+Afladelse“. Dette er Arbeidet fra Slægt til Slægt gjennem de svin-
+dende Tider.
 
 Foran Forældre og Slægtninge, foran Præster og Lærere, foran
-den hele kristne Menighed og alle enkelte Menigheders staar den
-Herre Jesus og byder: Lader de smaa Børn komme til mig og forhindrer
+den hele kristne Menighed og alle enkelte Menigheder staar den Herre
+Jesus og byder: Lader de smaa Børn komme til mig og forhindrer
 dem ikke, thi Guds Rige hører saadanne til. Mon de alle tænker paa,
 hvad skrevet staar, at Jesus blev vred og talte saaledes?
 
 Blir der virkelig gjort alt, som gjøres skal for Børnene? Er der
-et levende Kristendoms Exempel i alle Hjem, hvor Børnene er døbte?
+et levende Kristendoms Eksempel i alle Hjem, hvor Børnene er døbte?
 Er der levende Undervisning og Kristendom i alle Menighedsskoler?
 Er Konfirmationsundervisning og Konfirmation overalt, hvad den
 skulde være? Og er Frugterne saadanne, som et Troens og Kjærlig-
 hedens, Haabets og Bønnens Arbeide har Løfte om at opnaa?
 
 Lad de Præster, som paastaar, at alt er i god Orden med vore
-Menigheder, tænke sig lidt om. Ser Børnene kun kristelige Ex-
+Menigheder, tænke sig lidt om. Ser Børnene kun kristelige Eks-
 empler i Menighederne? Og er der baade sund Næring og gode Hegn
 om „Lammene“ i Hjorden? Og er ikke Konfirmationen, som den
+
+% Page 35
+
 drives, en oprørende Krænkelse af Sandhed og Hellighed i de mang-
 foldigste Tilfælde?
 
-*) Forfatteren har ogsaa andetsteds udtalt sig om Barnedaabens, saa-
-velsom Konfirmationens Betydning for Menigheden. Nogle af disse Udtal-
-elser er optagne i femte Afsnit af nærværende Bind. — Udg.
-
-%Page 35
-
 Vi behøver ikke at sige mere, for at alle kan se, at her er Rum for
 Arbeide, mere Arbeide, bedre Arbeide, alvorligere Arbeide og sun-
-dere Arbeide end sædvanlig drives i Menighederne. Der er saa fri-
+dere Arbeide end sædvanlig drives i Menighederne. Der er faa kri-
 stelige Hjem, og der er Sløvhed og Slaphed i det kirkelige Arbeide
 paa dette Punkt.
 
 Vi havde nær sagt: Pas paa Børnene, og Menigheden vil passe
 sig selv. Men kanske det vilde ikke være rigtigt. Dog er saa meget
-sandt, at i det nye Testamente finder vi, at det ofte var Børnenes
-Nød og Hjælp, som drog Forældrene til Jesus. Og kunde vi alle vaagne op
+sandt, at i det nye Testamente finder vi, at det ofte var Børnenes Nød
+og Hjælp, som drog Forældrene til Jesus. Og kunde vi alle vaagne op
 og se Ansvaret for Børnene, saa blev vi ikke længere bitre Fiender af
 „levende Menigheder“. Nei vi skulde med Graad sukke til Herren
 om Aandens Udgydelse, at vi ikke skulde hindre de smaa Børn fra at
-komme til Jesus ved vort aandløse Exempel og vor aandløse Tale.
+komme til Jesus ved vort aandløse Eksempel og vor aandløse Tale.
 
 Derfor trænges der ogsaa et kraftigt Arbeide blandt de gamle for
 levende Menighed. Thi skal de gamle begynde med Børnene, saa maa
@@ -415,29 +431,30 @@ blandt de gamle, er fornemmelig Arbeidet med Sandhedens levende
 Erkjendelse, som sker ved Guds Ord. Skal Menigheden komme paa
 Fode, saa maa Ordets Lys faa skinne frit og uhindret ogsaa over
 denne Sag. Og da gjælder det ikke om at søge Beroligelse hverken
-i Judas eller i Ananias og Safira; men da gjælder det om at
+i Judas eller i Ananias og Saffira; men da gjælder det om at
 vaagne op til alvorlig Bekymring for Sjælenes Frelse og Menighe-
 dens Liv. Og da gjælder det om at være Ordets Gjørere og ikke
 alene dets Hørere, hvorved vi kun bedrager os selv. Naar vi da ser,
-hvorledes Menigheden var og skal være, saa lad os vende om og
-„gjøre de første Gjerninger“, hvilket dog netop vil sige at begynde
-forfra, siden vor Udvikling har været saa skjev og ført os saa langt bort fra
+hvorledes Menigheden var og skal være, saa lad os vende om og „gjøre
+de første Gjerninger“, hvilket dog netop vil sige at begynde forfra,
+siden vor Udvikling har været saa skjæv og ført os saa langt bort fra
 den „levende Menighed“.
 
 Det er umuligt at lægge nok Vægt paa denne Side af Sagen:
-En ren Forkyndelse om Menigheden og en oprigtig Grunden paa
-Guds Ord i denne Sag. Blir ikke Præster og Menighedslemmer
+En ren Forstaaelse om Menigheden og en oprigtig Grunden paa
+Guds Ord i denne Sag. Blir ikke Prester og Menighedslemmer
 hjertelig enige om denne Sag, at Ordets Lys skal faa skinne, og Or-
+
+% Page 36
+
 dets Lys vil vi følge baade i Menighedssager og i alle andre Sager,
 saa kan ikke Josefs Skade læges, ei heller kan Davids forfaldne Hytte
 reises af Gruset.
 
-%Page 36
-
 Det er sandt, at vi kan ikke vente Aarhundreders Misbrug rettede
 paa en Dag; men tager Helbredelsen Tid, saa er det desto mere nød-
-vendigt, at den begynder straks. Da er det Lyset fra Gud, som skal
-læge Menighedens Brøst, saa lad Lyset faa skinne frit og klart, jo
+vendigt, at den begynder straks. Og er det Lyset fra Gud, som skal
+læge Menighedens Brøst, saa lad Lyset faa skinne frit og klart jo
 før des bedre.
 
 Men at udbrede falsk Oplysning om Menigheden vil komme til-
@@ -446,13 +463,13 @@ bage med knusende Dom over dem, som gjør det.
 Rækker da ikke en Prædiken hver tredie Søndag eller endog hver
 Søndag til, saa er det rigtigt at drive paa med „Samtalemøder“ og
 med Bibellæsning, at samles til Bøn og Guds Ords Betragtning,
-indtil Menighedens Veien og Ordning staar klar som Dagen for
+indtil Menighedens Veien og Evning staar klar som Dagen for
 alle Menighedslemmer i Ordets Lys.
 
-Man siger, at vore Menigheder vil blive for smaa til at holde Præ-
+Man siger, at vore Menigheder vil blive for smaa til at holde Pre-
 ster, dersom vi skal følge Bibelens Krav. Men man se sig for en
 Smule, hvorledes man taler; thi blir Verden herskende i Menigheden,
-saa vil snart den Tid komme, da man maa lede efter de troende Præ-
+saa vil snart den Tid komme, da man maa lede efter de troende Pre-
 ster og troende Menighedslemmer udenfor den saakaldte lutherske
 Kirke. Og man faar betænke, at skal vor Kirke have Fremtid, saa
 maa den have Levedygtighed; men denne beror paa Aandslivet selv,
@@ -462,15 +479,7 @@ me; de unge begjærer Aand og Sandhed, om de skal drages ind i Me-
 nigheden.
 
 Det er paa høi Tid, at dette Arbeide drives med Kraft, og vi er
-vis paa, at den Sandhedssæd, som nu udstrøs om Menigheden og
+vis paa, at den Sandhedssæd, som nu udstrøes om Menigheden og
 dens Væsen og Arbeide, skal bære velsignede Frugter blandt vort
-dyrekjøbte Folk for lange Tider.
-
-
-%End of section
-
-
-
-
-
+dyreigste Folk for lange Tider.
 
