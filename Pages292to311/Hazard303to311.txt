@@ -1,0 +1,392 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Lægmandsvirksomhed” is broader than merely “lay preaching.” It includes witness, exhortation, service, testimony, work in homes and schools, and public proclamation. I will render it consistently as “lay activity” where Sverdrup is speaking of the phenomenon as such, with “lay preaching” only where the context specifically concerns preaching.
+* “fremelske” means to foster, cultivate, or bring to fuller development, not merely “encourage.”
+* “Sværmeri” is a historically charged Lutheran term. It denotes religious enthusiasm regarded as spiritually uncontrolled, fanatical, or detached from the external Word and proper church order. “Enthusiasm” is historically apt but can be too mild in modern English; “religious fanaticism” can be too strong. I will generally use “enthusiasm” where the polemical Lutheran sense remains intelligible from context.
+* “kirkelig Anarkisme” is literally “ecclesiastical anarchy.”
+* “bent ud af Hjertet” means speaking plainly, directly, and sincerely: “straight from the heart.”
+* “Liv og Aand” is not generic vitality and inspiration. “Life and Spirit” has theological force and points toward spiritual life produced by the Holy Spirit.
+* “den Helligaand” is “the Holy Spirit.”
+* “Naadegave” is literally “gift of grace,” but in Pauline contexts the standard theological equivalent is “spiritual gift.”
+* “Aandens Meddelelse” means the impartation or communication of the Spirit, not merely information concerning the Spirit.
+* “Gjenfødelsen” is “regeneration” or “the new birth.” Because the argument is doctrinal, “regeneration” best preserves precision.
+* “Vidnekaldet” is the believer’s “calling to witness,” not merely a voluntary opportunity to give testimony.
+* “tilkommer og paahviler” combines right, belonging, duty, and obligation: the calling “belongs to and rests upon” all living Christians.
+* “Mund og Naadegave” is unusual in English if rendered literally. The sense is that the manner of witness depends on one’s capacity for expression and one’s spiritual gift.
+* “Bekjendelse” may mean confession in the sense of publicly acknowledging Christ, not confession of sins.
+* “Undergjerninger” means wondrous acts or mighty saving deeds.
+* “Løfter” in the Psalms means vows made to God, not merely promises in the modern conversational sense.
+* “Saliggjørelse” and “Salighed” require careful handling. They refer respectively to salvation and blessedness/salvation, not merely happiness.
+* “Læbers Grøde” is the biblical “fruit of lips.”
+* “Prædikanter” can mean preachers/proclaimers rather than ordained pastors.
+* “Liturgi” is used polemically and somewhat ironically for Paul’s pattern of congregational worship.
+* “Opbyggelse” is “edification,” with its Pauline ecclesial sense.
+* “Enfoldighed” in Romans 12 means sincerity/singleness of heart, not stupidity or naïveté.
+* “Forstander” means one who leads, presides, or governs.
+* “Aandens Drift” means the Spirit’s inward impelling or prompting.
+* “Erfaringsprædiken” means preaching or testimony arising from experienced salvation: “preaching from experience” is too neutral; “experiential preaching” is more precise.
+* “den brede Vei til Helvede” echoes the broad way leading to destruction and must not be softened.
+* “døde Menigheder” means spiritually dead congregations, not congregations that have ceased institutionally to exist.
+* “Bodsprædikenen” is preaching that calls to repentance, not merely penitential preaching in a liturgical sense.
+* “Værn og Skjermbræt” evokes using church structures as a defensive screen or shield.
+* “Røsten som raaber i Ørkenen” is the biblical “voice crying in the wilderness.”
+* “Menneskefisker” is “fisher of men” in traditional biblical diction, but under the requested modern-pronoun and non-KJV profile I will use “fisher of people” only if needed outside a quotation; here “a fisher of men” retains the historic biblical metaphor more precisely.
+* The phrase transcribed as “om der stiges aldrig saa høit paa Tho og Røber” appears textually uncertain or corrupt in the supplied text. Context clearly indicates noisy protest or outcry. I will preserve the sense cautiously rather than pretend certainty about the exact lexical form. 
+
+Syntactic Hazards
+
+* Sverdrup frequently accumulates claims through semicolons rather than separating them into short, modern English sentences.
+* His argument repeatedly moves from assertion to biblical proof, then to rhetorical question, then to exhortation. Breaking this sequence would weaken the polemical force.
+* Several biblical quotations are embedded grammatically within his own sentences.
+* Parallel constructions such as “Liv og Aand er Hovedsagen…” and “Frelsen… Kilde og Udspring…” require syntactic parallelism in English.
+* Repeated rhetorical questions are not ornamental. They function as argument by forcing the reader toward a conclusion.
+* Passages beginning “Men…” often mark decisive pivots rather than casual contrast.
+* The sequence “ikke alle … men …” must retain its restrictive logic: universal duty, differentiated mode.
+* The exposition of 1 Corinthians 12 and Romans 12 depends on long enumeration. It should not be compressed.
+* The second section repeatedly uses “where … there …” logic, giving the prose a judicial and almost syllogistic force.
+* Short exclamations such as “Hvilken Rørelse! Hvilket Liv!” intentionally interrupt longer argumentative prose and should remain abrupt.
+
+Theological Hazards
+
+* Sverdrup distinguishes the source of lay activity from its form. Its source is regeneration and the believer’s universal calling to witness; its form is limited and determined by particular spiritual gifts.
+* The argument would be distorted if “spiritual gifts” were made the basis of the calling itself. For Sverdrup, salvation itself creates the witness obligation.
+* “living Christians” contrasts with nominal, sleeping, or spiritually dead Christianity.
+* “death,” “life,” “darkness,” “light,” “sleep,” “waking,” and “fire” are theological states and images, not merely psychological conditions.
+* The text links duty and the Holy Spirit’s inward work. Christian obligation is not opposed to freedom because both meet in vocation/calling.
+* The believer’s love for the lost is presented as an effect of the same divine love by which the believer was saved.
+* The language about hell, condemnation, salvation, and forfeiture of blessedness must remain explicit.
+* Sverdrup’s critique of ecclesiastical order is not a rejection of church order as such; it is an argument that order cannot be used to suppress a divinely imposed call to witness.
+* “right doctrine” is placed in quotation marks when used as a defensive claim by spiritually dead congregations; the irony must remain.
+* The preacher’s legitimacy is traced to the same “Spirit of faith” present in all believers, while diversity of offices and gifts remains intact.
+
+Voice Hazards
+
+* The voice is combative but not casual.
+* Sverdrup speaks as an ecclesiastical controversialist and pastor at the same time.
+* His sarcasm toward church politicians and formalists should remain pointed.
+* The repeated use of “must” is essential; it would be misleading to substitute “should,” “may,” or “can.”
+* “The sleeping church may take offense as much as it pleases” must retain its dismissive sharpness.
+* The burning-house analogy is intentionally shocking and morally accusatory.
+* The direct address “Brothers, where is the wilderness?” must retain the sermonic confrontation.
+* Modernizing his prose into conciliatory institutional language would destroy the argument.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Kattekjæp for Kirkepolitikerne” functions like “a cudgel” or “weapon” for church politicians: a serious spiritual issue is being turned into an instrument of ecclesiastical controversy.
+* “Liv og Aand” is a pietistic-Lutheran compression of living Christianity as distinguished from dead formalism.
+* “Overgangen fra Mørket til Guds underfulde Lys” directly echoes 1 Peter 2:9 and describes conversion/regeneration.
+* “Overgangen fra Døden til Livet” echoes Johannine language, especially John 5:24 and 1 John 3:14.
+* “betale Herren sine Løfter” is Psalmic covenantal language: fulfilling vows before God as a response to deliverance.
+* “Herrens Forgaarde” evokes the temple courts of the Psalms and gives public testimony a cultic image of thanksgiving.
+* “bære Frelsen i tause Hjerter og med lukkede Læber” is a rhetorical antithesis: salvation cannot rightly remain inward and voiceless.
+* “Jordens Salt” and “Verdens Lys” are Matthew 5:13–16.
+* “Læbers Grøde” evokes Hebrews 13:15 and probably Hosea 14:2 behind it.
+* “Troens Aand” comes from 2 Corinthians 4:13, itself quoting Psalm 116.
+* “Kristi Kjærlighed … den tvingende Magt” echoes 2 Corinthians 5:14: the love of Christ constrains/compels.
+* “Jo mere, desto bedre” is deliberately simple proverbial logic: if love is both God’s gift and demand, greater grace entails greater exercise of love.
+* “Kom og se!” comes from John 1 and represents Sverdrup’s model of experiential witness: one who has found Christ calls another to encounter him.
+* “den brede Vei” is Matthew 7:13.
+* “sovende Kirke” combines biblical watchfulness language with revivalist critique of nominal Christianity.
+* “gaa ind” / “trænge ind med Ordet” has almost military force: press into spiritually resistant places with the Word.
+* “forskans­er sig bag ‘den rette Lære’” means “entrenches itself behind ‘right doctrine’,” an intentionally military metaphor.
+* The burning-house comparison intensifies the moral logic: one does not need the permission of sleeping people in order to warn them of mortal danger.
+* “Røsten som raaber i Ørkenen” is Isaiah 40:3 as applied in the Gospels to John the Baptist.
+* The question “Hvi døber du da…” quotes John 1:25 and aligns institutional suspicion of lay activity with the questioning of John the Baptist.
+* “Ørkenen” becomes a metaphor for spiritual barrenness. The closing question universalizes it: barrenness is nearly everywhere.
+
+The supplied biblical wording often follows an older Danish-Norwegian Bible tradition. Where English KJV phrasing would naturally reproduce a familiar biblical parallel, it must nevertheless be moderated because the requested profile explicitly avoids inherited KJV archaism. Thus “you/your” will replace “ye/thy,” while the older syntax and parallelism will be retained.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+First major movement: Lay activity according to ability and gift
+
+* Opening controversy: the United Church formally claims to foster Christian lay activity, yet its official organ ridicules actual encouragement of it as foolishness, enthusiasm, and ecclesiastical anarchism.
+* Thesis concerning essence: life and Spirit are the central matter in Christianity and therefore in lay activity.
+* Negative clarification: merely learned or trained religious activity without the Holy Spirit is neither pleasing to God nor a blessing to the congregation.
+* Foundational doctrinal claim: lay activity does not arise from possession of extraordinary or ordinary gifts.
+* Positive foundation: it arises from experienced salvation, regeneration, reception of the Spirit, and passage from darkness to light.
+* Limiting principle: particular spiritual gifts determine the form and scope of each believer’s activity.
+* Universal/differentiated formula: all living Christians have the calling to witness; not all witness in the same way.
+* Old Testament proof: the saved person is obligated to confess God’s saving acts publicly.
+* Moses and Joel: the ideal is a Spirit-filled people in which prophecy is widely diffused.
+* Psalms: salvation produces public thanksgiving, confession, testimony, and fulfilled vows.
+* Rhetorical inference: the new covenant cannot contain less witness, praise, right, or freedom than the old.
+* New Testament proof: Matthew 5, Matthew 10, Romans 10, 1 Peter 2, Hebrews 13, 2 Corinthians 4.
+* Pauline ecclesiology: 1 Corinthians 14 depicts active congregational participation rather than rigid passivity.
+* Gift limitation: 1 Corinthians 12 and Romans 12 show that activity varies according to the Spirit’s distribution of gifts.
+* Consequence: greater gift entails greater responsibility.
+* Contemporary polemical conclusion: it should not have been necessary to establish something so elementary from Scripture, but opposition to free Christian lay activity makes the foundation necessary.
+
+Second movement: Christian experience
+
+* Transition from Scripture to experience.
+* Theological principle: no Christian duty is imposed externally without also being wrought inwardly by the Holy Spirit.
+* Vocation unites duty and freedom.
+* Experiential thesis: those saved by God’s love are driven by that same love to bring others with them into salvation.
+* John 1 provides the paradigmatic narrative: those who find Jesus go find others.
+* Two dominant experiences drive witness: horror at the misery and danger escaped, and joy in the grace found in Jesus.
+* Warning follows from the first; evangelistic invitation follows from the second.
+* Universal calling remains differentiated by gift and inward leading.
+* Hauge serves as an exemplary case of unusually broad calling.
+* Immediate pastoral aim: awaken sleeping Christians and congregations.
+
+Third movement: Lay activity in dead congregations
+
+* Since lay activity springs from the call to witness, and witness aims especially at awakening those in danger, lay activity is drawn precisely toward the darkest and most spiritually dead places.
+* Criterion of authenticity: lay activity that avoids spiritually dead congregations suffers from a fundamental defect.
+* Self-examination for itinerant preachers: do they seek hard places, or places where believing friends reward them with welcome and gifts?
+* Objection: should lay preachers respect congregational and pastoral prohibitions?
+* Answer: no; Hauge’s work itself would have been impossible under such a principle.
+* Burning-house analogy: emergency and love override the sleepers’ claim not to be disturbed.
+* Institutional critique: church structures can be used as shields against the Holy Spirit and living Christianity.
+* John the Baptist analogy: cries for “order” can function as resistance to a God-sent voice.
+* Moral conclusion: church order cannot confer a right to immunity from the preaching of repentance.
+* Strategic exhortation: renewed lay activity should especially enter congregations that oppose it.
+* Qualification: work must still be “according to ability and gift.”
+* Hauge’s national calling is not universal; others have narrower spheres.
+* Yet even those who remain at home may support those called to go.
+* Final imperative: where there is wilderness, the crying voice must be heard.
+* Closing rhetorical climax: “Brothers, where is the wilderness? Or rather: Where is the wilderness not?”
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Numbers 11:29 — Moses wishes that all the Lord’s people were prophets and that the Lord would put his Spirit upon them.
+* Joel 2:28 in most modern English versification; cited in the Norwegian text as Joel 3:1 — the outpouring of the Spirit upon all flesh, sons and daughters prophesying.
+* Psalm 22:22, 25 — declaring God’s name in the congregation and fulfilling vows.
+* Psalm 35:17–18 — thanksgiving in the great congregation.
+* Psalm 40:9–10 — public proclamation of righteousness, faithfulness, salvation, mercy, and truth.
+* Psalm 66:16 — “come and hear” what God has done for the soul.
+* Psalm 111:1 — praising the Lord among the upright and in the congregation.
+* Psalm 116:12–14 — cup of salvation, calling upon the Lord, fulfilling vows publicly.
+* Psalm 116:10 — “I believed, therefore I spoke.”
+* Matthew 5:13–16 — salt of the earth, light of the world, city on a hill.
+* Matthew 10:32 — confessing Christ before people and Christ confessing the believer before the Father.
+* Romans 10:9–10 — confession with the mouth and faith in the heart.
+* 1 Peter 2:9 — chosen race, royal priesthood, holy nation, proclamation of God’s mighty acts, darkness to marvelous light.
+* Hebrews 13:15 — sacrifice of praise, fruit of lips confessing God’s name.
+* 2 Corinthians 4:13 — same Spirit of faith; belief produces speech.
+* Psalm 116:10 stands behind 2 Corinthians 4:13.
+* 2 Corinthians 5:14 — implicit in the description of Christ’s love as the compelling power in Paul’s life.
+* 1 Corinthians 14:26 — participatory congregational worship.
+* 1 Corinthians 14:31 — all may prophesy one by one for learning and exhortation.
+* 1 Corinthians 12:4–11 — diversity of gifts, one Spirit.
+* Romans 12:6–8 — differentiated exercise of gifts.
+* Luke 12:48 — implicit in “to whom much is given, much will be required.”
+* John 1:35–52 — finding Jesus, finding one’s brother/friend, “we have found the Messiah,” “come and see.”
+* John 1:29 — Lamb of God who bears/takes away the sin of the world.
+* Matthew 7:13 — the broad way leading toward destruction.
+* John 5:24 and related Johannine language — transition from death to life.
+* Isaiah 40:3; Matthew 3:3; John 1:23 — the voice crying in the wilderness.
+* John 1:25 — “Why then do you baptize, if you are not the Christ, nor Elijah, nor the Prophet?”
+* Biblical watchman imagery may also lie behind the duty to warn sleeping people of danger, though no single verse is explicitly quoted.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* “must” will be retained where Sverdrup states necessity.
+* “hell,” “death,” “condemnation,” “sin,” and “repentance” will remain explicit.
+* Institutional criticism will not be softened into disagreement over administrative preference.
+* “dead priest,” “sleeping church,” and “dead congregations” will be retained rather than euphemized.
+* The burning-house illustration will retain its force.
+* Exclamatory sequences will remain exclamatory.
+* His dismissal of offended formalism will remain sharp.
+* Consolation and joy will remain intense where he speaks of the grace and gladness found in Jesus.
+* The result should sound morally inevitable rather than rhetorically inflated.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” will normally be “must.”
+* “skal” will be “shall,” “must,” or “is to,” according to whether the force is promise, obligation, or stated consequence.
+* “kan” remains “can,” but “kan ikke” will not be weakened into “is unlikely to.”
+* “paahviler” will be rendered as an obligation that “rests upon” someone.
+* “skal fordres” will be “will be required.”
+* “maa advare” will be “must warn.”
+* “maa bekjende” will be “must confess.”
+* “umuligt” will remain “impossible.”
+* “har Lov til” concerns moral right or authorization and will be rendered accordingly.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Lægmandsvirksomhed = lay activity
+* Lægprædikant = lay preacher
+* Vidnekald = calling to witness
+* Vidnepligt = duty to witness
+* Vidnesbyrd = testimony / witness, according to syntax
+* Bekjendelse = confession, in the sense of public acknowledgment of Christ
+* Naadegave = spiritual gift
+* Aand = Spirit when referring to the Holy Spirit; spirit where grammatically or biblically appropriate
+* den Helligaand = the Holy Spirit
+* Gjenfødelse = regeneration
+* Frelse = salvation
+* frelst = saved
+* Menighed = congregation
+* Opbyggelse = edification
+* Bodsprædiken = preaching of repentance
+* Kald = calling
+* Naade = grace
+* Tro = faith
+* Kjærlighed = love
+* Mørke / Lys = darkness / light
+* Død / Liv = death / life
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* darkness and marvelous light will remain visible imagery.
+* death and life will remain ontological-spiritual contrasts.
+* fruit of lips will not be paraphrased as “verbal praise.”
+* the broad road to hell will remain a road image.
+* the burning house will remain a burning house.
+* church organization as shield and screen will remain concrete.
+* entrenching behind “right doctrine” will retain its defensive/military imagery.
+* the wilderness and crying voice will remain biblical images.
+* Hauge’s breaking a way through to the outermost boundaries will retain its spatial and energetic force.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Polemic at the opening gives way to biblical demonstration.
+* Biblical demonstration gives way to joyous experiential testimony.
+* Joy then sharpens into warning concerning hell and spiritual sleep.
+* The final section becomes more confrontational as ecclesiastical resistance is addressed.
+* Yet the argument repeatedly returns to positive vocation, love, gift, and the Spirit’s work.
+* These oscillations will remain visible rather than being blended into uniformly solemn prose.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long inferential sentences will be preserved when they accumulate pressure.
+* Semicolons will remain where Sverdrup uses them to pivot rather than conclude.
+* Biblical lists will retain their parallel rhythm.
+* Rhetorical questions will be allowed to stand in sequence.
+* Short eruptions such as “What movement! What life!” will retain their oral force.
+* Repetitions of “must,” “all,” “where,” and “there” will not be edited away.
+* The translation will avoid artificially archaic English while preserving nineteenth-century sermonic weight.
+
+STEP 11: ACADEMIC TRANSLATION
+
+LAY ACTIVITY ACCORDING TO ABILITY AND GIFT
+
+When anyone in the United Church, which has after all set itself the task of “fostering Christian lay activity,” ventures to give a little encouragement toward the exercise of this work, he must put up with both mockery and abuse from the official organ of the church body. It is “foolishness” and “enthusiasm” and “ecclesiastical anarchism.” — Yes, it is now possible to understand how our church assemblies have managed to arrange matters so that, as a rule, the Christian laity sit silent.
+
+Since the matter has now come up for serious discussion, however, we shall try to speak straight from the heart concerning a matter serious enough for the Christians among us, however much it may be turned into a cudgel for church politicians.
+
+Life and Spirit are the chief thing in all Christianity, and therefore also in all ecclesiastical Lutheranism. Life and Spirit are the chief thing in all Christian undertakings; therefore also in lay activity. A Christian activity that is merely learned and practiced, but lacks the Holy Spirit, is neither pleasing to God nor a blessing to the congregation.
+
+According to Scripture, Christian lay activity does not have its root, ground, and source in certain particular gifts, whether one calls them extraordinary or ordinary spiritual gifts. According to Scripture, the source and fountain of Christian lay activity lie in the living experience of salvation itself, in the impartation of the Spirit itself in regeneration, in the very passage from darkness into God’s marvelous light. Whoever does not know this knows neither Christ nor the power of God as it is experienced in personal salvation, or in the passage from death to life.
+
+According to Scripture, on the other hand, lay activity receives its limitation and all its more particular determination from the particular spiritual gift or gifts that each believer has received.
+
+For the calling to witness, which is the fountain and source of lay activity, is universal and belongs to and rests upon all living Christians; but the manner in which I am to exercise my calling to witness depends upon my capacity of utterance and my spiritual gift. All living Christians must exercise lay activity; but not all in the same manner; that is determined and limited by ability and gift.
+
+This is according to Scripture. Already in the Old Testament we find it expressed clearly enough, time after time, that whoever is saved by the Lord must fulfill his vows to the Lord and honor his name by confessing his saving wonders.
+
+Over the people of Israel in their childhood Moses uttered the wish: “Would that all the Lord’s people were prophets, and that the Lord would put his Spirit upon them!” Num. 11:29. The old man of God was jealous of no one and cherished no petty fear of lay activity. If only there could be enough of it — by the Spirit of the Lord!
+
+Therefore this also stands as the Lord’s faithful promise over his people in the last days: “And it shall come to pass afterward that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy,” Joel 3:1. Moses’ wish shall be fulfilled, and a people of God shall be created in which all true members shall partake of the Spirit and of prophecy.
+
+Thus David also speaks of the proper thanksgiving for salvation, which therefore rests upon everyone who is saved — each according to ability and gift:
+
+“I will declare your name to my brothers; in the midst of the congregation I will praise you.” Ps. 22:23.
+
+“From you comes my praise in the great congregation; I will fulfill my vows before those who fear him.” Ps. 22:26.
+
+“Rescue my soul from their destructions, my only one from the young lions. I will give thanks to you in the great congregation; I will praise you among many people.” Ps. 35:17–18.
+
+“I proclaimed righteousness in the great congregation; see, I did not close my lips; Lord, you know it. I did not hide your righteousness within my heart; I declared your faithfulness and your salvation; I did not conceal your mercy and your truth from the great congregation.” Ps. 40:10–11.
+
+“Come and hear, all you who fear God, and I will tell what he has done for my soul.” Ps. 66:16.
+
+“Hallelujah, I will praise the Lord with my whole heart, in the council of the upright and in the congregation.” Ps. 111:1.
+
+“What shall I render to the Lord for all his benefits toward me? I will lift the cup of salvation and call upon the name of the Lord. I will fulfill my vows to the Lord, yes, before all his people.” Ps. 116:12–14.
+
+“I believed, therefore I spoke.” Ps. 116:10.
+
+These passages from the Old Testament, and many more with them, show quite irresistibly that salvation obligates one to audible confession in the congregation of God. The Lord’s great works, which the individual believer experiences, lay vow and obligation and responsibility upon him, and he must come forth with an offering of thanksgiving and with a testimony of praise in the courts of the Lord and in the assembly of his congregation.
+
+Should there then be less duty to witness, less praise, less right, and less freedom in the New Testament? Can we now be saved from death and carry salvation in silent hearts and with closed lips? Or is praise not due to the Lord, and do not many fellow travelers need to hear the testimony? Shall we fall behind those whom the Lord saved under the old covenant?
+
+Let us look at the testimony of the New Testament in this matter!
+
+The Savior appoints his congregation to be the salt of the earth and the light of the world, a city on the mountain that cannot be hidden, made manifest through the testimony of the truth and the works of love, Matt. 5:13–16. Is there anyone who believes this can happen without the participation and cooperation of all believers?
+
+The Savior says: “Therefore everyone who will confess me before men, him will I also confess before my Father who is in heaven.” Matt. 10:32. Thus men and women, all who believe, are equally obligated — under peril of the loss of salvation — to confess Jesus before men.
+
+But someone answers: Yes, all must witness by their lives, by their beautiful conduct, by their good works; not by word and speech. But then Paul comes and says: “For if you confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, then you shall be saved. For with the heart one believes unto righteousness, but with the mouth one confesses unto salvation,” Rom. 10:9–10.
+
+And Peter makes all believers proclaimers and preachers when he says: “But you are a chosen race, a royal priesthood, a holy people, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.” 1 Pet. 2:9.
+
+Salvation by faith therefore creates “the fruit of lips,” as the Epistle to the Hebrews also says: “Let us then always through him offer to God the sacrifice of praise, that is, the fruit of lips that confess his name.” Heb. 13:15.
+
+And that proclamation has no other ground or source in any right and true preacher, whether he be lay or learned, apostle or member of the congregation, Paul expresses clearly when he writes concerning himself to the Corinthians:
+
+“But since we have the same Spirit of faith according to what is written: I believed, therefore I spoke — we also believe, therefore we also speak,” 2 Cor. 4:13.
+
+Paul speaks, driven by the same Spirit of faith that all believers also have. When he became a believer, he became a witness of Christ. Then there was poured out within him that love of Christ which afterward became the compelling power in the work of his life.
+
+Therefore Paul also desires to have all believers taking part in the work and testimony of the congregation; and his “liturgy,” or form of worship, is entirely simple and free:
+
+“What then is to be done, brothers? When you come together, each of you has a psalm, he has a teaching, he has a tongue, he has an interpretation; let all things be done for edification.” 1 Cor. 14:26.
+
+There is not much stiffness in Paul’s “liturgy.” Nor is lay activity excluded; for there is in fact nothing else here than what we call lay activity. Therefore he also says: “For you can all prophesy, one by one, so that all may learn and all may be exhorted.” 1 Cor. 14:31.
+
+But that lay activity is to be exercised according to ability and gift, Paul expresses with striking clarity:
+
+“There are differences of spiritual gifts, but the Spirit is the same; and there are differences of ministries, but the Lord is the same; and there are differences of mighty workings, but God is the same, who works all things mightily in all. But the manifestation of the Spirit is given to each one for what is profitable. For to one is given a word of wisdom through the Spirit, but to another a word of knowledge through the same Spirit, and to another faith through the same Spirit, and to another gifts of healing through the same Spirit, and to another the working of miracles, and to another prophecy, and to another the discerning of spirits, and to another various kinds of tongues, and to another the interpretation of tongues. But all these things the one and same Spirit works mightily, distributing to each one individually as he wills.” 1 Cor. 12:4–11.
+
+And in another place:
+
+“But since we have different spiritual gifts according to the grace that has been given us, whether we have the gift of prophecy, let us use it in accordance with faith; or if we have a ministry, let us attend to the ministry; or if someone is a teacher, to the work of teaching; or if someone exhorts, to the exhortation! The one who gives, let him do it in sincerity; the one who leads, with zeal; the one who shows mercy, let him do it with gladness!” Rom. 12:6–8.
+
+See how lively and stirred, how free and spiritual Paul wished the congregation to be! What movement! What life! What unfolding of abilities and gifts, what freedom!
+
+This also follows of necessity from the biblical fundamental view of the matter, namely, that whoever is saved is, by salvation itself, called to be a witness of the Lord and a fisher of men. For if something is a duty and a demand of God, then surely the rule is this: From the one to whom little is given, little shall be required; but from the one to whom much has been entrusted, more shall be demanded.
+
+Or is one person to love less than he receives Spirit and grace to do, and another more? If love is God’s gift and God’s demand, then surely the rule is simple enough: the more, the better.
+
+So also with the duty to witness. We have merely selected a few passages of Scripture to show how the matter stands. Some time ago we believed it quite superfluous among Christians to cite any Scripture at all in order to demonstrate so simple a matter. Norwegian believers are, after all, familiar with all this. But our experience of the opposition to free Christian lay activity has convinced us that, unfortunately, it is still necessary to lay the foundation in this matter.
+
+God willing, we shall later show how the experience of God’s children agrees wholly and entirely with Scripture on this point.
+
+---
+
+When the attacks upon free Christian lay activity assumed so acute a form that it was called enthusiasm and anarchism, I found it necessary in the last issue of “Folkebladet” to demonstrate the broad and solid biblical ground upon which lay activity rests. It stands and falls with the Christian duty to witness. That it assumes different forms and appears more or less publicly, in small and large assemblies, in home, school, and church, is shown by both the Bible and church history. But its fountain and source are in the Christians’ calling to witness.
+
+We come now to Christian experience. For there is no duty that can be laid upon the believer unless it is also wrought in him by the Holy Spirit. Therefore Christian experience will also cast light upon all Christian matters. Christian duty and Christian freedom agree with one another, and we unite them both when we speak of the Christian calling; for within it lie both what God requires of them and what he himself by the Spirit impels them to do.
+
+The experience of believers in this matter is namely this: they themselves, having been saved by God’s love, are driven by the love that saved them to have others saved with them.
+
+With all the inwardness of experience this has been described once for all in John 1:35–52, so that it would be almost wrong, and in any case superfluous, to relate how the same thing has repeated itself in everyone who has come to faith. John tells how those who found Jesus had to find, each one, his brother and his friend and say to them: We have found the Messiah; come and see!
+
+Joy over salvation and living, overflowing love drive these believing men to find more people who need the same deliverance that they themselves have experienced. They have found the Lamb of God, who bears the sins of the world, and how many there are who need to find him! Therefore they must go out and bring the great, glad message first to those nearest them.
+
+Come and see! That is the true experiential preaching, and it is and must be the fundamental note in lay preaching. But this is also precisely what every single believer both can and must say in his confession of Jesus.
+
+For there are two things which, above all else, force themselves upon the consciousness of the one who has been saved; the one is the dreadful misery and terrible danger from which he has been saved; the other is the surpassing grace and blessed joy that he has found with Jesus. And both these experiences drive the saved person to find those who need the same salvation as he himself.
+
+To see people who stand near us in life walking blindly upon the broad road to hell is utterly unbearable for believing people. We must warn them, whether it is called order or disorder. The sleeping church may take offense as much as it pleases.
+
+And the knowledge of Christ’s love and grace is so surpassingly joyful that it is impossible not to let sinners hear of it. Believing people must confess, so that others may become as blessed as they themselves.
+
+But how this calling to witness, which every believer bears within himself, is to be exercised to the greatest blessing depends upon the Spirit’s prompting, or upon ability and gift. Not all see equally far, and not all are driven far afield. Hans Nielsen Hauge had to go out to the furthest boundaries of Norway. And, God willing, another time we shall write a little about how lay activity expressed itself in his day.
+
+For now, the chief thing is to take hold in earnest of all the sleeping Christians and congregations among us, in the hope that perhaps the Lord may grant that they be awakened.
+
+LAY ACTIVITY IN DEAD CONGREGATIONS
+
+Since lay activity arises from the Christian calling to witness, which is given to all believers when they come to faith; and since this calling to witness has above all else the purpose of awakening those who sleep from the danger of death and condemnation before it is too late, it will easily be understood that true Christian lay activity has a particular need to break in with the awakening call precisely where the darkness is thickest and the sleep heaviest, and therefore the danger greatest.
+
+Where lay activity does not have this character within it, it suffers from so serious a fundamental defect that it is a question whether there is much value in it at all. Therefore it is particularly necessary for those who travel about speaking the Word of God to examine themselves honestly and thoroughly as to whether what matters most to them is to bring the testimony to places where it is dark and cold and dead, or whether they prefer to seek out those congregations where believing friends receive them with joy and gifts.
+
+But can lay preachers really enter the dead congregations, where people entrench themselves behind “right doctrine” and want no lay activity? Should not the layman who travels with the confession of God’s Word respect congregational resolutions and pastoral commands and keep far away from such congregations?
+
+No, far from it. If Hans Nielsen Hauge had waited for permission from congregations and pastors, there would have been no lay activity. And it will not do to let people sleep in peace merely because they call themselves a congregation and keep a dead pastor to help them sleep more securely. Or when people are sleeping in a burning house, does the person who is awake have no right to cry “Fire!” until he has received a call to do so from those who are sleeping?
+
+A multitude of congregations have matters arranged in such a way that they use the pastor and the worship service and their entire ecclesiastical apparatus as a defense and a screen against the Spirit of God and living Christianity. And perhaps no congregation is entirely free from this sin; for the snare is so subtle that it steals in upon even the most watchful in order to take them by surprise. Thus there are also many congregations that, by means of their very congregational organization and ecclesiastical order, defend themselves against lay activity. Many ask to this very day: Why then do you baptize, if you are not Christ, nor Elijah, nor the Prophet? They want order, ecclesiastical order; the voice crying in the wilderness must not disturb them or their order.
+
+Must one bow before this order? Shall those who sleep be allowed to sleep in peace because they have such an order that no one is to have the right to disturb them? Impossible, if there is otherwise any right belonging to love. That people use God’s holy congregation as a shield against the Spirit’s awakening voice is a sin that by no means gives them a right to escape the preaching of repentance, if there is any way of getting it into their ears and hearts.
+
+If, therefore, there is any meaning in a renewal of Christian lay activity among us, then above all let us see it attack the dead congregations, where there is more scorn to be gained than any other reward. If one hears of a congregation that closes its church to lay preachers, or of a pastor who regards Christian lay activity as sin, that is precisely the place where it is more important than elsewhere for the crying voice to be heard. Go in there, however loud the outcry and protest may become. “It was as though I saw the world lying submerged in evil,” Hauge says of his calling. Therefore he would go.
+
+But here also it holds true that the activity becomes “according to ability and gift.” For no one can labor farther than his vision and his task extend. Hauge saw out over all Norway, and nothing could hold him back from breaking his way forward to the outermost boundaries of the land. He had to press forward everywhere, and his faith sustained him immovably until the prison wall shut itself between him and his field of labor. Others may perhaps see their task more narrowly: their house, their family, their congregation, their pastor, their neighbor, their Sunday school they recognize, at least, as their nearest field of labor. Not all Christians must travel about with the testimony. But often those who remain at home must help others to go out. And not least when the matter is one of pressing in with the Word where “ecclesiastical order” places such heavy obstacles in the way.
+
+Where there is wilderness, there the crying voice shall be heard. Brothers, where is the wilderness? Or rather: Where is the wilderness not? 

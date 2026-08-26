@@ -1,0 +1,427 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Lægmandsvirksomhed” is the controlling term throughout the passage. It denotes not merely “lay participation,” but active Christian work carried on by laypeople: exhortation, devotional meetings, evangelistic preaching, visitation, prayer meetings, testimony, and the exercise of spiritual gifts. I will render it consistently as “lay activity,” with “lay work” only where English idiom strongly requires it.
+* “fremelske” means to foster, cultivate, encourage the growth of, or bring to fuller development. It is stronger and more organic than simply “support.”
+* “Vækkelse” is the pietistic/Lutheran term “awakening,” referring to spiritual awakening from sin and spiritual sleep, not merely revivalism as an institutional movement.
+* “vakt” therefore means “awakened,” with strong spiritual connotations.
+* “Vidnepligt” means the Christian “duty to bear witness,” not merely a general duty to speak publicly.
+* “Naadegaver” means “gifts of grace” or “spiritual gifts.” Since the argument is explicitly Pauline and pneumatological, “gifts of grace” preserves the theological form while “spiritual gifts” may occasionally be needed for natural English.
+* “Aand” and “Guds Aand” must be rendered “Spirit” and “Spirit of God,” not “spirit” where the Holy Spirit is meant.
+* “død / levende” are theological predicates as well as metaphors. “Dead congregations,” “living pastors,” “spiritual life,” and “death” must retain their severe spiritual sense.
+* “troende” means “believing” or “believers,” with the pietistic implication of living faith.
+* “uomvendte” means “unconverted,” not merely “nonreligious.”
+* “Opbyggelse / Opbyggelser” carries the biblical meaning of “edification,” while in Norwegian-American church usage it may also designate devotional or edifying meetings. Context must determine whether to use “edification” or “meetings for edification.”
+* “ukirkelig” is literally “unchurchly” or “unecclesiastical.” Here it means activity detached from proper congregational/church belonging and accountability. I will normally retain “unchurchly,” because the polemical category itself matters.
+* “eftergjort” means imitated, counterfeit, artificial, or spurious. “Counterfeit” best preserves Sverdrup’s contrast between Spirit-given lay activity and manufactured imitation.
+* “Menighed” can mean congregation or church in the local sense. I will use “congregation” where a local body is intended.
+* “kirkelig Hjemstavn” literally means “ecclesiastical home” or “church home,” meaning identifiable congregational belonging.
+* “Prøve Aanderne” is the biblical “test the spirits.”
+* “Evne og Gave” is a recurring pair meaning ability/capacity and gift. It must remain stable because Sverdrup makes it a criterion for legitimate freedom.
+* “Tøilesløs” literally means unbridled, unchecked, licentious. “Unbridled” is especially apt because the metaphor of restraint is explicit.
+* “Baand og Tvang og Kontrol” is cumulative: bonds/restraints, coercion, and control.
+* “Lovbud” means legal command, ordinance, or imposed regulation.
+* “tragte efter de bedste Naadegaver” echoes 1 Corinthians 12:31 and must retain “earnestly desire the greater/best gifts.”
+* “Menneskefiskere” is “fishers of men/people,” a direct Gospel echo. Since the requested profile avoids inherited KJV archaism, I will use “fishers of people” only if necessary; however, the historically established biblical expression “fishers of men” has doctrinal and rhetorical force. To avoid archaic pronouns while preserving the biblical echo, I will use “fishers of men.”
+* “Stiftelse” in the phrase “faa sin Stiftelse iblandt os” appears to mean establishment, proper constitution, or firm footing. The context concerns the congregation becoming properly established as an active spiritual body.
+* “Raabed” is textually or lexically difficult in this transcription. Context contrasts gatherings for edification with gatherings for drinking, dancing, worldliness, and disorder. I will avoid inventing a precise cultural referent and render the phrase conservatively as “riotous amusement and worldliness.”
+* “Landstrygere” means vagrants or vagabonds. “Spiritual vagabonds” preserves the insult and rhetorical force.
+* “himmelske Profeter” is probably a polemical historical-theological label, likely alluding to radical spiritualists or Schwärmer. It should remain “heavenly prophets” rather than be interpreted away.
+
+Syntactic Hazards
+
+* Sverdrup repeatedly builds arguments through long chains of clauses linked by “og,” “thi,” “men,” “derfor,” “saa,” and rhetorical questions.
+* The semicolon frequently marks a logical turn rather than merely punctuation. These pivots should generally be preserved.
+* Many paragraphs move from assertion to objection, then to reductio ad absurdum, then to theological conclusion. Breaking them into short modern English sentences would weaken the argumentative pressure.
+* Rhetorical questions often occur in sequences and should remain cumulative.
+* Repetition is intentional, especially “fri,” “levende,” “Aand,” “Pligt,” “Tøilesløshed,” “Vækkelse,” and “fremelske.”
+* Parallel antitheses such as “Livets Uro / Dødens Fred” and “Livets Smerte / Dødens Følelsesløshed” are climactic and must remain structurally parallel.
+* Quotations embedded in Sverdrup’s prose often form the premise for subsequent argument. Their wording must remain recognizably distinct.
+* The prose assumes oral delivery and controversy; interruptions, ironic questions, and repeated “Or…” structures should not be smoothed away.
+
+Theological Hazards
+
+* The entire argument depends on a distinction between externally imposed ecclesiastical control and the inward government of the Holy Spirit.
+* Sverdrup does not argue for autonomous individualism. Freedom means being “driven, led, and controlled by the Spirit of God.”
+* “Duty to bear witness” is universalized to all true Christians, men and women.
+* Spiritual gifts are divine gifts, not acquired competencies produced by training.
+* The contrast between “living” and “dead” pastors/congregations is not metaphorical decoration; it denotes possession or absence of spiritual life.
+* “Awakening” leads organically to lay activity, and lay activity reciprocally advances awakening.
+* “Testing the spirits” is affirmed; the controversy concerns who is spiritually competent to do the testing.
+* The criticism of clerical training does not reject learning as such; it rejects the notion that divine gifts of grace can be manufactured through exercise or institutional education.
+* The analogy of inheritance and birth is theological: one does not earn an inheritance through works; one receives it by birth.
+* The references to Christ as “a new Adam,” miracle, incarnation, death, and resurrection require full doctrinal weight.
+* “Counterfeit lay activity” includes sectarian proselytism and independent itinerant preaching without congregational belonging or reliable testimony.
+* Church order is not dismissed; Sverdrup argues that true order must serve spiritual life rather than suppress it.
+
+Voice Hazards
+
+* The tone is controversial, sharp, and at times sarcastic, but it is not casual.
+* Sverdrup’s irony toward bureaucratic meeting procedure, rationalism, humanism, and artificial ministerial training must remain audible.
+* He alternates polemical severity with pastoral encouragement.
+* He directly implicates pastors, congregations, believers, and opponents.
+* Expressions such as “Has F. A. S. considered what harm he has done…” must not be softened into academic disagreement.
+* The concluding antithesis concerning “the unrest of life” and “the peace of death” carries very high rhetorical intensity and must remain compact and forceful.
+
+STEP 2: IDIOM ANALYSIS
+
+* “det frie Ord” — literally “the free word.” It means unrestricted, candid speech in communal deliberation. “Free speech” would sound modern-political; “the free word” better preserves the 19th-century moral-spiritual sense.
+* “hvad der bor i vort Folk” — literally “what dwells in our people,” meaning what inward convictions genuinely live in them. A flat “what they think” would lose the organic language.
+* “den ægte Klang” — “the genuine ring,” as of metal tested by sound; signifies authenticity.
+* “skifte Ord” — exchange words/views in discussion.
+* “ude af Orden” / “udenfor Themaet” — formal parliamentary phrases, “out of order” and “outside the topic.”
+* “springer den frie, levende Lægmandsvirksomhed” — lay activity “springs” from the inward urge for others’ salvation. The organic metaphor should remain.
+* “prøve Aanderne” — 1 John 4:1: “test the spirits.”
+* “Guds Medarbeidere” — Pauline language, especially 1 Corinthians 3:9: “God’s fellow workers.”
+* “den aandelige bedømmer …” — 1 Corinthians 2:15, concerning the spiritual person judging/discerning all things.
+* “falske Profeter” — broad biblical phrase, especially Matthew 7:15 and related warnings.
+* “Gaverne er givne til Opbyggelse” — Pauline ecclesiology: gifts are given for edification/building up.
+* “Livets Forstyrrelse af Døden” — literally the disturbance caused by life to death. This paradox means that genuine spiritual life inevitably unsettles spiritual deadness.
+* “Regnskabet” — the final reckoning/account before God. “Account” should retain eschatological pressure.
+* “trinvis Fremadskriden fra de lavere til de høiere Lag” — the language of evolutionary development from lower to higher strata. Sverdrup deliberately exposes its incompatibility, as he sees it, with miracle and grace.
+* “Hvad skal jeg gjøre, for at jeg kan arve?” — echoes the rich young ruler/lawyer question about inheriting eternal life: Luke 10:25; 18:18; Mark 10:17.
+* “den som skal arve, maa fødes” — an inheritance requires birth, making the argument implicitly resonate with new birth as well as ordinary inheritance.
+* “tragte efter de bedste Naadegaver” — 1 Corinthians 12:31.
+* “fri som Fuglen” — “free as a bird.”
+* “Faar Folket god og kraftig Føde hjemme…” — spiritual nourishment as food, with possible broad biblical resonance. It should remain metaphorical.
+* “godt Vidnesbyrd” — “good testimony,” a biblical/apostolic criterion for trustworthy workers.
+* “Hvedekorn … Straa og Aks” — the grain of wheat becoming stalk and ear. The metaphor represents ministerial work bearing fruit in active Christians.
+* “Hænderne fulde af Arbeide” — “his hands full of work.”
+* “Officer i Hæren” — the pastor as officer and congregation as soldiers; this is an analogy of leadership, not domination.
+* “Vorder mine Efterfølgere…” — 1 Corinthians 11:1 / 4:16 in older biblical idiom: “Be imitators of me, as I am of Christ.”
+* “Menneskefiskere” — Matthew 4:19; Mark 1:17.
+* “Livets Uro … Dødens Fred” — deliberately paradoxical pastoral aphorism: the disorder accompanying spiritual life is preferable to calm produced by spiritual death.
+
+Literal translation would obscure force in several places:
+
+* “fremelske” cannot simply become “produce”; that would imply human manufacture, precisely what Sverdrup rejects.
+* “drevne” in relation to God’s Spirit should be “driven” or “moved,” not “motivated.”
+* “døde Prester” must not become merely “spiritually ineffective pastors”; Sverdrup intentionally says “dead pastors.”
+* “eftergjort” should not become the bland “inauthentic.” “Counterfeit” preserves the charge.
+* “aandsløse Menighedsorden” means church order devoid of Spirit, not merely “unimaginative church order.”
+* “Livets Uro” must remain “the unrest of life,” not “the complications of vitality.”
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+Section: “The Willmar Meeting and Lay Activity”
+
+* Thesis: fostering lay activity requires allowing its friends to gather and speak freely.
+* Supporting claim: free, candid speech revealed what believing people actually thought.
+* Rebuttal: opponents mischaracterize the Willmar meeting as advocating unbridled lay activity.
+* Doctrinal foundation: anyone who has been saved must confess the Savior and work for the salvation of others; anyone awakened must awaken others.
+* Universal claim: all true Christians, men and women, have a duty to bear witness.
+* Governing principle: freedom in lay activity means being driven, led, and controlled by the Spirit of God.
+* Logical rebuttal: duty and unbridledness exclude one another.
+* Warning: preaching by unconverted clergy or laity is a grave abuse and sin.
+* Conclusion: lay activity should be free precisely in the sense of being governed by God’s Spirit.
+* Qualification: spirits must indeed be tested, but spiritual competence cannot simply be presumed from clerical office or congregational status.
+
+Section: “Objections to Free Lay Activity”
+
+* Opponents charge the Minority with political agitation and transgressing biblical limits.
+* Sverdrup identifies three objections: lack of pastoral/congregational control; bad lay preachers; Pauline church order.
+* Response 1: living pastors and congregations share in the Spirit and therefore participate in discernment; spiritually dead authorities cannot govern spiritual life merely by office.
+* Response 2: bad lay preachers cannot justify restricting good ones, any more than unconverted pastors justify restricting believing pastors.
+* Response 3: Corinthian rules for prophetic meetings cannot be used mechanically where the corresponding spiritual gifts are absent.
+* Conscience appeal: F. A. S. is asked whether his rhetoric against spiritual life has harmed God’s congregation and whether he has considered his accountability before God.
+
+Section: “The Application of the Theory of Evolution to Lay Activity”
+
+* Opponent’s principle: higher gifts normally arise gradually from lower stages rather than by leap or miracle.
+* Sverdrup’s objection: this imports evolutionary/rationalist categories into the kingdom of grace.
+* Christological argument: Christ’s birth, life, death, and resurrection are not gradual development but miracle and new creation.
+* Application to ministry: if ministerial gifts are “acquired” through diligent effort, then lay gifts are conceived similarly.
+* Reductio: gifts cannot be earned in the manner of acquired competencies; inheritance comes by birth, and gifts are received.
+* Critique of staged lay training: reading → exhorting → speaking → prayer meeting → emissary → evangelist risks manufacturing a clerical imitation.
+* Positive thesis: the peculiar value of Norwegian lay activity is that it is not learned or self-acquired but Spirit-driven and given by God.
+* Qualification: there remains a lawful way of “desiring the greater gifts,” through Spirit, life, faith, and prayer.
+
+Section: “On Counterfeit Lay Activity”
+
+* Problem conceded: lay activity can become destructive rather than edifying.
+* Two forms: sectarian proselytism and independent itinerant preaching detached from congregation/church.
+* First cause: false activity flourishes where genuine lay activity has been suppressed.
+* Practical remedy 1: foster strong, free, genuine lay activity within one’s own congregations.
+* Practical remedy 2: require itinerant preachers to have a church home and reliable commendation.
+* Pastoral rule: rejecting genuine preachers is dangerous, but receiving unknown speakers merely because they wish to speak and collect offerings is irresponsible.
+* In supportive congregations: pastor and brethren should foster vigorous lay activity and invite trustworthy outsiders.
+* With unsolicited preachers: test rigorously but fraternally and impartially.
+* In hostile congregations: believers may still gather for edification, exhortation, encouragement, and prayer; but they must exercise heightened care because scandal and abuse will be scrutinized.
+* Final principle: the best safeguard against excess is not suppression but spiritual vigor, love, knowledge, mutual confidence, and mature prudence.
+
+Section: “Pastors and Lay Activity”
+
+* Fear addressed: vigorous lay activity may render pastors unnecessary or diminish their status.
+* Concession: if a pastor opposes what the people value, estrangement may result.
+* Moral premise: if lay activity were evil, the pastor must resist it at any cost.
+* But all parties profess it to be good and something to foster.
+* Therefore: the possibility that it reduces clerical prominence cannot justify suppressing it.
+* Reframing: perhaps pastors have occupied too much space or the wrong space.
+* Organic argument: lay activity is properly the fruit of pastoral labor.
+* Charismatic argument: a layperson may possess a stronger gift of awakening than the pastor.
+* Pastoral vocation: the pastor should rejoice in that gift, support and direct it, because awakened souls create more pastoral work rather than less.
+* Military analogy: a pastor is like an officer who should prefer awake soldiers to sleeping ones.
+* Christological/apostolic analogy: as Christ empowered the apostles, pastors should encourage congregational activity rather than fear it.
+* Climactic conclusion: pastors must not fear fruit, gifts, awakening, toil, or pain; “the unrest of life” is better than “the peace of death.”
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “the one who has himself been saved must confess his Savior and work for the salvation of others” — broad New Testament witness language; compare Romans 10:9–10; Acts 1:8.
+* “duty to bear witness” — Acts 1:8; Matthew 10:32; 1 Peter 2:9.
+* “gifts of grace are from the Spirit of God” — Romans 12:6; 1 Corinthians 12:4–11.
+* “driven, led, and controlled by God’s Spirit” — Romans 8:14; Galatians 5:18, with broader Pauline pneumatology.
+* “test the spirits” — 1 John 4:1.
+* “God’s fellow workers” — 1 Corinthians 3:9.
+* “the spiritual person judges all things…” — 1 Corinthians 2:15.
+* “false prophets” — Matthew 7:15; 24:11 and related passages.
+* “gifts are given for edification” — 1 Corinthians 12–14, especially 14:3–5, 12, 26.
+* “strict order in the congregation’s meetings for edification” — 1 Corinthians 14:26–40, especially “let all things be done decently and in order.”
+* Christ as “a new Adam” — Romans 5:12–21; 1 Corinthians 15:45–49.
+* “What shall I do that I may inherit?” — Luke 10:25; 18:18; Mark 10:17.
+* inheritance/birth reasoning — resonates with John 3 and New Testament language of birth and inheritance, though Sverdrup’s immediate logic is analogical.
+* “earnestly desire the greater gifts” — 1 Corinthians 12:31; compare 14:1.
+* “win souls” — Proverbs 11:30 in traditional Christian idiom, with broad evangelistic usage.
+* “good testimony” and commendation of workers — Acts 6:3; 16:2; 3 John 5–12; 2 Corinthians 3:1.
+* mutual exhortation — Hebrews 3:13; 10:24–25.
+* grain producing stalk and ear — Mark 4:26–29 and broader seed imagery.
+* “Be imitators of me, as I am of Christ” — 1 Corinthians 11:1; compare 4:16.
+* “fishers of men” — Matthew 4:19; Mark 1:17.
+* sleeping versus waking — Romans 13:11; Ephesians 5:14; 1 Thessalonians 5:6.
+* life versus death — pervasive Johannine and Pauline imagery.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The accusations of spiritual death will remain “dead pastors” and “dead congregations.”
+* “gross sin,” “grave transgression,” “rationalistic,” “humanism,” and “harm” will not be softened.
+* Questions directed at F. A. S. will remain accusatory questions of conscience rather than becoming neutral criticism.
+* Irony will remain visible, particularly in the discussion of “evolution,” acquired gifts, and parliamentary meeting control.
+* Repeated contrasts between genuine and counterfeit, life and death, Spirit and institutional compulsion will remain sharp.
+* The final two sentences will retain their aphoristic force without explanatory padding.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” will normally be “must.”
+* “skal” will be “shall,” “is to,” or “must” according to whether the force is declarative, prescriptive, or necessary.
+* “bør” will be “ought to” or “should,” without weakening into “might appropriately.”
+* “kan ikke” will remain “cannot.”
+* “det er nødvendigt” will remain “it is necessary.”
+* “det er rigtig” will remain “it is right.”
+* “vi kan forlange” will remain “we can require,” not merely “we may prefer.”
+* “vær streng” will remain the imperative “be strict.”
+* “lad …” imperatives will remain direct commands.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Lægmandsvirksomhed = lay activity
+* Lægprædikant = lay preacher
+* Vækkelse = awakening
+* vække / vakt = awaken / awakened
+* Naadegave = gift of grace
+* Guds Aand = Spirit of God
+* Vidnepligt = duty to bear witness
+* troende = believing / believer
+* uomvendt = unconverted
+* Opbyggelse = edification; meeting for edification where the noun denotes a gathering
+* frelse = salvation
+* Fortabelse = perdition
+* Menighed = congregation
+* aandeligt Liv = spiritual life
+* død / levende = dead / living
+* prøve Aanderne = test the spirits
+* Guds Medarbeidere = God’s fellow workers
+* Lov = Law where clearly God’s Law is intended
+* Gave = gift
+* Evne = ability
+* Tro = faith
+* Bøn = prayer
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “unbridled” will preserve the bridle metaphor in “tøilesløs.”
+* Lay activity will “spring” from the living urge for others’ salvation.
+* Bonds, coercion, and control will remain concrete restraints.
+* “free as a bird” will remain intact.
+* Spiritual nourishment will remain “food” and “foreign dishes.”
+* The wheat-grain, stalk, and ear image will remain concrete.
+* Pastor as military officer and congregants as soldiers will remain.
+* Awakening/sleep/death imagery will remain throughout.
+* “the unrest of life / peace of death” and “pain of life / insensibility of death” will remain unflattened.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Willmar recollection: warm and grateful.
+* Defense of freedom: confident and doctrinal.
+* Condemnation of unconverted preaching: severe.
+* Response to F. A. S.: polemical and increasingly admonitory.
+* Evolution section: ironic, incredulous, then doctrinally severe.
+* Counterfeit activity section: cautious, practical, and pastoral.
+* Pastors section: initially argumentative, then encouraging, ending in solemn exhortation.
+* These tonal shifts will not be equalized into a uniformly academic register.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long accumulative sentences will be retained where Sverdrup’s reasoning depends on momentum.
+* Repeated “Or…” questions will remain as oral argumentative steps.
+* Semicolons will often be preserved.
+* Parallel phrases will retain approximately the same length and stress.
+* Climactic statements will be allowed to stand without explanatory dilution.
+* Modern English pronouns will be used throughout; no “thou,” “thee,” or “thy.”
+
+STEP 11: ACADEMIC TRANSLATION
+
+LAY ACTIVITY
+
+[Source: “Folkebladet” for October 9; November 6, 13, 20, and 27; and December 18 and 25, 1895; January 15, 1896. — Ed.]
+
+This section appears on pages 289–291 of the original volume. — Present Ed.
+
+THE WILLMAR MEETING AND LAY ACTIVITY
+
+To “foster lay activity” is one of the tasks which the Minority seeks to accomplish according to its ability and opportunity. And when we came together in Willmar, we therefore tried to exchange thoughts on this matter. The free word is, after all, one of the Spirit’s means among human beings, and so we thought it good to hear the independent thoughts of free men. Both pastors and laypeople spoke quite directly and without reserve; and for my own part I can say that it was one of the happiest days I have experienced in America, when at last, for once, it became possible to hear what our people actually think. For this I can say freely, that it is not often at church meetings that what lives within our people comes forth with genuine freshness of spirit and warmth of heart. But at the Willmar meeting we did hear something which, at least to me, seemed to have the genuine ring. Whether every utterance was correctly measured according to the most distorted school theories may be left aside; for that was not at all what was at issue. The question was to hear from the purely practical church people, the believing people among us, what their thoughts were concerning a matter which lay upon their hearts, and concerning which many of them had more experience than many a pastor.
+
+It seems to me that it was a good beginning toward fostering lay activity that its friends were thus allowed to gather, exchange thoughts, and speak with one another. I have little faith that the enemies of lay activity either can or will foster it. The more control its opponents obtain, the easier it will be for them to destroy it.
+
+Now it is said that the friends of lay activity who gathered in Willmar used language that was too free, that their statements were unbridled, and that they wished to have unbridled lay activity. This is a complete misunderstanding. I heard the speeches that were given and the words that were used, and with the greatest joy I observed that free speech was used; for it is certainly not too early that people among us should speak freely and manfully, unhindered by some ill-bred chairman who knows no better than to interrupt the speakers and inform them that they are “out of order” and “outside the topic” and all such nonsense, which belongs neither here nor there, but which has been a means of confusing many an inexperienced speaker and preventing his meaning from coming forth. But this I know: the Christian men, pastors and laypeople, who spoke freely at the Willmar meeting did not speak unbridled words in behalf of unbridled lay activity; they spoke sober and earnest words which both then and later found an echo among believing people.
+
+And I can also very easily show that the freedom in lay activity for which they spoke was not, and could not be, any unbridledness. For the starting point of the entire discussion concerning awakening and lay activity was this: the one who has himself been saved must confess his Savior and work for the salvation of others. The one who has himself been awakened must awaken others. The starting point, therefore, was that all true Christians, men and women, have a duty to bear witness; and out of this living urge to see other people saved from perdition springs that free and living lay activity which is limited by nothing other than ability and gift. But the gifts of grace are from the Spirit of God, and therefore it is the Spirit of God who is here to drive, lead, and control.
+
+That is how the statements fell; that was the thread of the discussion. Where does unbridledness enter here? If the Christian duty to bear witness is the driving force in lay activity, how can the exercise of this duty become unbridledness? Or is it lawful order for us to forbid and hinder what Jesus requires of all his disciples? So long, therefore, as we are speaking of the right, genuine, true, living fulfillment of the Christian duty to bear witness, there is no room for unbridledness. For duty and unbridledness are opposites and exclude one another. All Christians have a complete, full, and undiminished freedom to fulfill their duty to bear witness, and would that they made use of this freedom many times more and better than they do; then we would not have so much sleep and death among congregations and pastors.
+
+But someone may appear and preach without being a Christian, as is the case with many both among pastors and laypeople. This dreadful abuse and gross sin and transgression was by no means passed over in silence at the Willmar meeting. Far from it; it was emphasized with force and earnestness that this was one of the principal reasons for sleep and death, namely, that people dealt far too lightly with this matter. Pastors preached for years without being driven by the Spirit of God. Laypeople appeared and preached, driven by the same motives as unconverted pastors. Was such “unbridledness” approved at the Willmar meeting? I heard no one who believed that such gross transgression of God’s Law could be excused or defended. But it would indeed be “unbridledness” in the highest degree if anyone were to approve such transgressions.
+
+Concerning lay activity it is therefore right to say that it ought to be free, that is, driven by the Spirit of God. Without this it cannot thrive, and no one can foster it by means of bonds and coercion and control; only through the Spirit of God and his freedom and love can it be fostered.
+
+If there is awakening, there will be lay activity, and conversely; and then it is entirely right and proper that in times of spiritual movement it is important to test the spirits and to encourage the genuine and hinder the false. Is any Christian in doubt about that matter? But it will hardly do simply to assert that pastor and congregation are the proper ones to test the spirits when no weight is placed upon whether they are true Christians or not.
+
+Perhaps it is also right to add that the Willmar meeting has by no means exhausted the subject. If God wills, and we live, we shall certainly return to this matter both in word and in deed.
+
+OBJECTIONS TO FREE LAY ACTIVITY
+
+After the Willmar meeting things have become quieter in the Majority concerning the “chain-bound puppies,” and even F. A. S. has begun to write about lay activity in a reasonable and moderate tone.
+
+But when it comes to the Minority and Prof. Sverdrup, both reasonableness and moderation are at an end. That the leaders of the Minority work for lay activity is said to be merely for political purposes; “they have chosen this subject as a powerful means of agitation”; they go “beyond the boundary which God’s own Word has set for it.”
+
+The statements which give F. A. S. occasion for an article of many columns in “Lutheraneren” for October 31 are the following:
+
+“The free and living lay activity is limited by nothing other than ability and gift.”
+
+“But the gifts of grace are from the Spirit of God, and therefore it is the Spirit of God who is here to drive, lead, and control.”
+
+“Concerning lay activity it is therefore right to say that it ought to be free, that is, driven by the Spirit of God.”
+
+These statements are said to contain a “very unsound and dangerous assertion.” And why?
+
+So far as it is possible to understand anything of F. A. S.’s remarks, it is essentially for three reasons:
+
+1. Because pastor and congregation are given no control.
+
+2. Because there are many lay preachers who do not have “the right Spirit,” but are “false prophets and spiritual vagabonds.”
+
+3. Because Paul writes to the Corinthians that there must be strict order in the congregation’s gatherings for edification.
+
+Perhaps I may be permitted to make a few remarks on each of these points.
+
+If pastor and congregation are excluded from controlling lay activity because it is to be driven, led, and controlled by the Spirit of God, then F. A. S. must at any rate be thinking only of dead pastors and dead congregations. Those who themselves have no part in the Spirit of God cannot take part in carrying out the work of the Spirit of God. But living pastors and congregations, or believing people, have the Spirit of God, and therefore they are God’s fellow workers; therefore they also share in the work of driving, leading, and controlling lay activity.
+
+[The printed text here reads: “The spiritual has no right to control the spiritual,” although the immediate argument and the Scripture citation appear to require the opposite contrast, namely the unspiritual and the spiritual.]
+
+As it is written in 1 Corinthians 2:15: “But the spiritual person judges all things, while he himself is judged by no one.” It is only dead congregations that will hinder living lay activity.
+
+That there are many poor lay preachers surely cannot prove that the good lay preachers, who are driven by the Spirit of God, must be restricted in their activity? Or what sort of logic is there in this: Because there are many unconverted pastors, therefore believing pastors must not preach more than once a week? That there are many incompetent preachers is no reason to hinder the competent. We have not been speaking of dishonest laypeople, but of honest ones.
+
+That the congregation in Corinth was to have order in its gatherings surely cannot prove anything against free lay activity. If only F. A. S. could procure for us the prophets of Corinth, then we would surely find some way of arranging the order. But when we have no prophets, what are we to do with an order that shuts them out altogether? For that is what the ordinary Spiritless congregational order which we have does. It is also surely rare to hear of disorder in our Norwegian meetings for edification; at any rate nothing of the kind has yet come to my ears. But there is surely not a single friend of lay activity who believes that disorder in the assemblies would be in accordance with “ability and gift.” We believe that the gifts are given for edification, and we use them for that purpose. If anyone causes any other kind of disturbance than the disturbance which life causes to death, then it is not from the Spirit of God, and neither is it according to “ability and gift.”
+
+Will F. A. S. perhaps tell us, once and for all, how it comes about that whenever the Spirit of God and spiritual life are mentioned in connection with pastors and congregations, he is so ready to warn against those who speak of them, as though they were “heavenly prophets,” Quakers, and other abominations? Has F. A. S. considered what harm he has done to God’s congregation and to our entire people by the manner in which he speaks and writes about spiritual things? Is it not soon time to think about the responsibility and the account that must be given?
+
+THE APPLICATION OF THE THEORY OF EVOLUTION TO LAY ACTIVITY
+
+It is incredible what we are now permitted to see in “Lutheraneren” in the struggle over lay activity. Beside a good contribution by Pastor Winther, which our readers know from “Folkebladet,” there is a piece by F. A. S. concerning the fostering of lay activity, the fundamental thought of which is expressed in the following words:
+
+“It is as though an invariable law in our Lord’s manner of governing were that higher gifts ordinarily are not obtained by a leap or by a miracle, but by a gradual advance from the lower to the higher strata.”
+
+That this favorite theory of the evolutionists also applies to God’s manner of governing in the kingdom of grace, F. A. S. finds proved by the appearance of the prophets in Israel, by the appearance of the Son as the Light of the World, and, at least to a certain degree, by Dr. Luther’s work of Reformation.
+
+We must candidly confess that we do not understand this, and we would therefore gladly ask for an explanation; for it seems incredible to us that F. A. S. can be as rationalistic in his conception as his expression appears to indicate. Or is this really the ripe fruit of Humanism among us? If so, it is not the first time that Humanism has brought the learned to deny the miracle, or at least to explain it away.
+
+What does F. A. S. mean by telling us that the appearance of the prophets and of Jesus Christ and of Luther is “a gradual advance from the lower to the higher strata”? Or how did this repeat itself in Hans Nielsen Hauge? What, in general, is meant by the lower and higher strata? If these expressions are used in the ordinary aristocratic sense, then for our part we have at any rate always heard that Jesus and Luther and Hauge all sprang directly from the “lower strata.” And, what we regard as the principal matter, we have always learned and heard that Jesus Christ and his birth, life, death, and resurrection were precisely not “a gradual advance,” but a miracle, something new, a new Adam. Are we now to remove the miracle and put “gradual advance” in its place? If that is the meaning, then Humanism has indeed gone a little too far among us.
+
+And then the application to the education of pastors and to lay activity!
+
+Concerning the education of pastors F. A. S. says:
+
+“If, God be praised, we can have pastors who through diligent effort have acquired gifts and ability for their work, why should not the layman also attain to acquiring a greater gift of grace by striving after it?”
+
+The entire application of the theory lies there. The pastors “acquire gifts and ability through diligent effort.” Yes, it is exactly like the man versed in the Law who asked: What shall I do in order that I may inherit?
+
+Or does not the contradiction lie plainly in the very expressions? If anyone is to receive an inheritance, works are of no avail; the one who is to inherit must be born. And gifts must surely be received; one cannot acquire them through diligent effort.
+
+But F. A. S. seems to believe that laypeople can obtain the gifts of grace through practice, especially if they are officeholders in the congregation. They can begin by reading, then exhorting, then speaking at discussion meetings, then preferably at prayer meetings; then perhaps they can become emissaries, and then evangelists, “when they are ‘taken into use by entire districts within the church body.’”
+
+This, then, is the evolution of the parish clerk or deacon, which proceeds by practice. Everyone can see that the result of this procedure would be trained, self-acquired lay preachers who would be nothing but an inferior edition of that kind of clerical preacher which has been the fruit of “diligent efforts” in Latin schools and universities without prayer and Spirit. But what then are we to do with lay activity?
+
+For us Norwegian people the peculiar value of lay activity lies precisely in this, that it is not learned and self-acquired, but truly driven by the Spirit and given by God. And precisely for that reason Spirit and life and faith and prayer are required if this gift of grace is to be received; therefore it is also difficult to foster, for this is accomplished neither by legal commands nor money nor human arrangements; and yet there is a lawful way in which we may “earnestly desire the greater gifts,” including the gift of grace belonging to lay activity.
+
+ON COUNTERFEIT LAY ACTIVITY
+
+Pastor Paul Winther has pointed out a particular difficulty connected with lay activity, namely that it sometimes serves dissolution rather than edification. His contribution has in part been included in “Lutheraneren,” and we are grateful for that, although we can plainly see that not even this could take place without malicious side-thrusts.
+
+Lay activity works destructively when it is directly counterfeited, or when it is “unchurchly,” as it is called. The sects have not only pastors but also lay preachers in their service; they have gone out not merely to win souls for God but also to win proselytes for their own church body. And no one has any right to complain about their work unless they enter Christian congregations and engage in proselytizing.
+
+But this is not all. There are also a number of lay preachers, men and women, who, without themselves belonging to any congregation or any church body, travel about and preach in a manner which is not merely questionable, but often highly injurious to true Christianity and genuine congregational life.
+
+I am asked: What is to be done to avoid this danger when lay activity is to be so free?
+
+In the first place, the answer must be that this danger most often has its basis in the fact that lay activity among ourselves has not been vigorous enough or free enough.
+
+When many congregations are situated in such a way that they have no proclamation of God’s Word more often than every third or fourth Sunday, and when they are either expressly forbidden, or prevented by tacit understanding, from gathering more frequently around God’s Word than whenever the pastor comes traveling through, while gatherings for drinking and dancing and other dissipation are entirely common, can anyone then wonder that there are both those who think that in such places whoever is able ought to preach and exhort, whether he be Methodist or Baptist or Lutheran, and those who think that it is better for the people to gather for edification, even if it is ever so counterfeit, than to gather for riotous amusement and worldliness?
+
+The first thing to be done, therefore, is that we seek to promote a genuinely true and free lay activity among ourselves. There is no sense in binding our own lay activity in chains while the foreign kind is as free as a bird. For with all our rules and bonds for lay preachers we bind only the good and willing people in our own congregations; the outsiders and the obstinate we cannot control. But if we ourselves have lay activity in abundance, then counterfeit and unchurchly lay activity cannot do very great harm. If the people receive good and nourishing food at home, then the appetite for foreign dishes will not be so lively.
+
+In the second place, it is necessary for us here in the Free Church to order ourselves in the same manner as in the apostolic congregations and among Hauge’s friends in Norway. To allow people who do not themselves belong to a congregation to travel about and preach in the congregations is entirely indefensible. And to receive preachers without good testimony and reliable recommendation from known brethren is equally senseless. Not that we can prevent people from traveling; but we can require that those who travel be prepared to show both that they have a church home and that they possess the confidence and respect of believing people who have known them for a considerable time.
+
+For as dangerous and harmful as it is to reject those who are genuine preachers, so careless and irresponsible is it to receive those of whom we know nothing except that they are eager to speak and receive an offering. And we shall soon put an end to true lay activity if we are not strict in this respect.
+
+Suppose, then, that we have a congregation which loves lay activity and gladly wishes both to make use of its own gifts of grace and to receive help from other congregations; the first thing, therefore, is this: Let the pastor and the brethren work together to bring about lively and vigorous lay activity in the congregation, and then there will be no room for the sects. Invite the outsiders whom one wishes to have, and then not many uninvited guests will come.
+
+The second thing is this: When preachers come without invitation, be strict in testing and investigating until the matter is clear. Let the testing be done fraternally and impartially.
+
+Where, on the other hand, congregation or pastor, or both, are opposed to lay activity, it is incumbent upon the believers to be doubly careful that no abuse creep in; for they are watched so much more sharply, and offense arises so much more easily. Use the best forces and make every effort to obtain frequent and vigorous meetings for edification.
+
+It is not church order but disorder when pastor or congregation sets itself against lay activity. It is therefore right for the believers to come together for edification and to exhort and encourage one another and pray with one another, whether the majority of the congregation approves it or not, and likewise to invite outside workers as often as possible. But because the hostility is often bitter, it is necessary to have the best workers, and perhaps preferably a capable committee to direct the work. Mutual confidence and manly prudence among the believers will provide security in every respect.
+
+On the whole, all friends of lay activity will discover, more and more as time goes on, that the principal matter is to carry it forward with Spirit and power. In this lies, in reality, the proper safeguard against possible excesses and difficulties. Where there is love, knowledge and mutual confidence will soon follow, and before long one moves as calmly and freely in this work as in anything else that belongs to God’s congregation.
+
+THE PASTORS AND LAY ACTIVITY
+
+There are some who think that matters look dangerous for the pastors if there is to be so much lay activity, and if it is to be so free. They seem to be anxious that the pastors will become superfluous, or at any rate less respected and appreciated.
+
+And there is, of course, something true in this: if the people value lay activity and the pastor sets himself against it, it is not altogether unreasonable to suppose that the result will be coldness and indifference between pastor and congregation, and that an already cool relationship of distance will become considerably cooler.
+
+Yes, it would hardly be so strange if, under such circumstances, the church stood empty when the pastor preached and was full when a layman spoke.
+
+And if lay activity were something evil, there would of course be nothing to be done about the matter; the pastor would have to resist the evil even if it cost him position, honor, popular favor, and money.
+
+But we all proceed from the assumption that lay activity is something good which we are to “foster.” If, then, the good which we foster presses the pastors aside, what then? Shall we cease to foster it?
+
+It could indeed be possible that the pastors have taken too much space; perhaps also that they have not everywhere found precisely the right place.
+
+It has been so long since this question was subjected to serious discussion that it is quite conceivable that various misunderstandings have crept in.
+
+If by lay activity we mean all the Christian work done by others than the pastor, such as Sunday school, visiting the sick, meetings for edification, prayer meetings—in short, the fulfillment of the Christian calling to bear witness in its widest extent—could one not then say that lay activity was precisely the fruit which the pastor’s work ought to bear in the congregation? And could the pastor then complain that his work bore fruit? Or would anyone be satisfied with a grain of wheat that could not tolerate the appearance of stalk and ear because the grain itself lay unseen and perhaps forgotten in the black soil?
+
+Or if, by lay activity, one has especially in mind the use and benefit of one particular gift of grace, does that alter the relationship? In speaking of lay activity we most often think of the gift of awakening, which is often little developed among pastors. If now this gift of awakening came into use, and many more were awakened through a layman than through the pastor, does that make the pastor superfluous? Or is it not more right that souls should be awakened than that the pastor should receive the honor for having awakened the few who are awakened?
+
+If some layman has a greater gift for awakening than the pastor, why should not the pastor rejoice over it, support him according to his ability, encourage and urge him on, exhort and convince?
+
+The pastor does not thereby become superfluous. There is much more to be done in a congregation than to awaken those who sleep. And when awakening comes, it is precisely then that the pastor gets his hands full of work. Do not be afraid of losing employment; if a layman becomes an instrument of awakening, then surely the pastor will have enough to do, provided he himself is a believing man.
+
+The matter is surely this, that the work is so great that every available power is needed. And the pastor will lose neither work nor honor if he receives many fellow workers and many wide-awake members of the congregation who gladly wish to help awaken the others.
+
+In one sense the pastor is like an officer in an army. Would it be an advantage to the officer if all the soldiers slept when the enemy came, so that he had to fight alone? Or was it not better to lead waking soldiers than sleeping ones?
+
+In one sense the relation of pastors to the members of the congregation is like the relation of Jesus to the apostles, as Paul puts it: “Be imitators of me, brothers, as I am an imitator of Christ.” Was Jesus afraid that his apostles would become too active and win too many souls? Did he not encourage and urge them to work; did he not call and send them to be fishers of men?
+
+The pastor who rightly understands his position will do the same. He will lead and direct the movement; he will employ the available powers in the right place and at the right time, according as he receives wisdom and grace. He will not demean himself by becoming jealous of anyone.
+
+If the congregation is to advance and attain its proper establishment among us, then this is a principal matter: the pastors must not be afraid to see fruit from their work. They must rejoice over every gift of grace that grows forth in the congregation, and over every spiritual awakening that comes, even if it brings them much toil and pain. For better is the unrest of life than the peace of death. And better is the pain of life than the insensibility of death.

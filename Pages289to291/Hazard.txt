@@ -1,0 +1,351 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Lægmandsvirksomhed” is more than generic “lay activity.” In this historical ecclesial context it denotes the organized religious work, witness, preaching, exhortation, and spiritual activity of lay Christians. “Lay work” or “lay ministry” are possible renderings; “lay work” best preserves the historically broad sense without importing a modern ecclesiastical office.
+* “Jubilæum” means centenary/jubilee observance rather than merely an anniversary. The title concerns one hundred years of Norwegian lay work.
+* “hin mærkelige Stund” uses “mærkelig” in the older sense of remarkable, noteworthy, memorable—not “strange.”
+* “kjødelige Prester” is a doctrinally charged expression. “Carnal pastors” preserves the Pauline flesh/spirit contrast; “worldly pastors” would weaken its theological force.
+* “Dødens Søvn” is biblical and sermonic: “the sleep of death,” not simply spiritual lethargy.
+* “Gudsprædikant” is literally a preacher of God / God’s preacher. The compound stresses divine commission rather than professional clerical status.
+* “Menneskefisker” is the biblical “fisher of men,” but because the requested profile avoids inherited KJV diction, “fisher of people” would be modern yet less rhetorically traditional. “Fisher of men” is historically exact and unmistakably biblical, but the broader translation constraint favors “fisher of people.” Here “fisher of men” is retained because it functions as a fixed biblical image rather than generalized authorial prose.
+* “Kaldelse” means calling/vocation in the strong theological sense of divine summons.
+* “det nye Livs Gjennembrud” is literally “the breakthrough of the new life,” a pietistic expression for conversion/regeneration becoming experientially manifest.
+* “Omvendelse” must consistently retain “conversion” or “repentance/turning,” depending on syntax. It is not merely moral improvement.
+* “Barnekaar” means the status or condition of being God’s child, with strong biblical adoption language. “Standing as a child of God” is clearer than literal “child-condition.”
+* “Vidnekald” means calling to bear witness, not merely “testimony.”
+* “Kristenstand” means one’s state or standing as a Christian.
+* “Naadegave” is “gift of grace” or “spiritual gift,” with Pauline resonance.
+* “Opvækkelse” is awakening in the revivalist sense: spiritual awakening from death or sleep.
+* “Modsigelsens Tegn” is “a sign spoken against,” echoing Luke 2:34.
+* “Lidelsernes Kald” is a calling marked by suffering, not simply an invitation to suffer.
+* “Besøgelsestid” is the biblical “time of visitation,” carrying the sense of God’s gracious approach and the responsibility to recognize it.
+* “Vanekristendom” means habitual, customary, conventional Christianity—Christianity reduced to inherited practice without spiritual life.
+* “Salt uden Kraft” echoes salt losing its savor/strength.
+* “duer til Gjødsel paa Ageren” belongs to a biblical cluster concerning worthless salt; it should not be prettified.
+
+Syntactic Hazards
+
+* Sverdrup repeatedly accumulates theological claims through long coordinate and subordinate clauses. These should remain syntactically cumulative rather than being converted into short expository English sentences.
+* Hauge’s autobiographical testimony contains long sequences joined by commas and semicolons in which experience, interpretation, desire, doctrine, and vocation unfold as one movement.
+* The repeated “I hundrede Aar…” paragraphs form an anaphoric rhetorical sequence. Their parallelism must be retained.
+* The final paragraphs depend upon repeated questions—“Hundrede Aar til, — hvor er vi da?” and “Skal Kjødet vinde…?”—whose pressure must not be softened.
+* The succession “nord og syd, øst og vest” should remain balanced and oral.
+* Several biblical allusions are embedded without explicit citation and should remain recognizable through syntax and imagery.
+* “Lad hvemte hvem som vil” appears to contain a textual or typographical irregularity. In context it evidently means approximately “Let whoever will [do otherwise / object / say what he will].” Translation must avoid inventing a specific action not actually expressed.
+
+Theological Hazards
+
+* The controlling opposition between flesh and Spirit must remain doctrinally explicit.
+* Hauge’s calling is grounded in experienced salvation and his state as a Christian, not in consciousness of possessing an extraordinary charismatic endowment. This ecclesiological distinction is central to Sverdrup’s argument.
+* Regeneration, conversion, sanctification, and salvation are distinct but related concepts in Hauge’s quoted testimony; they must not be collapsed into a generic “spiritual transformation.”
+* “fødes paany, omvende os, helliges mer og mer” presents a sequence of being born anew, turning/repenting, and progressive sanctification.
+* “Guds Egenskaber” is unusual. It points toward conformity to God’s character/attributes, not acquisition of divinity.
+* The language of awakening from death into life is soteriological, not merely psychological.
+* “Kronen,” “Pilgrimsvandring,” “Kampen,” “Seieren,” “Tronen,” and “Palmegrene” form an eschatological complex drawing on New Testament imagery.
+* The final flesh/Spirit antithesis concerns eternal loss versus eternal salvation and must retain that severity.
+
+Voice Hazards
+
+* The opening is commemorative but immediately becomes confessional and exhortational; it must not sound like detached historical scholarship.
+* Sverdrup’s admiration of Hauge is intense, but the prose remains doctrinally controlled rather than romantic.
+* “Man hædrer ikke sin Sag ved at prise Hauge og udskjælde hans smaa og fattige Efterfølgere” is a pointed rebuke and should remain sharp.
+* “bygge Hauges Grav” is deliberately biblical and accusatory; it must not be reduced to “honor Hauge’s memory.”
+* The last section shifts from historical remembrance to direct responsibility: the centenary becomes a judgment upon the present generation.
+* The final question must retain its stark either/or character: flesh and perdition versus Spirit and salvation.
+
+STEP 2: IDIOM ANALYSIS
+
+* “en raabende Røst” = “a crying voice” / “a voice crying.” It evokes Isaiah 40:3 and the Gospel descriptions of John the Baptist. “A voice crying” best preserves biblical recognition without archaic pronouns.
+* “Dødens Søvn” = “sleep of death,” probably drawing broadly on biblical language such as Psalm 13:3 and New Testament awakening imagery.
+* “Menneskefisker” = “fisher of men/people,” from the Synoptic calling narratives, especially Matthew 4:19 and Mark 1:17.
+* “Herren havde længe draget ham” = the Lord had long been “drawing” him, with likely Johannine resonance, especially John 6:44.
+* “det nye Livs Gjennembrud” is a revivalist/pietistic expression for the decisive emergence of regenerated spiritual life.
+* “Jesu, din søde Forening at smage” refers to the hymn “Jesus, to taste your sweet communion/union.” “Forening” expresses mystical-spiritual union or communion with Jesus.
+* “Verden ligge nedsænket i det onde” closely reflects 1 John 5:19: the whole world lies in wickedness / in the evil one.
+* “forholde med Straffen” means to withhold, delay, or restrain punishment. A literal modern rendering of “forholde” would mislead.
+* “Hvem skal jeg sende” evokes Isaiah 6:8.
+* “indbyde til min store Nadver” evokes the parable of the great supper/banquet, Luke 14:16–24.
+* “nord og syd, øst og vest” recalls biblical gathering language such as Luke 13:29 and other eschatological gathering texts.
+* “Send mig” directly evokes Isaiah’s “Here am I; send me,” though Hauge’s wording is abbreviated.
+* “søge mig, medens jeg findes, kalde paa mig, naar jeg er nær” closely echoes Isaiah 55:6.
+* “fra Mørket til Lyset” echoes Acts 26:18 and the wider New Testament darkness/light motif.
+* “Barnekaar” carries adoption/sonship language, especially Romans 8 and Galatians 4.
+* “Paa dette Kald gik Hauge” means that Hauge acted upon and obeyed this calling. Literal “went on this call” would be obscure.
+* “Aanden drev ham” means the Spirit impelled or constrained him; “drove” may sound violent in modern English but preserves the biblical idiom.
+* “fuldbyrdede han Gjerningen” means he carried the work through to completion.
+* “bygge Hauges Grav” echoes Jesus’ rebuke concerning those who build the tombs of the prophets while failing to heed them, Matthew 23:29–31 / Luke 11:47–48.
+* “Profeternes Grave tager nok vare paa sig selv” is ironic: prophets’ tombs need no anxious guardianship; what matters is following their faith.
+* “kommer vore Veiledere ihu…” is effectively Hebrews 13:7.
+* “Modsigelsens Tegn” echoes Luke 2:34.
+* “kjæmper for Kronen” joins Pauline combat/race imagery with the crown of life/righteousness.
+* “Pilegrimsvandring henimod Evigheden” belongs to Christian pilgrimage language, with Hebrews 11–13 and broader devotional tradition in the background.
+* “kjæmpet Kampen tilende” closely echoes 2 Timothy 4:7.
+* “staar for Tronen med Palmegrene” clearly evokes Revelation 7:9.
+* “kjender vor Besøgelsestid” echoes Luke 19:44.
+* “Salt uden Kraft” echoes Matthew 5:13, Mark 9:50, and Luke 14:34–35.
+* “ikke engang duer til Gjødsel paa Ageren” is especially close to Luke 14:35, where tasteless salt is fit neither for the land nor for the dunghill.
+* “Vaagn op, og styrk det øvrige, som vil dø!” is Revelation 3:2, addressed to Sardis. It functions here as a concluding ecclesial warning.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: the year 1896 cannot be written without remembering that it begins the centenary of Norwegian lay work.
+* Historical-theological claim: Norwegian lay work, with its blessings for people and church, originates in Hauge’s divine calling in 1796.
+* Description of the spiritual condition preceding Hauge: the people were kept in the sleep of death by carnal preaching.
+* Precise historical anchor: Hauge’s calling occurred on April 5, 1796, simultaneously with the experiential breakthrough of new spiritual life.
+* Preparatory spiritual history: God had long drawn Hauge, and his twenty-fifth year had brought increasing seriousness in conversion and seeking the Lord.
+* Hauge’s testimony: ecstatic elevation to God, sorrow for past unfaithfulness, contempt for worldly things, inward transformation, love for God and neighbor, sorrow for sin, desire for others to share grace, love of Scripture, new interpretive illumination, and a Christ-centered doctrinal synthesis.
+* Vocational development within the testimony: perception of the world’s evil, grief over it, prayer for delayed judgment, willingness to serve, divine question of sending, Hauge’s “Send me,” and the inner command to confess God’s name and call people from darkness to light.
+* Sverdrup’s doctrinal interpretation: Hauge’s ministry rested upon living experience of salvation; his witness arose from his Christian standing as a child of God, not from possession of an exceptional spiritual gift that required exercise.
+* Narrative consequence: Hauge obeyed the calling, traveled through Norway, and labored under divine commission.
+* Evaluation of Hauge’s faith: his faith sustained him through labor and suffering; his calling to awaken Norway cost him honor, liberty, health, and finally life.
+* Polemical pivot: genuine honor for Hauge does not consist in praising him while despising his poor successors.
+* Ecclesiological application: preserving Hauge’s spirit is a matter of life for the church because God’s Spirit breathed through his work.
+* Biblical criterion of commemoration: do not merely build prophets’ tombs; remember leaders and imitate their faith.
+* Fourfold centenary retrospect:
+
+  * lay work as a ministry of love and a call to conversion, faith, and salvation;
+  * lay work as a sign spoken against by humanists;
+  * lay work as a vocation of suffering under clerical rejection and popular violence;
+  * lay work as an instrument by which souls were awakened to life.
+* Eschatological expansion: some awakened souls still struggle toward the crown; others have finished the fight and stand before the throne.
+* Final shift to present responsibility: the next hundred years depend upon what “we” are now and whether the church recognizes its visitation and remains faithful.
+* Ultimate antithesis: Spirit calls toward life and blessing; flesh draws toward sin, death, worldliness, and habitual Christianity.
+* Final judgment question: will flesh prevail and “we” perish, or will the Spirit conquer unto eternal salvation?
+* Scriptural imperative: wake up and strengthen what remains before it dies.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “a voice crying” — Isaiah 40:3; Matthew 3:3; Mark 1:3; Luke 3:4; John 1:23.
+* “sleep of death” — Psalm 13:3, with broader biblical death/sleep imagery.
+* “fisher of men” — Matthew 4:19; Mark 1:17.
+* God “drawing” Hauge — probable echo of John 6:44.
+* born anew — John 3:3–7; 1 Peter 1:23.
+* world lying in evil — 1 John 5:19.
+* “Whom shall I send?” — Isaiah 6:8.
+* invitation to the great supper — Luke 14:16–24.
+* gathering from north, south, east, and west — Luke 13:29; compare Matthew 8:11.
+* “Send me” — Isaiah 6:8.
+* “seek me while I may be found…call upon me while I am near” — Isaiah 55:6.
+* “from darkness to light” — Acts 26:18.
+* child-status / adoption — Romans 8:14–17; Galatians 4:4–7.
+* Spirit driving/impelling — comparable to Mark 1:12 and Romans 8:14, though not necessarily a direct quotation.
+* building Hauge’s grave — Matthew 23:29–31; Luke 11:47–48.
+* remembering leaders and following their faith — Hebrews 13:7.
+* “a sign spoken against” — Luke 2:34.
+* crown imagery — 1 Corinthians 9:25; 2 Timothy 4:8; James 1:12; Revelation 2:10.
+* pilgrimage — Hebrews 11:13–16; 13:14.
+* “finished the fight” — 2 Timothy 4:7.
+* throne and palm branches — Revelation 7:9.
+* “time of visitation” — Luke 19:44.
+* Spirit versus flesh — Romans 8:5–13; Galatians 5:16–25.
+* salt losing strength — Matthew 5:13; Mark 9:50; Luke 14:34–35.
+* useless even for manure/field — especially Luke 14:35.
+* “Wake up, and strengthen what remains, which is about to die” — Revelation 3:2.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The opening assertion will remain categorical: “It is impossible to write the new year-number—1896—without remembering…”
+* “carnal pastors” will be retained despite its severity because Sverdrup intends theological indictment, not mild sociological criticism.
+* Hauge’s experience will not be psychologized into an “emotional religious experience”; Sverdrup presents it as divine grace and calling.
+* The cost of Hauge’s vocation will retain the mounting sequence “honor, freedom, health, and finally life.”
+* The rebuke concerning praising Hauge while abusing his followers will remain direct.
+* “a matter of life” will preserve “Livssag,” conveying existential necessity for the church.
+* The four repetitions of “For a hundred years…” will remain intact.
+* “the crude mob” / “the coarse mob” must retain the contempt implicit in “den raa Hob.”
+* The conclusion will preserve the possibility of damnation: “shall the flesh prevail and we be lost…?”
+* The concluding Revelation quotation will remain an imperative rather than being softened into encouragement.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “vi skulde ved hans Aand fødes paany” → “that through his Spirit we should be born anew,” preserving intended divine necessity/purpose.
+* “Hvem skal jeg sende” → “Whom shall I send?” retaining deliberative biblical force.
+* “Du skal bekjende” → “You shall confess my name,” not “you should.”
+* “saa kunde de omvende sig” → “so that they might turn,” preserving possibility/result rather than certainty.
+* “kunde han ikke hvile” → “he could not rest,” maintaining impossibility under the Spirit’s constraint.
+* “faar gaa frem” in the church’s need to proceed in Hauge’s spirit will be rendered strongly: “must be allowed to go forward” would be too passive; “that it go forward” better captures necessity in context.
+* “saa vi skal miste vort Kald” → “so that we shall lose our calling,” preserving consequence rather than weakening to “might.”
+* “Skal Kjødet vinde…” → “Shall the flesh prevail…?” retaining the stark future alternative.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Lægmandsvirksomhed → lay work
+* Kald / Kaldelse → calling
+* Omvendelse → conversion / turn in contexts where the verb is required
+* Naade → grace
+* Naadegave → gift of grace
+* Aand → Spirit when referring to the Holy Spirit; spirit only where human spirit is intended
+* Kristenstand → Christian standing
+* Barnekaar → standing as a child of God
+* Vidnekald → calling to bear witness
+* Frelse → salvation
+* helliges → be sanctified
+* Synd → sin
+* Kjødet → the flesh
+* Opvækkelse → awakening
+* Liv → life, preserving spiritual-life imagery
+* Død → death
+* Besøgelsestid → time of visitation
+* Vanekristendom → habitual Christianity
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “voice crying” will remain a voice-image, not “reformer.”
+* “sleep of death” will remain intact.
+* “fisher of men” will remain intact as biblical metaphor.
+* God’s “drawing” will not be flattened to “influencing.”
+* “breakthrough of the new life” will remain a breakthrough.
+* “my heart burned with love” will remain bodily and vivid.
+* “from darkness to light” will remain unchanged.
+* Hauge moving “from valley to valley” will remain geographical and pilgrim-like.
+* faith “carried” Hauge will remain a supporting-force metaphor.
+* God’s “breath of the Spirit” passing over the people will remain intact.
+* crown, pilgrimage, fight, victory, throne, and palm branches will all remain as one eschatological image-system.
+* the Spirit’s “way” and flesh “drawing” downward will retain spatial/moral movement.
+* salt losing its strength will remain literal biblical imagery rather than being explained as “losing Christian influence.”
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The commemorative opening carries gratitude and solemn remembrance.
+* Hauge’s testimony shifts into wonder, penitence, love, longing, and vocation.
+* Sverdrup’s interpretation restores doctrinal sobriety after the emotional intensity of the testimony.
+* The description of Hauge’s sufferings combines admiration with gravity.
+* The paragraph concerning Hauge’s grave abruptly introduces rebuke and ecclesial criticism.
+* The centenary anaphora alternates between love and opposition, blessing and suffering.
+* The image of believers before the throne introduces eschatological consolation.
+* The final paragraph sharply returns from consolation to warning and judgment.
+* The Revelation quotation ends not in celebration but in vigilance.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long Hauge quotations will preserve their accumulating rhythm.
+* Semicolons will be retained where they mark theological turns.
+* Repeated introductory phrases—especially “For a hundred years”—will not be varied for stylistic elegance.
+* Short declarations following long passages will be allowed to strike with their original force: “On this calling Hauge went.”
+* Repetition of “A hundred years more,—where are we then?” will remain, because it is designed for oral impact.
+* The final flesh/Spirit question will retain its balanced binary structure.
+* The closing scriptural imperative will stand alone.
+
+STEP 11: ACADEMIC TRANSLATION
+
+1. The Centenary of Lay Work
+
+1796—1896.
+
+[Source: “Folkebladet” for 1 January 1896. — Ed.]
+
+This section appears on pages 289–291 of the original volume. — Present Ed.
+
+It is impossible to write the new year-number—1896—without remembering that with it we begin the hundred-year jubilee of Norwegian lay work. For Norwegian lay work, with its unspeakable blessings for our people and our Church, has its origin in that remarkable hour in the history of our country when Hans Nielsen Hauge was called to be a voice crying in a people who, through the preaching of carnal pastors, were held in the sleep of death.
+
+Hauge’s calling to be a preacher of God and a fisher of men took place on 5 April 1796. And this calling took place at the same time as “the breakthrough of the new life” in him. The Lord had long drawn him with love and fatherly goodness, and in the course of his twenty-fifth year his conversion and his seeking after the Lord had especially become a matter of earnestness.
+
+Then it happened, on 5 April 1796, that he was out working in the fields and, while he worked, sang the hymn “Jesus, to taste your sweet communion.” He himself relates: “When I had sung the second verse, my mind was so lifted up to God that I was no longer conscious of myself, nor can I express what took place in my soul. The first thing of which I became conscious when my understanding gathered itself again was that I regretted that I had not served the dear God, who is good above all things; now it seemed to me that nothing in the world was worth regarding. It was a glory that no tongue can express; my soul felt something supernatural, divine, and blessed. I know all the good in my spirit that followed from that hour onward, especially the inward love toward God and my neighbor,—that I had an entirely changed mind, a sorrow over all sins, a desire that people should become partakers with me in the same grace, a particular delight in reading Holy Scripture, especially Jesus’ own teaching, together with new light to understand it and to bind together the teachings of all God’s men toward the one end, that Christ has come to be our Savior, that through his Spirit we should be born anew, turn, and be sanctified more and more according to the character of God, to serve the triune God alone, in order to ennoble and prepare our soul for eternal blessedness.”
+
+“It was then as though I saw the world lying sunk in evil, over which I grieved greatly, and I prayed that God would withhold the punishment, so that some might turn. I now gladly wished to serve God and prayed that he would reveal to me what I should do.”
+
+“I then heard the voice of the Lord, which said: Whom shall I send to invite to my great supper and to call from every side, north and south, east and west? I said: Send me; for my heart burned with love for all people.”
+
+“It resounded within me: You shall confess my name before people, admonish them to turn and seek me while I may be found, to call upon me when I am near and touch their hearts, so that they might turn from darkness to light.”*
+
+* A. Chr. Bang, Hans Nielsen Hauge og hans Samtid, pp. 21–22. — Ed.
+
+This is Hauge’s calling, which bears witness clearly enough that his whole work rests upon the living experience of salvation, that his calling to bear witness proceeds from his Christian standing and his standing as a child of God, not from a consciousness of some particularly great gift of grace that had to be put to use.
+
+On this calling Hauge went. In faith in God and in the task that had been set before him, to invite people to come to God, he wandered through Norway from valley to valley. He was certain that the Lord had called him and sent him; therefore he could not rest so long as the Spirit drove him. No one can read the history of his life without feeling himself seized by the mighty faith that carried Hans Nielsen Hauge in his labor and his sufferings. He had been called to awaken the Norwegian people, and in the strength of the Lord he completed the work, which cost him everything—honor, freedom, health, and at last life itself.
+
+This beautiful remembrance from the history of the Norwegian people speaks for itself. Let whoever will do otherwise. One does not honor one’s cause by praising Hauge and reviling his small and poor followers. For us it is not of the slightest value to build Hauge’s grave; but it is, on the contrary, a matter of life for our whole Church that it go forward in Hauge’s spirit, because it is a breath of the Spirit of God that through him has passed over our people. The graves of the prophets can well take care of themselves; but we do well when we “remember our guides and follow their faith, when we consider the outcome of their way of life.”
+
+For a hundred years Norwegian lay work has been a work of love among the people, an earnest call from God to conversion and faith and salvation.
+
+For a hundred years it has been a sign spoken against, which the humanists have despised, mocked, and persecuted.
+
+For a hundred years it has been a calling of suffering; many of the pastors have rejected it, and the crude mob has cast curses and stones after it.
+
+For a hundred years it has done its work for the awakening of many souls unto life; and while many of these awakened souls still strive for the crown on their pilgrimage toward eternity, there are also many of these awakened souls who have fought the fight to its end and won the victory and stand before the throne with palm branches in their hands.
+
+A hundred years more,—where are we then? Yes, that depends upon what we are today and during the remainder of our days. A hundred years more,—where are the Norwegian people and the Norwegian Church then? Yes, that depends upon whether we know our time of visitation, whether we remain faithful in the calling. The Spirit of Christ entices and calls our people to follow the way of the Spirit and to live a life unto blessing for themselves and for our fellow human beings. The flesh draws and tempts us to sink down into sin and death, into worldliness and habitual Christianity, so that we shall lose our calling and become salt without strength, so that we are not even fit for manure upon the field. Shall the flesh prevail and we be lost, or shall the Spirit conquer, unto our eternal salvation?
+
+“Wake up, and strengthen what remains, which is about to die!”
+
+
+The machine translation of the hymn is shown here. It has not been adjusted for meter, rhyme, or singability. For comparison, a freer historical English adaptation, which often softens or reshapes the original wording, may be found at Hymnary.org under the title Jesus, I Long for Thy Blessed Communion. Ref: https://hymnary.org/text/jesus_i_long_for_thy_blessed_communion?utm_source=chatgpt.com for a softer historical adaptation.
+
+
+1
+
+Jesus, to taste your sweet union,
+My heart and my mind both long and press on;
+Tear me from all that still holds me back,
+Draw me into you, my Beginning!
+Show me quite clearly my misery and trouble,
+Show me the abyss of corruption in me,
+That fallen nature may bow itself unto death,
+And the spirit alone must live for you!
+
+2
+
+Strengthen me mightily within my soul,
+That I may discover what the Spirit can do;
+Take captive for yourself my speech and my mind,
+Lead me and draw me, weak as I go!
+Myself, and all that is mine, I gladly would lose,
+If only you alone may dwell in the soul,
+And at last whatever disturbs my inward rest
+Must quietly slip out through the door.
+
+3
+
+O, if only one could learn the one thing:
+To offer oneself up with heart and mind!
+O, might Jesus alone become my all!
+I am, alas, still far from it;
+Jesus, who gave me an ear that can hear,
+Reach out to me also your mighty hand,
+That henceforth I may conduct my walk
+Truly as a Christian, in a spirit of holiness!
+
+4
+
+Hear, O Jesus, your cooing dove;
+Shepherd, seek out your wandering lamb!
+Bear me among the myrrh a refreshing grape;
+Cleanse my heart from sin and from shame!
+Do not let me remain in the mere existence of the letter,
+Which only outwardly makes one respectable and fine;
+Let the Spirit inscribe the Law upon my heart,
+That in truth I may call myself yours!
+
+5
+
+Jesus, when will you at last give me rest?
+The burden presses hard—ah, take it from me!
+When shall I see you smile upon me in kindness?
+Rise up and rebuke the roaring sea!
+Dearest Jesus, you must have mercy;
+Do not hide your face forever from me!
+Noblest wealth for those who are poor in spirit,
+Fill my emptied heart with yourself!
+
+6
+
+Do not let me, O Jesus, cry out in vain;
+See how hungry and weary the soul is!
+Let us, Immanuel, be together;
+If I have you alone, then I am satisfied!
+Once you said: They would faint
+If I sent them away hungry—
+Eternal Love, can you then deny
+Hungry souls even a little to eat?
+
+7
+
+Most gracious Jesus, now I will bind myself
+To your precious covenant of promise:
+Ask and seek, and you shall receive and find!
+So your truthful lips themselves have said.
+With the woman from the land of Canaan
+I will cry after you, and I will not be silent,
+Until at last you must set your seal upon the prayer:
+Amen, yes, Amen: let it be to you as you will!
+
