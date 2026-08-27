@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  25 AUG 2026 23:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  26 AUG 2026 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -558,7 +558,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [3]
-<OpenImage2.png, id=315, 1593.70406pt x 365.86688pt>
+<OpenImage2.png, id=320, 1593.70406pt x 365.86688pt>
 File: OpenImage2.png Graphic file (type png)
 <use OpenImage2.png>
 Package pdftex.def Info: OpenImage2.png  used on input line 2.
@@ -636,7 +636,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [12] (Pages26to53/Pages26to36.tex
-<OpenImage3.png, id=355, 926.71219pt x 169.38281pt>
+<OpenImage3.png, id=360, 926.71219pt x 169.38281pt>
 File: OpenImage3.png Graphic file (type png)
 <use OpenImage3.png>
 Package pdftex.def Info: OpenImage3.png  used on input line 5.
@@ -714,7 +714,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [21] (Pages54to64/Pages54to64.tex
-<OpenImage.png, id=399, 1593.70406pt x 365.86688pt>
+<OpenImage.png, id=404, 1593.70406pt x 365.86688pt>
 File: OpenImage.png Graphic file (type png)
 <use OpenImage.png>
 Package pdftex.def Info: OpenImage.png  used on input line 4.
@@ -1688,16 +1688,16 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: 4730C0892A73E21855843A34BAD464D6;12249.
+(rerunfilecheck)             Checksum: 99A54BD074BB466616208979546E0087;12538.
  ) 
 Here is how much of TeX's memory you used:
- 12261 strings out of 474486
- 200904 string characters out of 5743754
+ 12266 strings out of 474486
+ 201000 string characters out of 5743754
  1942542 words of memory out of 5000000
- 33903 multiletter control sequences out of 15000+600000
+ 33906 multiletter control sequences out of 15000+600000
  629487 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,13n,67p,2114b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,13n,67p,2114b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
@@ -1706,9 +1706,9 @@ C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 /Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (143 pages, 1797810 bytes).
+Output written on WORKFLOW.pdf (143 pages, 1799043 bytes).
 PDF statistics:
- 988 PDF objects out of 1000 (max. 8388607)
- 211 named destinations out of 1000 (max. 500000)
- 39856 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 995 PDF objects out of 1000 (max. 8388607)
+ 213 named destinations out of 1000 (max. 500000)
+ 39864 words of extra memory for PDF output out of 42996 (max. 10000000)
 
