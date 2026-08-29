@@ -99,7 +99,7 @@ This project is an independent scholarly and technical effort and is not affilia
 
 It is intended for educational and research purposes only and does not claim doctrinal or ecclesiastical authority.
 
-Please see [Disclaimer](DISCLAIMER.txt) for the full disclaimer and scope of responsibility.
+Please see [Disclaimer](DISCLAIMER.md) for the full disclaimer and scope of responsibility.
 
 
 
